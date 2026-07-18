@@ -1,0 +1,743 @@
+sale_id,batch_id,customer_id,product_id,product_name,sale_date,city_sold,customer_type,quantity_sold_kg,selling_price_kes_per_kg,discount_percent,delivery_cost_kes,payment_status,days_to_customer_payment,sales_channel,order_priority
+S00001,B00740,C0054,P09,Barley,2025-06-17,Mombasa,Relief/NGO Buyer,255,55.08,0.0,261.33,Paid,10,Tender/Institutional Order,Standard
+S00002,B00313,C0014,P02,Beans,2025-06-21,Kisumu,Relief/NGO Buyer,467,174.33,0.0,357.94,Paid,4,Tender/Institutional Order,Standard
+S00003,B00783,C0009,P06,Millet,2025-09-18,Nyeri Town,Supermarket,1875,90.31,0.0,857.53,Paid,10,Agent-Brokered,Scheduled
+S00004,B00535,C0038,P06,Millet,2026-06-21,Nairobi,Miller,1221,101.78,0.0,976.73,Paid,11,Agent-Brokered,Standard
+S00005,B00649,C0045,P02,Beans,2025-10-05,Nakuru,Hospital,192,176.41,0.0,0.0,Paid,6,Tender/Institutional Order,Standard
+S00006,B00507,C0034,P01,Maize,2026-01-15,Nairobi,Retailer,254,57.91,3.5,0.0,Paid,4,Standing Contract,Standard
+S00007,B00795,C0019,P01,Maize,2025-05-09,Mombasa,Restaurant,984,59.99,0.0,479.49,Paid,9,Standing Contract,Standard
+S00008,B00673,C0012,P06,Millet,2025-06-29,Meru Town,Wholesaler,1121,114.66,0.0,0.0,Paid,7,Direct Sale,Scheduled
+S00009,B00896,C0041,P02,Beans,2025-12-25,Eldoret,Relief/NGO Buyer,756,158.41,0.0,409.2,Overdue,51,Tender/Institutional Order,Standard
+S00010,B00337,C0001,P03,Rice,2025-04-16,Nakuru,Wholesaler,377,104.37,0.0,290.01,Pending,32,Agent-Brokered,Standard
+S00011,B00116,C0040,P01,Maize,2026-02-04,Meru Town,Supermarket,1010,61.16,0.0,832.97,Paid,9,Direct Sale,Urgent
+S00012,B00875,C0057,P02,Beans,2025-03-23,Nakuru,School,610,149.07,7.6,749.84,Paid,5,Tender/Institutional Order,Standard
+S00013,B00666,C0058,P05,Sorghum,2025-10-03,Eldoret,Hospital,488,86.07,0.0,414.89,Paid,4,Tender/Institutional Order,Standard
+S00014,B00197,C0022,P08,Cowpeas,2025-10-27,Nyeri Town,Miller,1108,145.03,0.0,0.0,Paid,4,Tender/Institutional Order,Standard
+S00015,B00261,C0051,P05,Sorghum,2025-04-16,Nakuru,Wholesaler,1025,77.34,0.0,1069.37,Paid,1,Standing Contract,Standard
+S00016,B00086,C0052,P06,Millet,2025-08-08,Meru Town,School,299,109.28,2.8,341.67,Pending,27,Tender/Institutional Order,Standard
+S00017,B00591,C0011,P02,Beans,2026-01-16,Thika,Miller,971,108.38,0.0,453.13,Pending,5,Tender/Institutional Order,Standard
+S00018,B00758,C0017,P06,Millet,2026-06-27,Mombasa,Retailer,217,120.5,0.0,115.71,Paid,11,Direct Sale,Standard
+S00019,B00276,C0024,P02,Beans,2026-02-22,Kisumu,Retailer,715,139.07,6.6,368.72,Pending,13,Standing Contract,Standard
+S00020,B00208,C0015,P05,Sorghum,2026-06-12,Nairobi,Retailer,387,52.3,0.0,457.9,Paid,6,Tender/Institutional Order,Scheduled
+S00021,B00797,C0023,P04,Wheat,2025-03-11,Kisumu,Retailer,305,66.3,4.7,170.14,Overdue,34,Direct Sale,Scheduled
+S00022,B00355,C0022,P01,Maize,2026-06-21,Nyeri Town,Miller,1010,75.85,0.0,0.0,Paid,16,Tender/Institutional Order,Scheduled
+S00023,B00891,C0059,P02,Beans,2026-02-02,Thika,Supermarket,563,147.07,3.3,0.0,Paid,9,Agent-Brokered,Standard
+S00024,B00074,C0048,P03,Rice,2025-05-11,Meru Town,Hospital,1133,109.23,0.0,1207.2,Pending,26,Tender/Institutional Order,Urgent
+S00025,B00746,C0016,P01,Maize,2026-01-28,Nyeri Town,Miller,828,60.77,6.8,0.0,Paid,15,Standing Contract,Standard
+S00026,B00232,C0004,P09,Barley,2026-06-27,Meru Town,Retailer,244,53.4,0.0,167.62,Paid,9,Direct Sale,Standard
+S00027,B00118,C0006,P05,Sorghum,2026-06-13,Meru Town,Supermarket,78,64.2,0.0,0.0,Pending,10,Direct Sale,Scheduled
+S00028,B00749,C0050,P01,Maize,2026-06-25,Meru Town,Retailer,1052,63.05,0.0,731.96,Paid,7,Direct Sale,Standard
+S00029,B00487,C0017,P01,Maize,2026-01-29,Mombasa,Retailer,301,66.1,0.0,169.75,Paid,5,Standing Contract,Standard
+S00030,B00063,C0032,P03,Rice,2025-12-19,Kisumu,Wholesaler,233,104.79,0.0,206.14,Paid,6,Agent-Brokered,Urgent
+S00031,B00380,C0014,P07,Green Grams,2025-06-01,Kisumu,Relief/NGO Buyer,491,147.33,0.0,448.73,Paid,8,Tender/Institutional Order,Standard
+S00032,B00294,C0050,P01,Maize,2026-06-25,Meru Town,Retailer,974,59.85,0.0,911.38,Paid,8,Agent-Brokered,Standard
+S00033,B00469,C0017,P06,Millet,2025-07-24,Mombasa,Retailer,227,137.67,0.0,153.73,Paid,11,Agent-Brokered,Standard
+S00034,B00475,C0026,P07,Green Grams,2026-01-18,Thika,Wholesaler,1723,182.21,0.0,1012.69,Paid,11,Direct Sale,Standard
+S00035,B00640,C0021,P01,Maize,2025-05-01,Thika,Retailer,363,63.33,0.0,0.0,Paid,8,Direct Sale,Standard
+S00036,B00744,C0047,P04,Wheat,2026-06-24,Nakuru,Restaurant,470,69.1,0.0,0.0,Pending,23,Direct Sale,Standard
+S00037,B00070,C0025,P05,Sorghum,2025-08-08,Eldoret,Wholesaler,1239,75.65,1.9,1331.73,Paid,6,Agent-Brokered,Standard
+S00038,B00266,C0010,P04,Wheat,2026-02-28,Thika,Hospital,1072,63.78,0.0,0.0,Paid,15,Tender/Institutional Order,Scheduled
+S00039,B00122,C0045,P02,Beans,2025-06-04,Nakuru,Hospital,336,169.24,0.0,0.0,Paid,6,Tender/Institutional Order,Standard
+S00040,B00246,C0030,P03,Rice,2025-11-12,Mombasa,Miller,562,103.92,5.5,440.94,Pending,29,Agent-Brokered,Scheduled
+S00041,B00026,C0004,P04,Wheat,2025-09-19,Meru Town,Retailer,240,65.27,0.0,157.05,Paid,1,Direct Sale,Standard
+S00042,B00663,C0006,P07,Green Grams,2025-07-09,Meru Town,Supermarket,590,171.72,0.0,0.0,Paid,7,Direct Sale,Urgent
+S00043,B00752,C0053,P01,Maize,2025-05-29,Meru Town,Restaurant,313,59.03,0.0,273.86,Paid,7,Standing Contract,Standard
+S00044,B00520,C0002,P01,Maize,2026-02-03,Nakuru,Restaurant,405,55.15,7.0,375.01,Pending,22,Tender/Institutional Order,Urgent
+S00045,B00555,C0013,P04,Wheat,2025-11-09,Nairobi,Restaurant,251,55.99,0.0,123.19,Paid,13,Standing Contract,Standard
+S00046,B00108,C0009,P06,Millet,2026-01-26,Nyeri Town,Supermarket,1471,118.87,7.9,896.84,Pending,10,Agent-Brokered,Standard
+S00047,B00644,C0057,P02,Beans,2025-11-04,Nakuru,School,254,124.97,6.4,236.52,Paid,3,Tender/Institutional Order,Scheduled
+S00048,B00230,C0033,P06,Millet,2026-01-28,Nakuru,Miller,601,145.45,0.0,778.79,Paid,1,Direct Sale,Standard
+S00049,B00417,C0033,P02,Beans,2026-05-28,Nakuru,Miller,1643,128.33,0.0,1925.18,Paid,15,Standing Contract,Scheduled
+S00050,B00254,C0028,P05,Sorghum,2025-06-10,Nyeri Town,School,960,75.5,0.0,0.0,Paid,10,Tender/Institutional Order,Scheduled
+S00051,B00454,C0003,P01,Maize,2025-10-17,Mombasa,Wholesaler,1131,60.55,0.0,492.09,Paid,3,Direct Sale,Urgent
+S00052,B00686,C0019,P01,Maize,2025-04-15,Mombasa,Restaurant,427,60.21,6.7,427.77,Paid,6,Standing Contract,Urgent
+S00053,B00536,C0002,P01,Maize,2026-05-07,Nakuru,Restaurant,684,65.25,1.2,563.24,Paid,14,Direct Sale,Standard
+S00054,B00864,C0035,P01,Maize,2026-01-25,Nairobi,Wholesaler,285,61.42,0.0,131.01,Overdue,43,Tender/Institutional Order,Standard
+S00055,B00149,C0058,P05,Sorghum,2025-06-06,Eldoret,Hospital,680,73.92,0.0,469.6,Paid,7,Tender/Institutional Order,Scheduled
+S00056,B00764,C0043,P03,Rice,2026-05-25,Nakuru,Supermarket,261,91.04,0.0,0.0,Paid,5,Direct Sale,Standard
+S00057,B00455,C0057,P01,Maize,2026-04-05,Nakuru,School,268,63.59,0.0,232.6,Paid,3,Tender/Institutional Order,Scheduled
+S00058,B00644,C0049,P02,Beans,2025-09-27,Nyeri Town,Retailer,1077,168.16,0.0,0.0,Pending,29,Standing Contract,Standard
+S00059,B00279,C0041,P03,Rice,2025-06-01,Eldoret,Relief/NGO Buyer,575,107.09,0.0,555.36,Pending,33,Tender/Institutional Order,Standard
+S00060,B00301,C0029,P03,Rice,2026-05-05,Kisumu,Wholesaler,1011,98.99,0.0,1311.28,Paid,4,Direct Sale,Scheduled
+S00061,B00153,C0050,P01,Maize,2025-09-04,Meru Town,Retailer,848,60.67,0.0,358.6,Paid,16,Direct Sale,Scheduled
+S00062,B00435,C0054,P04,Wheat,2026-06-03,Mombasa,Relief/NGO Buyer,766,61.74,0.0,972.56,Overdue,40,Tender/Institutional Order,Standard
+S00063,B00227,C0053,P09,Barley,2026-06-12,Meru Town,Restaurant,413,51.6,0.0,455.1,Paid,11,Tender/Institutional Order,Standard
+S00064,B00422,C0035,P01,Maize,2026-06-08,Nairobi,Wholesaler,464,60.89,5.4,443.75,Pending,31,Agent-Brokered,Standard
+S00065,B00349,C0040,P01,Maize,2025-06-27,Meru Town,Supermarket,693,64.87,0.0,574.42,Paid,8,Agent-Brokered,Standard
+S00066,B00546,C0005,P01,Maize,2025-05-02,Mombasa,Retailer,311,56.89,6.8,338.41,Pending,17,Standing Contract,Standard
+S00067,B00490,C0051,P05,Sorghum,2025-09-03,Nakuru,Wholesaler,502,79.58,0.0,325.6,Overdue,60,Direct Sale,Urgent
+S00068,B00689,C0044,P04,Wheat,2025-11-07,Nyeri Town,School,281,56.95,0.0,138.35,Paid,3,Tender/Institutional Order,Standard
+S00069,B00144,C0043,P04,Wheat,2025-05-15,Nakuru,Supermarket,378,63.71,0.0,0.0,Paid,14,Standing Contract,Scheduled
+S00070,B00466,C0003,P01,Maize,2026-06-18,Mombasa,Wholesaler,366,68.25,0.0,408.09,Pending,21,Direct Sale,Standard
+S00071,B00561,C0047,P04,Wheat,2026-04-09,Nakuru,Restaurant,250,65.63,0.0,0.0,Paid,6,Agent-Brokered,Standard
+S00072,B00540,C0017,P06,Millet,2025-07-19,Mombasa,Retailer,239,101.91,0.0,147.81,Paid,5,Agent-Brokered,Urgent
+S00073,B00613,C0007,P07,Green Grams,2025-07-07,Nairobi,Retailer,793,180.7,0.0,347.25,Paid,2,Standing Contract,Standard
+S00074,B00210,C0007,P02,Beans,2025-05-31,Nairobi,Retailer,1077,157.42,0.0,1221.05,Paid,6,Direct Sale,Standard
+S00075,B00830,C0029,P04,Wheat,2025-03-10,Kisumu,Wholesaler,491,54.69,0.0,207.07,Overdue,44,Direct Sale,Scheduled
+S00076,B00826,C0052,P06,Millet,2025-05-30,Meru Town,School,414,134.48,0.0,258.27,Paid,3,Tender/Institutional Order,Standard
+S00077,B00190,C0030,P05,Sorghum,2025-09-06,Mombasa,Miller,973,71.4,0.0,539.87,Paid,8,Direct Sale,Standard
+S00078,B00317,C0035,P07,Green Grams,2026-05-05,Nairobi,Wholesaler,761,190.55,0.0,730.27,Paid,11,Agent-Brokered,Standard
+S00079,B00768,C0055,P02,Beans,2026-04-17,Kisumu,Relief/NGO Buyer,349,125.9,0.0,0.0,Overdue,44,Tender/Institutional Order,Urgent
+S00080,B00715,C0036,P05,Sorghum,2025-11-03,Eldoret,Supermarket,513,64.1,0.0,0.0,Overdue,57,Direct Sale,Standard
+S00081,B00592,C0046,P06,Millet,2026-01-12,Thika,School,413,133.34,0.0,462.0,Pending,13,Tender/Institutional Order,Scheduled
+S00082,B00028,C0021,P03,Rice,2025-02-17,Thika,Retailer,505,93.14,0.0,0.0,Paid,14,Standing Contract,Standard
+S00083,B00032,C0052,P06,Millet,2026-02-21,Meru Town,School,277,128.59,0.0,252.42,Paid,9,Tender/Institutional Order,Scheduled
+S00084,B00651,C0038,P06,Millet,2026-03-14,Nairobi,Miller,669,119.06,0.0,408.92,Paid,16,Direct Sale,Urgent
+S00085,B00232,C0021,P09,Barley,2026-06-25,Thika,Retailer,791,51.37,0.0,0.0,Paid,21,Tender/Institutional Order,Standard
+S00086,B00612,C0053,P01,Maize,2026-03-03,Meru Town,Restaurant,391,56.85,5.3,331.34,Paid,6,Standing Contract,Standard
+S00087,B00800,C0036,P05,Sorghum,2025-06-23,Eldoret,Supermarket,291,76.6,0.0,0.0,Paid,6,Agent-Brokered,Standard
+S00088,B00889,C0058,P06,Millet,2026-04-02,Eldoret,Hospital,343,111.33,0.0,345.47,Paid,7,Tender/Institutional Order,Standard
+S00089,B00692,C0057,P01,Maize,2025-07-13,Nakuru,School,94,55.55,0.0,97.84,Paid,11,Tender/Institutional Order,Standard
+S00090,B00892,C0005,P01,Maize,2026-06-28,Mombasa,Retailer,843,60.75,0.0,1088.0,Pending,30,Direct Sale,Scheduled
+S00091,B00101,C0047,P04,Wheat,2026-04-23,Nakuru,Restaurant,205,69.62,0.0,0.0,Paid,5,Tender/Institutional Order,Scheduled
+S00092,B00623,C0012,P01,Maize,2026-03-07,Meru Town,Wholesaler,605,64.2,0.0,0.0,Paid,10,Standing Contract,Standard
+S00093,B00150,C0022,P01,Maize,2026-05-28,Nyeri Town,Miller,1198,72.8,0.0,0.0,Paid,8,Standing Contract,Standard
+S00094,B00373,C0001,P03,Rice,2026-03-10,Nakuru,Wholesaler,1398,85.48,5.5,1186.04,Pending,24,Standing Contract,Standard
+S00095,B00719,C0044,P05,Sorghum,2026-03-31,Nyeri Town,School,295,78.41,0.0,283.16,Overdue,70,Tender/Institutional Order,Scheduled
+S00096,B00397,C0051,P07,Green Grams,2025-08-02,Nakuru,Wholesaler,1506,189.79,1.7,864.21,Paid,7,Agent-Brokered,Standard
+S00097,B00629,C0030,P04,Wheat,2026-06-24,Mombasa,Miller,643,55.15,7.7,541.21,Pending,6,Direct Sale,Standard
+S00098,B00181,C0059,P02,Beans,2025-11-29,Thika,Supermarket,774,172.04,0.0,0.0,Pending,25,Agent-Brokered,Standard
+S00099,B00784,C0019,P01,Maize,2025-05-14,Mombasa,Restaurant,526,63.92,0.0,442.95,Paid,4,Tender/Institutional Order,Standard
+S00100,B00104,C0032,P06,Millet,2025-12-23,Kisumu,Wholesaler,605,139.12,0.0,732.2,Paid,8,Agent-Brokered,Urgent
+S00101,B00544,C0035,P01,Maize,2025-03-22,Nairobi,Wholesaler,841,59.95,0.0,895.4,Paid,12,Direct Sale,Standard
+S00102,B00345,C0045,P02,Beans,2025-03-15,Nakuru,Hospital,50,143.37,2.4,0.0,Paid,10,Tender/Institutional Order,Standard
+S00103,B00186,C0060,P01,Maize,2025-04-16,Nairobi,Relief/NGO Buyer,559,70.19,0.0,0.0,Paid,8,Tender/Institutional Order,Standard
+S00104,B00472,C0015,P05,Sorghum,2025-04-30,Nairobi,Retailer,605,76.15,0.0,612.48,Paid,6,Standing Contract,Standard
+S00105,B00395,C0057,P08,Cowpeas,2026-04-08,Nakuru,School,536,112.58,6.5,336.65,Paid,0,Tender/Institutional Order,Urgent
+S00106,B00853,C0003,P03,Rice,2025-09-15,Mombasa,Wholesaler,361,90.12,0.0,203.97,Paid,12,Standing Contract,Standard
+S00107,B00340,C0044,P05,Sorghum,2026-06-22,Nyeri Town,School,194,71.33,0.0,232.23,Paid,7,Tender/Institutional Order,Standard
+S00108,B00221,C0055,P07,Green Grams,2025-11-14,Kisumu,Relief/NGO Buyer,259,160.93,3.7,0.0,Paid,16,Tender/Institutional Order,Urgent
+S00109,B00657,C0005,P01,Maize,2025-06-12,Mombasa,Retailer,485,64.86,0.0,528.7,Paid,10,Direct Sale,Standard
+S00110,B00112,C0037,P08,Cowpeas,2026-01-09,Thika,Supermarket,409,104.26,0.0,307.64,Paid,6,Direct Sale,Standard
+S00111,B00598,C0012,P01,Maize,2025-08-02,Meru Town,Wholesaler,254,70.67,0.0,0.0,Paid,14,Agent-Brokered,Standard
+S00112,B00094,C0021,P01,Maize,2026-02-26,Thika,Retailer,486,62.74,0.0,0.0,Paid,14,Direct Sale,Standard
+S00113,B00002,C0015,P05,Sorghum,2026-01-17,Nairobi,Retailer,922,59.65,0.0,836.51,Paid,7,Agent-Brokered,Scheduled
+S00114,B00681,C0060,P01,Maize,2025-09-03,Nairobi,Relief/NGO Buyer,258,57.88,0.0,0.0,Pending,29,Tender/Institutional Order,Standard
+S00115,B00224,C0041,P03,Rice,2025-09-15,Eldoret,Relief/NGO Buyer,56,97.14,7.8,72.76,Overdue,39,Tender/Institutional Order,Standard
+S00116,B00543,C0002,P01,Maize,2025-10-16,Nakuru,Restaurant,502,67.89,0.0,382.53,Pending,21,Direct Sale,Scheduled
+S00117,B00582,C0027,P03,Rice,2025-08-10,Nyeri Town,Restaurant,390,88.82,0.0,409.88,Paid,11,Direct Sale,Standard
+S00118,B00704,C0013,P06,Millet,2026-04-30,Nairobi,Restaurant,204,121.34,0.0,137.95,Paid,12,Tender/Institutional Order,Standard
+S00119,B00758,C0029,P06,Millet,2026-06-28,Kisumu,Wholesaler,950,96.18,0.0,514.0,Paid,12,Tender/Institutional Order,Standard
+S00120,B00215,C0029,P06,Millet,2026-03-12,Kisumu,Wholesaler,429,124.26,0.0,419.18,Pending,17,Standing Contract,Standard
+S00121,B00225,C0021,P01,Maize,2025-09-17,Thika,Retailer,655,61.02,0.0,0.0,Paid,14,Direct Sale,Standard
+S00122,B00010,C0005,P01,Maize,2025-07-21,Mombasa,Retailer,453,61.76,0.0,263.97,Paid,8,Direct Sale,Scheduled
+S00123,B00567,C0024,P02,Beans,2026-01-08,Kisumu,Retailer,561,135.34,0.0,629.5,Paid,6,Standing Contract,Standard
+S00124,B00805,C0008,P07,Green Grams,2025-05-18,Nakuru,Retailer,517,189.28,0.0,0.0,Pending,15,Direct Sale,Standard
+S00125,B00066,C0010,P01,Maize,2025-07-22,Thika,Hospital,669,61.6,5.8,0.0,Pending,35,Tender/Institutional Order,Scheduled
+S00126,B00418,C0038,P06,Millet,2025-09-10,Nairobi,Miller,1757,97.81,3.6,983.06,Paid,5,Agent-Brokered,Scheduled
+S00127,B00293,C0008,P07,Green Grams,2025-03-24,Nakuru,Retailer,532,168.5,5.2,0.0,Pending,30,Direct Sale,Scheduled
+S00128,B00430,C0027,P02,Beans,2026-01-13,Nyeri Town,Restaurant,293,151.31,0.0,161.21,Paid,3,Agent-Brokered,Standard
+S00129,B00516,C0028,P01,Maize,2025-09-18,Nyeri Town,School,165,59.46,0.0,0.0,Pending,23,Tender/Institutional Order,Standard
+S00130,B00354,C0037,P08,Cowpeas,2025-03-01,Thika,Supermarket,345,111.25,0.0,254.48,Paid,10,Tender/Institutional Order,Scheduled
+S00131,B00625,C0028,P01,Maize,2025-04-15,Nyeri Town,School,430,64.21,0.0,0.0,Pending,32,Tender/Institutional Order,Scheduled
+S00132,B00804,C0006,P08,Cowpeas,2025-12-15,Meru Town,Supermarket,522,140.94,1.5,0.0,Paid,5,Direct Sale,Scheduled
+S00133,B00115,C0050,P01,Maize,2025-05-08,Meru Town,Retailer,397,71.86,5.4,470.13,Paid,4,Standing Contract,Urgent
+S00134,B00105,C0007,P02,Beans,2026-02-24,Nairobi,Retailer,893,128.82,4.0,908.22,Paid,8,Agent-Brokered,Standard
+S00135,B00626,C0041,P03,Rice,2025-06-08,Eldoret,Relief/NGO Buyer,299,108.14,0.0,351.27,Paid,17,Tender/Institutional Order,Standard
+S00136,B00226,C0006,P05,Sorghum,2025-05-06,Meru Town,Supermarket,155,84.66,0.0,0.0,Paid,4,Direct Sale,Standard
+S00137,B00820,C0015,P05,Sorghum,2025-07-18,Nairobi,Retailer,1093,73.5,0.0,1248.23,Paid,0,Tender/Institutional Order,Urgent
+S00138,B00219,C0044,P04,Wheat,2025-03-22,Nyeri Town,School,251,61.57,0.0,285.12,Paid,9,Tender/Institutional Order,Urgent
+S00139,B00690,C0046,P06,Millet,2025-05-19,Thika,School,459,119.55,0.0,433.73,Overdue,62,Tender/Institutional Order,Standard
+S00140,B00643,C0047,P03,Rice,2025-10-25,Nakuru,Restaurant,290,114.1,5.1,0.0,Paid,3,Direct Sale,Standard
+S00141,B00508,C0030,P03,Rice,2026-06-13,Mombasa,Miller,400,98.86,0.0,501.87,Pending,26,Agent-Brokered,Standard
+S00142,B00524,C0056,P03,Rice,2025-04-23,Mombasa,Wholesaler,620,101.86,1.1,511.54,Paid,3,Direct Sale,Standard
+S00143,B00481,C0011,P02,Beans,2026-06-19,Thika,Miller,281,150.59,0.0,152.82,Overdue,45,Direct Sale,Scheduled
+S00144,B00537,C0005,P06,Millet,2025-03-22,Mombasa,Retailer,666,146.52,0.0,274.17,Paid,12,Direct Sale,Standard
+S00145,B00144,C0044,P04,Wheat,2025-04-22,Nyeri Town,School,462,62.77,0.0,238.08,Paid,3,Tender/Institutional Order,Standard
+S00146,B00759,C0002,P01,Maize,2025-09-18,Nakuru,Restaurant,99,75.42,0.0,119.95,Paid,9,Direct Sale,Standard
+S00147,B00218,C0051,P05,Sorghum,2025-04-26,Nakuru,Wholesaler,784,84.64,0.0,480.84,Pending,29,Tender/Institutional Order,Standard
+S00148,B00156,C0002,P01,Maize,2025-06-27,Nakuru,Restaurant,269,57.99,0.0,323.29,Overdue,55,Direct Sale,Standard
+S00149,B00526,C0050,P01,Maize,2025-10-28,Meru Town,Retailer,878,60.39,3.5,841.64,Paid,5,Agent-Brokered,Scheduled
+S00150,B00719,C0032,P05,Sorghum,2026-03-20,Kisumu,Wholesaler,227,66.24,0.0,197.75,Paid,16,Direct Sale,Standard
+S00151,B00500,C0045,P01,Maize,2025-05-16,Nakuru,Hospital,180,58.04,0.0,0.0,Paid,12,Tender/Institutional Order,Urgent
+S00152,B00687,C0010,P01,Maize,2026-06-04,Thika,Hospital,1057,68.76,0.0,0.0,Paid,0,Tender/Institutional Order,Urgent
+S00153,B00850,C0030,P03,Rice,2025-05-08,Mombasa,Miller,176,95.43,0.0,92.85,Pending,26,Direct Sale,Standard
+S00154,B00707,C0028,P01,Maize,2025-10-22,Nyeri Town,School,457,64.59,0.0,0.0,Paid,6,Tender/Institutional Order,Standard
+S00155,B00095,C0047,P01,Maize,2026-04-22,Nakuru,Restaurant,303,55.86,0.0,0.0,Paid,9,Direct Sale,Standard
+S00156,B00106,C0006,P05,Sorghum,2026-01-17,Meru Town,Supermarket,1586,72.9,0.0,0.0,Paid,14,Standing Contract,Scheduled
+S00157,B00754,C0029,P06,Millet,2025-10-06,Kisumu,Wholesaler,282,114.64,0.0,126.12,Overdue,39,Direct Sale,Standard
+S00158,B00814,C0015,P08,Cowpeas,2025-03-20,Nairobi,Retailer,697,130.15,0.0,598.88,Paid,0,Direct Sale,Urgent
+S00159,B00066,C0027,P01,Maize,2025-06-12,Nyeri Town,Restaurant,296,61.17,0.0,139.88,Pending,32,Tender/Institutional Order,Scheduled
+S00160,B00717,C0026,P07,Green Grams,2025-10-02,Thika,Wholesaler,824,140.35,0.0,948.7,Pending,29,Direct Sale,Standard
+S00161,B00147,C0058,P05,Sorghum,2025-05-02,Eldoret,Hospital,582,78.13,0.0,636.13,Paid,8,Tender/Institutional Order,Standard
+S00162,B00894,C0025,P06,Millet,2026-05-25,Eldoret,Wholesaler,779,118.8,0.0,885.0,Paid,13,Direct Sale,Standard
+S00163,B00316,C0037,P07,Green Grams,2025-05-22,Thika,Supermarket,485,159.5,0.0,412.07,Paid,7,Agent-Brokered,Standard
+S00164,B00262,C0026,P07,Green Grams,2025-05-01,Thika,Wholesaler,802,189.55,0.0,997.72,Paid,9,Direct Sale,Standard
+S00165,B00012,C0002,P01,Maize,2025-10-06,Nakuru,Restaurant,835,64.05,0.0,407.07,Paid,8,Agent-Brokered,Scheduled
+S00166,B00776,C0048,P01,Maize,2025-09-13,Meru Town,Hospital,301,73.58,0.0,372.37,Overdue,43,Tender/Institutional Order,Scheduled
+S00167,B00888,C0014,P07,Green Grams,2025-11-06,Kisumu,Relief/NGO Buyer,724,156.33,0.0,586.24,Pending,22,Tender/Institutional Order,Urgent
+S00168,B00872,C0018,P01,Maize,2026-02-10,Kisumu,Wholesaler,715,50.18,4.5,820.4,Pending,10,Standing Contract,Standard
+S00169,B00865,C0003,P08,Cowpeas,2025-12-17,Mombasa,Wholesaler,969,111.46,0.0,1227.6,Paid,7,Agent-Brokered,Scheduled
+S00170,B00689,C0042,P04,Wheat,2025-10-29,Meru Town,Hospital,537,70.24,0.0,0.0,Paid,10,Tender/Institutional Order,Standard
+S00171,B00142,C0053,P01,Maize,2026-05-31,Meru Town,Restaurant,466,66.28,0.0,357.1,Paid,18,Direct Sale,Scheduled
+S00172,B00760,C0050,P01,Maize,2026-04-09,Meru Town,Retailer,503,65.19,2.8,263.51,Pending,10,Agent-Brokered,Standard
+S00173,B00034,C0035,P01,Maize,2025-05-02,Nairobi,Wholesaler,574,66.92,6.6,301.68,Pending,24,Direct Sale,Urgent
+S00174,B00484,C0006,P08,Cowpeas,2026-05-10,Meru Town,Supermarket,1263,124.54,0.0,0.0,Overdue,57,Agent-Brokered,Urgent
+S00175,B00138,C0051,P05,Sorghum,2026-03-16,Nakuru,Wholesaler,1406,81.99,0.0,839.61,Paid,0,Direct Sale,Urgent
+S00176,B00823,C0007,P02,Beans,2025-09-09,Nairobi,Retailer,509,179.5,0.0,430.45,Pending,23,Agent-Brokered,Standard
+S00177,B00792,C0049,P08,Cowpeas,2025-09-25,Nyeri Town,Retailer,419,92.13,2.3,0.0,Pending,27,Direct Sale,Standard
+S00178,B00444,C0008,P07,Green Grams,2025-10-12,Nakuru,Retailer,798,143.53,0.0,0.0,Pending,24,Standing Contract,Standard
+S00179,B00448,C0038,P06,Millet,2026-01-18,Nairobi,Miller,225,107.97,0.0,251.56,Pending,19,Agent-Brokered,Standard
+S00180,B00341,C0038,P06,Millet,2025-07-09,Nairobi,Miller,1427,117.52,0.0,682.31,Paid,10,Direct Sale,Standard
+S00181,B00413,C0054,P08,Cowpeas,2025-02-10,Mombasa,Relief/NGO Buyer,700,128.5,0.0,628.15,Overdue,50,Tender/Institutional Order,Standard
+S00182,B00005,C0040,P01,Maize,2026-04-15,Meru Town,Supermarket,438,75.82,0.0,357.79,Paid,0,Direct Sale,Scheduled
+S00183,B00102,C0042,P01,Maize,2026-01-26,Meru Town,Hospital,766,62.47,3.0,0.0,Paid,9,Tender/Institutional Order,Standard
+S00184,B00478,C0010,P01,Maize,2025-09-03,Thika,Hospital,1000,75.97,0.0,0.0,Pending,17,Tender/Institutional Order,Standard
+S00185,B00816,C0012,P01,Maize,2025-09-24,Meru Town,Wholesaler,298,70.38,0.0,0.0,Paid,5,Direct Sale,Standard
+S00186,B00564,C0039,P09,Barley,2026-03-14,Thika,Wholesaler,1000,68.59,0.0,0.0,Paid,21,Direct Sale,Standard
+S00187,B00428,C0028,P01,Maize,2025-02-25,Nyeri Town,School,390,72.47,0.0,0.0,Paid,15,Tender/Institutional Order,Standard
+S00188,B00153,C0060,P01,Maize,2025-07-22,Nairobi,Relief/NGO Buyer,128,66.31,0.0,0.0,Paid,3,Tender/Institutional Order,Standard
+S00189,B00133,C0051,P04,Wheat,2025-11-15,Nakuru,Wholesaler,772,55.42,0.0,316.58,Paid,10,Agent-Brokered,Standard
+S00190,B00019,C0043,P04,Wheat,2025-12-25,Nakuru,Supermarket,297,62.7,0.0,0.0,Paid,16,Tender/Institutional Order,Standard
+S00191,B00136,C0007,P02,Beans,2025-10-23,Nairobi,Retailer,502,127.44,0.0,648.02,Paid,1,Direct Sale,Standard
+S00192,B00393,C0027,P02,Beans,2026-05-16,Nyeri Town,Restaurant,537,153.34,0.0,405.52,Paid,9,Agent-Brokered,Standard
+S00193,B00270,C0029,P06,Millet,2025-06-11,Kisumu,Wholesaler,230,132.36,0.0,225.73,Overdue,49,Direct Sale,Standard
+S00194,B00069,C0019,P01,Maize,2025-05-26,Mombasa,Restaurant,633,54.52,0.0,336.13,Paid,2,Direct Sale,Standard
+S00195,B00480,C0030,P09,Barley,2025-03-12,Mombasa,Miller,664,60.38,0.0,557.1,Pending,23,Standing Contract,Standard
+S00196,B00866,C0036,P05,Sorghum,2025-03-30,Eldoret,Supermarket,627,68.63,0.0,0.0,Pending,28,Agent-Brokered,Standard
+S00197,B00350,C0041,P03,Rice,2025-06-02,Eldoret,Relief/NGO Buyer,492,103.92,0.0,302.81,Paid,16,Tender/Institutional Order,Scheduled
+S00198,B00668,C0013,P04,Wheat,2025-06-22,Nairobi,Restaurant,145,61.89,0.0,160.69,Pending,18,Agent-Brokered,Standard
+S00199,B00506,C0044,P04,Wheat,2025-08-27,Nyeri Town,School,306,63.24,0.0,202.67,Paid,21,Tender/Institutional Order,Standard
+S00200,B00620,C0041,P01,Maize,2025-05-22,Eldoret,Relief/NGO Buyer,313,62.84,0.0,254.52,Paid,0,Tender/Institutional Order,Standard
+S00201,B00897,C0005,P01,Maize,2025-03-25,Mombasa,Retailer,428,54.03,0.0,528.59,Paid,10,Standing Contract,Standard
+S00202,B00428,C0018,P01,Maize,2025-03-17,Kisumu,Wholesaler,118,65.75,4.1,80.46,Paid,1,Direct Sale,Urgent
+S00203,B00027,C0004,P09,Barley,2026-01-20,Meru Town,Retailer,179,58.44,0.0,182.23,Paid,9,Standing Contract,Standard
+S00204,B00373,C0001,P03,Rice,2026-01-20,Nakuru,Wholesaler,611,88.97,0.0,754.63,Paid,6,Direct Sale,Standard
+S00205,B00273,C0038,P06,Millet,2026-06-14,Nairobi,Miller,237,118.88,5.0,225.79,Overdue,55,Standing Contract,Standard
+S00206,B00465,C0016,P01,Maize,2025-05-08,Nyeri Town,Miller,808,54.86,0.0,0.0,Paid,8,Standing Contract,Scheduled
+S00207,B00087,C0029,P06,Millet,2026-01-13,Kisumu,Wholesaler,632,124.37,0.0,602.64,Paid,4,Tender/Institutional Order,Standard
+S00208,B00617,C0057,P02,Beans,2025-08-24,Nakuru,School,380,137.35,0.0,279.55,Paid,5,Tender/Institutional Order,Standard
+S00209,B00415,C0045,P01,Maize,2026-06-20,Nakuru,Hospital,181,59.26,0.0,0.0,Paid,18,Tender/Institutional Order,Standard
+S00210,B00773,C0031,P05,Sorghum,2026-01-03,Nyeri Town,Retailer,544,71.8,0.0,0.0,Paid,11,Direct Sale,Standard
+S00211,B00255,C0029,P01,Maize,2026-02-22,Kisumu,Wholesaler,342,73.43,2.5,317.02,Pending,6,Tender/Institutional Order,Standard
+S00212,B00394,C0003,P02,Beans,2025-08-02,Mombasa,Wholesaler,1508,156.33,0.0,1316.07,Paid,11,Direct Sale,Standard
+S00213,B00871,C0028,P01,Maize,2025-11-27,Nyeri Town,School,319,53.21,0.0,0.0,Paid,8,Tender/Institutional Order,Standard
+S00214,B00726,C0051,P08,Cowpeas,2026-04-15,Nakuru,Wholesaler,579,147.23,0.0,652.51,Paid,9,Agent-Brokered,Standard
+S00215,B00310,C0007,P02,Beans,2026-06-18,Nairobi,Retailer,774,157.86,7.5,480.72,Paid,13,Standing Contract,Urgent
+S00216,B00059,C0033,P04,Wheat,2026-03-24,Nakuru,Miller,2068,67.71,0.0,1960.61,Paid,14,Agent-Brokered,Standard
+S00217,B00158,C0030,P03,Rice,2026-02-07,Mombasa,Miller,1465,96.64,4.2,1639.27,Paid,4,Direct Sale,Standard
+S00218,B00818,C0026,P03,Rice,2025-07-21,Thika,Wholesaler,1502,122.77,0.0,1308.43,Paid,8,Tender/Institutional Order,Standard
+S00219,B00080,C0052,P06,Millet,2025-03-16,Meru Town,School,374,95.48,0.0,250.42,Paid,6,Tender/Institutional Order,Standard
+S00220,B00404,C0049,P08,Cowpeas,2025-09-16,Nyeri Town,Retailer,365,151.33,0.0,0.0,Paid,11,Direct Sale,Standard
+S00221,B00202,C0002,P08,Cowpeas,2026-06-28,Nakuru,Restaurant,191,128.94,0.0,147.88,Paid,7,Standing Contract,Scheduled
+S00222,B00364,C0060,P01,Maize,2026-03-19,Nairobi,Relief/NGO Buyer,233,79.12,3.1,0.0,Overdue,48,Tender/Institutional Order,Standard
+S00223,B00635,C0003,P07,Green Grams,2025-07-29,Mombasa,Wholesaler,910,169.86,1.7,973.61,Paid,7,Direct Sale,Standard
+S00224,B00014,C0041,P03,Rice,2026-03-31,Eldoret,Relief/NGO Buyer,800,98.23,0.0,896.88,Pending,19,Tender/Institutional Order,Scheduled
+S00225,B00793,C0049,P08,Cowpeas,2025-06-13,Nyeri Town,Retailer,1164,139.97,6.8,0.0,Paid,17,Agent-Brokered,Urgent
+S00226,B00243,C0041,P03,Rice,2026-05-28,Eldoret,Relief/NGO Buyer,1047,104.89,0.0,460.27,Paid,20,Tender/Institutional Order,Standard
+S00227,B00431,C0027,P01,Maize,2026-04-14,Nyeri Town,Restaurant,526,65.82,0.0,210.67,Paid,10,Standing Contract,Standard
+S00228,B00873,C0031,P01,Maize,2026-04-22,Nyeri Town,Retailer,1035,54.45,0.0,0.0,Paid,8,Standing Contract,Scheduled
+S00229,B00588,C0017,P06,Millet,2025-07-26,Mombasa,Retailer,352,107.81,0.0,327.64,Pending,7,Standing Contract,Urgent
+S00230,B00021,C0016,P01,Maize,2026-03-12,Nyeri Town,Miller,1683,74.43,0.0,0.0,Overdue,36,Direct Sale,Standard
+S00231,B00140,C0052,P01,Maize,2026-01-21,Meru Town,School,360,63.19,4.8,261.61,Pending,18,Tender/Institutional Order,Standard
+S00232,B00247,C0022,P01,Maize,2026-04-10,Nyeri Town,Miller,1622,77.12,3.8,0.0,Paid,5,Direct Sale,Scheduled
+S00233,B00242,C0022,P01,Maize,2026-05-26,Nyeri Town,Miller,583,57.79,0.0,0.0,Paid,5,Agent-Brokered,Standard
+S00234,B00683,C0011,P02,Beans,2025-08-25,Thika,Miller,243,131.34,4.0,293.28,Overdue,71,Agent-Brokered,Urgent
+S00235,B00179,C0010,P01,Maize,2026-01-26,Thika,Hospital,571,70.62,0.0,0.0,Paid,9,Tender/Institutional Order,Standard
+S00236,B00083,C0011,P02,Beans,2025-09-19,Thika,Miller,950,161.38,2.2,714.19,Overdue,49,Direct Sale,Standard
+S00237,B00603,C0040,P01,Maize,2026-04-18,Meru Town,Supermarket,780,56.96,0.0,803.36,Paid,5,Agent-Brokered,Urgent
+S00238,B00346,C0003,P01,Maize,2025-11-23,Mombasa,Wholesaler,608,60.46,0.0,629.34,Paid,14,Standing Contract,Standard
+S00239,B00412,C0055,P07,Green Grams,2025-10-02,Kisumu,Relief/NGO Buyer,186,179.6,7.1,0.0,Paid,7,Tender/Institutional Order,Scheduled
+S00240,B00080,C0009,P06,Millet,2025-03-18,Nyeri Town,Supermarket,185,110.27,0.0,94.42,Paid,6,Standing Contract,Standard
+S00241,B00835,C0038,P06,Millet,2025-05-27,Nairobi,Miller,855,110.06,0.0,379.64,Pending,7,Standing Contract,Standard
+S00242,B00653,C0053,P01,Maize,2025-11-29,Meru Town,Restaurant,891,54.52,0.0,695.08,Paid,8,Standing Contract,Standard
+S00243,B00794,C0045,P02,Beans,2025-10-19,Nakuru,Hospital,315,134.09,0.0,0.0,Paid,6,Tender/Institutional Order,Standard
+S00244,B00879,C0033,P02,Beans,2025-11-19,Nakuru,Miller,807,141.39,0.0,839.46,Pending,33,Direct Sale,Standard
+S00245,B00227,C0031,P09,Barley,2026-06-30,Nyeri Town,Retailer,296,50.51,0.0,0.0,Paid,18,Standing Contract,Standard
+S00246,B00614,C0050,P07,Green Grams,2026-05-29,Meru Town,Retailer,690,175.35,3.3,528.96,Paid,2,Agent-Brokered,Standard
+S00247,B00495,C0057,P01,Maize,2025-05-23,Nakuru,School,632,50.73,0.0,508.35,Paid,3,Tender/Institutional Order,Urgent
+S00248,B00787,C0003,P05,Sorghum,2026-05-29,Mombasa,Wholesaler,829,71.83,0.0,666.79,Paid,7,Direct Sale,Scheduled
+S00249,B00672,C0052,P04,Wheat,2025-01-24,Meru Town,School,188,56.21,0.0,168.66,Pending,13,Tender/Institutional Order,Scheduled
+S00250,B00510,C0060,P04,Wheat,2026-04-04,Nairobi,Relief/NGO Buyer,279,61.33,0.0,0.0,Overdue,51,Tender/Institutional Order,Standard
+S00251,B00203,C0009,P06,Millet,2025-10-21,Nyeri Town,Supermarket,351,108.84,0.0,254.58,Pending,17,Direct Sale,Scheduled
+S00252,B00081,C0045,P02,Beans,2025-07-08,Nakuru,Hospital,150,148.55,0.0,0.0,Pending,22,Tender/Institutional Order,Urgent
+S00253,B00478,C0018,P01,Maize,2025-09-30,Kisumu,Wholesaler,150,62.93,0.0,97.57,Paid,14,Agent-Brokered,Standard
+S00254,B00390,C0025,P04,Wheat,2025-10-15,Eldoret,Wholesaler,383,58.94,0.0,333.16,Pending,11,Direct Sale,Scheduled
+S00255,B00029,C0049,P08,Cowpeas,2025-10-06,Nyeri Town,Retailer,978,99.76,0.0,0.0,Paid,13,Direct Sale,Standard
+S00256,B00684,C0050,P01,Maize,2026-03-13,Meru Town,Retailer,437,67.89,0.0,319.88,Pending,14,Direct Sale,Standard
+S00257,B00706,C0037,P08,Cowpeas,2026-05-15,Thika,Supermarket,675,127.17,0.0,551.56,Paid,19,Direct Sale,Standard
+S00258,B00120,C0050,P01,Maize,2026-06-09,Meru Town,Retailer,715,70.35,0.0,306.9,Pending,32,Direct Sale,Standard
+S00259,B00048,C0053,P01,Maize,2026-01-26,Meru Town,Restaurant,289,75.31,0.0,327.76,Overdue,46,Direct Sale,Scheduled
+S00260,B00430,C0005,P02,Beans,2025-12-30,Mombasa,Retailer,605,124.41,0.0,629.58,Pending,12,Standing Contract,Standard
+S00261,B00209,C0055,P07,Green Grams,2026-05-04,Kisumu,Relief/NGO Buyer,158,163.28,0.0,0.0,Pending,10,Tender/Institutional Order,Standard
+S00262,B00848,C0004,P09,Barley,2026-06-30,Meru Town,Retailer,237,55.67,0.0,280.44,Paid,13,Standing Contract,Urgent
+S00263,B00058,C0007,P06,Millet,2025-02-21,Nairobi,Retailer,618,107.77,1.5,775.02,Paid,8,Direct Sale,Standard
+S00264,B00105,C0031,P02,Beans,2026-05-02,Nyeri Town,Retailer,135,155.28,0.0,0.0,Paid,13,Standing Contract,Urgent
+S00265,B00020,C0007,P02,Beans,2025-03-12,Nairobi,Retailer,223,142.69,0.0,137.08,Paid,20,Agent-Brokered,Scheduled
+S00266,B00288,C0037,P06,Millet,2025-10-19,Thika,Supermarket,477,103.76,0.0,544.98,Paid,5,Direct Sale,Scheduled
+S00267,B00269,C0027,P01,Maize,2025-12-29,Nyeri Town,Restaurant,456,59.12,1.8,424.84,Paid,2,Agent-Brokered,Standard
+S00268,B00109,C0053,P01,Maize,2025-10-03,Meru Town,Restaurant,891,68.98,0.0,393.74,Paid,9,Direct Sale,Scheduled
+S00269,B00307,C0018,P04,Wheat,2026-06-21,Kisumu,Wholesaler,808,49.85,6.1,894.49,Overdue,65,Direct Sale,Standard
+S00270,B00461,C0043,P04,Wheat,2025-07-10,Nakuru,Supermarket,345,57.48,0.0,0.0,Pending,12,Agent-Brokered,Standard
+S00271,B00278,C0018,P01,Maize,2025-05-22,Kisumu,Wholesaler,908,60.65,4.2,599.43,Pending,20,Standing Contract,Standard
+S00272,B00765,C0018,P01,Maize,2025-10-22,Kisumu,Wholesaler,851,63.67,0.0,684.55,Pending,30,Direct Sale,Standard
+S00273,B00675,C0025,P05,Sorghum,2025-01-27,Eldoret,Wholesaler,369,71.39,0.0,475.21,Paid,0,Agent-Brokered,Standard
+S00274,B00114,C0018,P04,Wheat,2025-07-25,Kisumu,Wholesaler,347,61.62,0.0,415.13,Paid,10,Direct Sale,Scheduled
+S00275,B00650,C0049,P08,Cowpeas,2025-06-03,Nyeri Town,Retailer,909,144.61,7.7,0.0,Paid,6,Agent-Brokered,Standard
+S00276,B00501,C0037,P08,Cowpeas,2025-10-08,Thika,Supermarket,343,118.91,0.0,221.15,Paid,9,Direct Sale,Scheduled
+S00277,B00527,C0039,P09,Barley,2025-11-17,Thika,Wholesaler,194,56.76,0.0,0.0,Paid,12,Agent-Brokered,Standard
+S00278,B00014,C0032,P03,Rice,2026-04-10,Kisumu,Wholesaler,353,111.8,0.0,206.32,Paid,10,Standing Contract,Standard
+S00279,B00632,C0044,P04,Wheat,2025-11-03,Nyeri Town,School,127,57.4,5.1,64.55,Paid,3,Tender/Institutional Order,Standard
+S00280,B00256,C0029,P01,Maize,2026-01-01,Kisumu,Wholesaler,869,73.65,0.0,942.71,Paid,6,Agent-Brokered,Standard
+S00281,B00540,C0043,P06,Millet,2025-07-25,Nakuru,Supermarket,472,133.63,0.0,0.0,Paid,16,Agent-Brokered,Standard
+S00282,B00318,C0045,P02,Beans,2025-11-20,Nakuru,Hospital,308,118.61,0.0,0.0,Paid,10,Tender/Institutional Order,Standard
+S00283,B00055,C0012,P01,Maize,2026-06-12,Meru Town,Wholesaler,769,58.89,4.1,0.0,Paid,13,Direct Sale,Urgent
+S00284,B00528,C0047,P04,Wheat,2025-08-23,Nakuru,Restaurant,409,55.06,0.0,0.0,Pending,22,Direct Sale,Standard
+S00285,B00844,C0035,P01,Maize,2026-01-30,Nairobi,Wholesaler,1240,69.9,1.8,751.85,Pending,26,Direct Sale,Standard
+S00286,B00797,C0036,P04,Wheat,2025-03-09,Eldoret,Supermarket,224,64.22,0.0,0.0,Pending,16,Agent-Brokered,Scheduled
+S00287,B00842,C0028,P01,Maize,2026-01-18,Nyeri Town,School,220,59.52,0.0,0.0,Pending,13,Tender/Institutional Order,Standard
+S00288,B00757,C0026,P07,Green Grams,2026-06-24,Thika,Wholesaler,1614,163.53,0.0,979.32,Paid,12,Standing Contract,Standard
+S00289,B00664,C0031,P01,Maize,2025-01-19,Nyeri Town,Retailer,326,63.95,0.0,0.0,Paid,14,Standing Contract,Standard
+S00290,B00027,C0039,P09,Barley,2025-11-23,Thika,Wholesaler,358,57.81,0.0,0.0,Paid,4,Direct Sale,Standard
+S00291,B00849,C0028,P01,Maize,2026-06-02,Nyeri Town,School,474,68.56,6.0,0.0,Paid,6,Tender/Institutional Order,Urgent
+S00292,B00685,C0021,P01,Maize,2025-08-27,Thika,Retailer,523,50.27,5.7,0.0,Paid,8,Standing Contract,Standard
+S00293,B00753,C0021,P01,Maize,2025-07-15,Thika,Retailer,697,52.52,0.0,0.0,Paid,17,Agent-Brokered,Standard
+S00294,B00602,C0024,P02,Beans,2025-12-31,Kisumu,Retailer,625,160.68,0.0,628.1,Overdue,56,Tender/Institutional Order,Standard
+S00295,B00084,C0019,P01,Maize,2025-05-04,Mombasa,Restaurant,535,56.0,0.0,583.79,Paid,2,Standing Contract,Standard
+S00296,B00427,C0040,P02,Beans,2026-05-03,Meru Town,Supermarket,558,119.09,2.8,346.55,Paid,8,Direct Sale,Standard
+S00297,B00165,C0034,P01,Maize,2025-08-09,Nairobi,Retailer,594,49.66,0.0,0.0,Paid,7,Direct Sale,Urgent
+S00298,B00174,C0024,P02,Beans,2025-11-29,Kisumu,Retailer,851,121.82,0.0,651.92,Paid,3,Agent-Brokered,Standard
+S00299,B00028,C0030,P03,Rice,2025-02-11,Mombasa,Miller,695,93.5,0.0,858.55,Pending,19,Direct Sale,Standard
+S00300,B00560,C0057,P01,Maize,2026-03-28,Nakuru,School,557,78.45,0.0,460.24,Pending,17,Tender/Institutional Order,Standard
+S00301,B00254,C0013,P05,Sorghum,2025-06-12,Nairobi,Restaurant,188,62.6,5.9,179.95,Paid,7,Direct Sale,Standard
+S00302,B00285,C0043,P02,Beans,2026-01-30,Nakuru,Supermarket,248,146.5,0.0,0.0,Pending,16,Direct Sale,Standard
+S00303,B00515,C0050,P01,Maize,2025-04-14,Meru Town,Retailer,379,77.96,7.6,279.06,Paid,16,Standing Contract,Standard
+S00304,B00511,C0051,P05,Sorghum,2025-05-08,Nakuru,Wholesaler,1608,66.34,0.0,1610.89,Paid,7,Direct Sale,Urgent
+S00305,B00447,C0056,P03,Rice,2026-02-18,Mombasa,Wholesaler,1452,108.6,0.0,723.2,Paid,9,Agent-Brokered,Standard
+S00306,B00145,C0054,P02,Beans,2026-06-30,Mombasa,Relief/NGO Buyer,316,141.6,0.0,142.76,Overdue,47,Tender/Institutional Order,Standard
+S00307,B00745,C0059,P02,Beans,2025-11-16,Thika,Supermarket,264,113.47,0.0,0.0,Paid,6,Direct Sale,Standard
+S00308,B00712,C0007,P02,Beans,2025-08-27,Nairobi,Retailer,540,157.06,0.0,510.74,Paid,9,Agent-Brokered,Standard
+S00309,B00162,C0013,P05,Sorghum,2026-01-19,Nairobi,Restaurant,167,62.62,1.5,79.4,Pending,20,Agent-Brokered,Standard
+S00310,B00541,C0021,P01,Maize,2025-05-12,Thika,Retailer,279,59.85,6.7,0.0,Overdue,49,Direct Sale,Standard
+S00311,B00583,C0050,P01,Maize,2025-04-28,Meru Town,Retailer,478,73.53,0.0,394.37,Paid,4,Direct Sale,Standard
+S00312,B00900,C0039,P09,Barley,2026-01-09,Thika,Wholesaler,342,53.01,0.0,0.0,Pending,18,Direct Sale,Standard
+S00313,B00592,C0052,P06,Millet,2026-02-07,Meru Town,School,387,99.18,0.0,339.36,Paid,12,Tender/Institutional Order,Standard
+S00314,B00183,C0009,P02,Beans,2025-08-29,Nyeri Town,Supermarket,1218,146.2,4.2,854.64,Paid,8,Direct Sale,Scheduled
+S00315,B00171,C0045,P06,Millet,2025-11-01,Nakuru,Hospital,254,131.26,0.0,0.0,Paid,9,Tender/Institutional Order,Standard
+S00316,B00127,C0026,P07,Green Grams,2025-02-15,Thika,Wholesaler,308,189.57,0.0,383.45,Overdue,50,Standing Contract,Standard
+S00317,B00443,C0057,P01,Maize,2025-06-19,Nakuru,School,412,64.94,0.0,418.76,Paid,11,Tender/Institutional Order,Scheduled
+S00318,B00280,C0014,P07,Green Grams,2025-11-22,Kisumu,Relief/NGO Buyer,394,177.8,0.0,222.64,Paid,11,Tender/Institutional Order,Standard
+S00319,B00837,C0055,P07,Green Grams,2025-09-24,Kisumu,Relief/NGO Buyer,289,198.01,0.0,0.0,Overdue,45,Tender/Institutional Order,Standard
+S00320,B00573,C0020,P01,Maize,2025-02-28,Nakuru,Supermarket,196,62.53,0.0,0.0,Paid,4,Standing Contract,Standard
+S00321,B00669,C0003,P01,Maize,2025-08-05,Mombasa,Wholesaler,530,57.5,0.0,220.61,Pending,10,Tender/Institutional Order,Scheduled
+S00322,B00405,C0038,P07,Green Grams,2026-03-06,Nairobi,Miller,391,204.89,6.3,404.9,Paid,14,Agent-Brokered,Urgent
+S00323,B00410,C0037,P07,Green Grams,2025-05-09,Thika,Supermarket,628,159.31,6.5,578.61,Paid,12,Agent-Brokered,Standard
+S00324,B00029,C0037,P08,Cowpeas,2025-10-21,Thika,Supermarket,602,122.45,2.2,343.95,Paid,12,Agent-Brokered,Scheduled
+S00325,B00469,C0019,P06,Millet,2025-06-23,Mombasa,Restaurant,450,122.4,0.0,371.56,Paid,13,Direct Sale,Urgent
+S00326,B00634,C0058,P05,Sorghum,2026-01-20,Eldoret,Hospital,355,81.57,0.0,335.85,Paid,8,Tender/Institutional Order,Urgent
+S00327,B00259,C0059,P02,Beans,2025-05-20,Thika,Supermarket,622,158.67,6.7,0.0,Paid,5,Direct Sale,Standard
+S00328,B00155,C0027,P01,Maize,2025-08-17,Nyeri Town,Restaurant,308,60.44,0.0,164.02,Paid,4,Direct Sale,Urgent
+S00329,B00584,C0028,P01,Maize,2025-11-02,Nyeri Town,School,325,61.31,0.0,0.0,Paid,3,Tender/Institutional Order,Standard
+S00330,B00861,C0028,P01,Maize,2025-10-24,Nyeri Town,School,768,71.79,0.0,0.0,Pending,29,Tender/Institutional Order,Standard
+S00331,B00191,C0054,P04,Wheat,2025-04-12,Mombasa,Relief/NGO Buyer,510,68.76,0.0,328.8,Overdue,40,Tender/Institutional Order,Scheduled
+S00332,B00243,C0054,P03,Rice,2026-06-24,Mombasa,Relief/NGO Buyer,217,114.95,0.0,281.8,Paid,14,Tender/Institutional Order,Scheduled
+S00333,B00117,C0025,P05,Sorghum,2026-02-03,Eldoret,Wholesaler,1257,87.03,7.6,927.25,Paid,8,Agent-Brokered,Standard
+S00334,B00781,C0041,P03,Rice,2025-09-01,Eldoret,Relief/NGO Buyer,532,103.42,0.0,306.6,Pending,14,Tender/Institutional Order,Standard
+S00335,B00057,C0027,P01,Maize,2026-02-19,Nyeri Town,Restaurant,500,65.42,0.0,469.48,Paid,3,Direct Sale,Scheduled
+S00336,B00459,C0057,P01,Maize,2026-06-28,Nakuru,School,567,53.04,6.6,607.41,Paid,6,Tender/Institutional Order,Standard
+S00337,B00134,C0031,P08,Cowpeas,2025-11-20,Nyeri Town,Retailer,307,118.39,0.0,0.0,Paid,16,Tender/Institutional Order,Standard
+S00338,B00678,C0013,P05,Sorghum,2026-04-27,Nairobi,Restaurant,137,71.13,7.4,104.28,Paid,3,Standing Contract,Standard
+S00339,B00175,C0014,P08,Cowpeas,2026-02-03,Kisumu,Relief/NGO Buyer,688,92.25,0.0,422.55,Paid,19,Tender/Institutional Order,Urgent
+S00340,B00618,C0009,P06,Millet,2025-09-11,Nyeri Town,Supermarket,559,98.84,5.7,372.88,Paid,4,Direct Sale,Scheduled
+S00341,B00039,C0056,P03,Rice,2025-07-03,Mombasa,Wholesaler,425,120.08,2.9,550.56,Paid,12,Direct Sale,Standard
+S00342,B00532,C0007,P02,Beans,2025-09-19,Nairobi,Retailer,476,161.83,0.0,582.46,Paid,8,Standing Contract,Standard
+S00343,B00857,C0057,P01,Maize,2025-08-20,Nakuru,School,487,67.56,0.0,378.83,Paid,7,Tender/Institutional Order,Standard
+S00344,B00645,C0054,P04,Wheat,2025-12-16,Mombasa,Relief/NGO Buyer,474,60.89,0.0,540.5,Paid,2,Tender/Institutional Order,Standard
+S00345,B00658,C0033,P02,Beans,2026-01-16,Nakuru,Miller,1727,142.19,0.0,1839.09,Paid,8,Agent-Brokered,Standard
+S00346,B00697,C0041,P03,Rice,2026-02-12,Eldoret,Relief/NGO Buyer,974,97.61,0.0,824.8,Overdue,30,Tender/Institutional Order,Standard
+S00347,B00018,C0052,P06,Millet,2026-05-31,Meru Town,School,200,119.74,0.0,112.48,Pending,6,Tender/Institutional Order,Standard
+S00348,B00385,C0011,P02,Beans,2025-10-30,Thika,Miller,106,155.2,0.0,52.41,Paid,9,Agent-Brokered,Urgent
+S00349,B00061,C0034,P08,Cowpeas,2025-06-23,Nairobi,Retailer,702,142.06,0.0,0.0,Overdue,38,Agent-Brokered,Standard
+S00350,B00382,C0044,P04,Wheat,2026-06-01,Nyeri Town,School,471,67.98,0.0,242.18,Pending,33,Tender/Institutional Order,Scheduled
+S00351,B00815,C0052,P06,Millet,2026-06-30,Meru Town,School,404,136.74,0.0,422.21,Paid,14,Tender/Institutional Order,Scheduled
+S00352,B00860,C0042,P04,Wheat,2026-03-28,Meru Town,Hospital,451,59.71,3.4,0.0,Pending,33,Tender/Institutional Order,Standard
+S00353,B00684,C0052,P01,Maize,2026-02-02,Meru Town,School,312,61.73,0.0,258.91,Paid,5,Tender/Institutional Order,Scheduled
+S00354,B00648,C0012,P01,Maize,2025-07-22,Meru Town,Wholesaler,593,68.37,0.0,0.0,Overdue,50,Tender/Institutional Order,Standard
+S00355,B00866,C0025,P05,Sorghum,2025-04-07,Eldoret,Wholesaler,1016,73.99,0.0,524.8,Paid,0,Direct Sale,Scheduled
+S00356,B00608,C0003,P04,Wheat,2025-09-04,Mombasa,Wholesaler,248,59.57,0.0,254.44,Pending,17,Agent-Brokered,Scheduled
+S00357,B00619,C0049,P02,Beans,2025-09-05,Nyeri Town,Retailer,548,128.0,7.3,0.0,Paid,9,Agent-Brokered,Scheduled
+S00358,B00573,C0018,P01,Maize,2025-03-13,Kisumu,Wholesaler,117,59.33,0.0,77.78,Pending,21,Agent-Brokered,Standard
+S00359,B00556,C0035,P07,Green Grams,2025-06-19,Nairobi,Wholesaler,76,189.07,0.0,37.45,Paid,8,Direct Sale,Urgent
+S00360,B00547,C0059,P02,Beans,2025-07-25,Thika,Supermarket,406,158.07,5.0,0.0,Pending,20,Agent-Brokered,Scheduled
+S00361,B00851,C0015,P05,Sorghum,2025-06-13,Nairobi,Retailer,731,61.33,0.0,660.78,Paid,0,Direct Sale,Scheduled
+S00362,B00378,C0032,P03,Rice,2025-03-16,Kisumu,Wholesaler,771,94.26,0.0,780.32,Pending,22,Direct Sale,Standard
+S00363,B00764,C0041,P03,Rice,2026-04-05,Eldoret,Relief/NGO Buyer,717,99.45,0.0,599.29,Paid,11,Tender/Institutional Order,Standard
+S00364,B00329,C0046,P06,Millet,2025-06-14,Thika,School,256,133.32,0.0,177.34,Paid,15,Tender/Institutional Order,Standard
+S00365,B00244,C0021,P01,Maize,2026-04-26,Thika,Retailer,803,69.45,0.0,0.0,Paid,10,Direct Sale,Standard
+S00366,B00064,C0055,P07,Green Grams,2025-09-05,Kisumu,Relief/NGO Buyer,254,180.72,7.7,0.0,Pending,18,Tender/Institutional Order,Standard
+S00367,B00319,C0023,P04,Wheat,2025-10-16,Kisumu,Retailer,408,56.4,0.0,469.78,Pending,28,Direct Sale,Standard
+S00368,B00806,C0016,P04,Wheat,2025-10-21,Nyeri Town,Miller,542,74.0,0.0,0.0,Overdue,30,Agent-Brokered,Standard
+S00369,B00327,C0021,P04,Wheat,2025-07-13,Thika,Retailer,301,63.54,4.4,0.0,Paid,6,Direct Sale,Urgent
+S00370,B00561,C0043,P04,Wheat,2026-04-10,Nakuru,Supermarket,309,73.94,0.0,0.0,Paid,5,Agent-Brokered,Standard
+S00371,B00833,C0009,P06,Millet,2026-01-14,Nyeri Town,Supermarket,202,136.35,0.0,81.94,Paid,8,Direct Sale,Standard
+S00372,B00756,C0041,P03,Rice,2025-02-19,Eldoret,Relief/NGO Buyer,478,106.27,0.0,547.01,Pending,5,Tender/Institutional Order,Scheduled
+S00373,B00356,C0005,P01,Maize,2026-02-20,Mombasa,Retailer,391,61.78,0.0,220.5,Paid,15,Direct Sale,Scheduled
+S00374,B00449,C0034,P01,Maize,2025-12-14,Nairobi,Retailer,705,59.6,0.0,0.0,Paid,7,Direct Sale,Standard
+S00375,B00468,C0029,P01,Maize,2025-07-19,Kisumu,Wholesaler,1240,64.31,0.0,683.16,Paid,10,Direct Sale,Scheduled
+S00376,B00862,C0034,P01,Maize,2026-06-29,Nairobi,Retailer,453,64.68,1.4,0.0,Paid,10,Direct Sale,Scheduled
+S00377,B00643,C0001,P03,Rice,2025-08-27,Nakuru,Wholesaler,773,123.68,0.0,649.77,Paid,15,Agent-Brokered,Standard
+S00378,B00530,C0035,P01,Maize,2026-06-09,Nairobi,Wholesaler,462,54.28,0.0,377.84,Paid,0,Standing Contract,Standard
+S00379,B00443,C0018,P01,Maize,2025-06-12,Kisumu,Wholesaler,332,54.6,0.0,364.52,Pending,20,Tender/Institutional Order,Scheduled
+S00380,B00147,C0036,P05,Sorghum,2025-05-23,Eldoret,Supermarket,446,85.55,0.0,0.0,Paid,14,Tender/Institutional Order,Standard
+S00381,B00799,C0029,P06,Millet,2025-08-20,Kisumu,Wholesaler,1554,106.02,0.0,1414.43,Pending,19,Agent-Brokered,Scheduled
+S00382,B00167,C0007,P07,Green Grams,2025-09-13,Nairobi,Retailer,849,166.4,5.6,876.36,Paid,4,Agent-Brokered,Scheduled
+S00383,B00438,C0014,P07,Green Grams,2025-09-02,Kisumu,Relief/NGO Buyer,461,189.27,0.0,388.99,Paid,5,Tender/Institutional Order,Standard
+S00384,B00178,C0016,P04,Wheat,2026-02-03,Nyeri Town,Miller,262,68.73,4.1,0.0,Pending,16,Standing Contract,Standard
+S00385,B00502,C0012,P01,Maize,2025-08-29,Meru Town,Wholesaler,633,55.13,0.0,0.0,Paid,5,Tender/Institutional Order,Standard
+S00386,B00237,C0032,P07,Green Grams,2026-06-21,Kisumu,Wholesaler,1146,151.13,0.0,1234.79,Paid,8,Agent-Brokered,Standard
+S00387,B00206,C0051,P01,Maize,2026-03-31,Nakuru,Wholesaler,303,68.43,0.0,308.28,Paid,16,Tender/Institutional Order,Scheduled
+S00388,B00306,C0029,P06,Millet,2026-01-01,Kisumu,Wholesaler,550,107.97,0.0,677.53,Overdue,39,Standing Contract,Urgent
+S00389,B00323,C0053,P01,Maize,2026-03-31,Meru Town,Restaurant,356,73.13,0.0,326.26,Paid,6,Direct Sale,Scheduled
+S00390,B00194,C0011,P07,Green Grams,2026-06-17,Thika,Miller,464,160.54,0.0,498.5,Paid,11,Direct Sale,Standard
+S00391,B00291,C0018,P06,Millet,2025-08-02,Kisumu,Wholesaler,364,133.47,5.8,309.36,Pending,18,Direct Sale,Standard
+S00392,B00166,C0041,P03,Rice,2026-06-07,Eldoret,Relief/NGO Buyer,539,111.01,0.0,414.55,Pending,9,Tender/Institutional Order,Standard
+S00393,B00209,C0008,P07,Green Grams,2026-05-15,Nakuru,Retailer,724,166.72,5.3,0.0,Paid,8,Direct Sale,Standard
+S00394,B00370,C0048,P06,Millet,2026-01-06,Meru Town,Hospital,1220,105.36,0.0,858.37,Pending,19,Tender/Institutional Order,Urgent
+S00395,B00414,C0030,P05,Sorghum,2025-07-26,Mombasa,Miller,376,79.99,3.0,417.68,Paid,13,Agent-Brokered,Standard
+S00396,B00260,C0022,P04,Wheat,2026-03-13,Nyeri Town,Miller,1259,60.77,0.0,0.0,Paid,4,Standing Contract,Scheduled
+S00397,B00160,C0023,P07,Green Grams,2026-05-14,Kisumu,Retailer,475,180.16,0.0,523.12,Pending,27,Standing Contract,Urgent
+S00398,B00304,C0015,P01,Maize,2026-02-11,Nairobi,Retailer,750,62.19,0.0,923.71,Paid,8,Direct Sale,Scheduled
+S00399,B00161,C0057,P01,Maize,2025-04-02,Nakuru,School,664,56.48,0.0,598.78,Paid,3,Tender/Institutional Order,Standard
+S00400,B00802,C0040,P01,Maize,2025-04-02,Meru Town,Supermarket,1129,66.26,0.0,583.68,Pending,9,Tender/Institutional Order,Scheduled
+S00401,B00276,C0007,P02,Beans,2025-12-22,Nairobi,Retailer,1068,117.47,0.0,667.21,Paid,18,Agent-Brokered,Scheduled
+S00402,B00782,C0026,P04,Wheat,2026-04-19,Thika,Wholesaler,1099,65.37,4.1,1109.29,Overdue,45,Direct Sale,Standard
+S00403,B00103,C0012,P01,Maize,2025-06-06,Meru Town,Wholesaler,315,58.68,0.0,0.0,Pending,27,Agent-Brokered,Standard
+S00404,B00882,C0003,P01,Maize,2026-01-26,Mombasa,Wholesaler,517,57.39,0.0,645.68,Paid,0,Direct Sale,Standard
+S00405,B00817,C0001,P03,Rice,2026-04-17,Nakuru,Wholesaler,620,120.92,3.4,281.93,Paid,21,Tender/Institutional Order,Standard
+S00406,B00463,C0007,P02,Beans,2026-05-23,Nairobi,Retailer,899,180.33,0.0,1144.4,Overdue,61,Tender/Institutional Order,Standard
+S00407,B00368,C0026,P07,Green Grams,2026-06-07,Thika,Wholesaler,347,154.71,0.0,249.77,Paid,7,Direct Sale,Standard
+S00408,B00628,C0002,P01,Maize,2025-07-24,Nakuru,Restaurant,405,56.16,0.0,504.17,Pending,17,Standing Contract,Scheduled
+S00409,B00653,C0028,P01,Maize,2025-10-18,Nyeri Town,School,38,67.06,7.9,0.0,Paid,12,Tender/Institutional Order,Standard
+S00410,B00042,C0020,P05,Sorghum,2025-11-15,Nakuru,Supermarket,167,73.8,0.0,0.0,Pending,25,Direct Sale,Urgent
+S00411,B00815,C0017,P06,Millet,2026-06-16,Mombasa,Retailer,323,137.77,0.0,334.87,Pending,21,Agent-Brokered,Standard
+S00412,B00862,C0043,P01,Maize,2026-06-13,Nakuru,Supermarket,62,55.25,0.0,0.0,Paid,9,Agent-Brokered,Standard
+S00413,B00617,C0059,P02,Beans,2025-07-19,Thika,Supermarket,274,128.4,0.0,0.0,Pending,24,Standing Contract,Standard
+S00414,B00457,C0036,P01,Maize,2025-04-01,Eldoret,Supermarket,149,66.77,0.0,0.0,Pending,6,Direct Sale,Scheduled
+S00415,B00193,C0049,P08,Cowpeas,2025-03-30,Nyeri Town,Retailer,839,137.54,0.0,0.0,Overdue,42,Direct Sale,Standard
+S00416,B00517,C0046,P01,Maize,2025-09-03,Thika,School,606,57.24,0.0,735.48,Pending,6,Tender/Institutional Order,Standard
+S00417,B00180,C0027,P01,Maize,2026-01-24,Nyeri Town,Restaurant,473,52.42,0.0,590.94,Pending,24,Direct Sale,Urgent
+S00418,B00552,C0049,P08,Cowpeas,2025-11-04,Nyeri Town,Retailer,642,131.13,4.1,0.0,Paid,5,Standing Contract,Standard
+S00419,B00557,C0038,P08,Cowpeas,2025-03-25,Nairobi,Miller,972,146.68,0.0,509.73,Pending,7,Tender/Institutional Order,Scheduled
+S00420,B00744,C0023,P04,Wheat,2026-06-12,Kisumu,Retailer,152,70.8,0.0,134.55,Paid,5,Direct Sale,Standard
+S00421,B00549,C0027,P01,Maize,2025-12-29,Nyeri Town,Restaurant,475,60.88,0.0,229.12,Paid,9,Direct Sale,Standard
+S00422,B00846,C0058,P05,Sorghum,2025-11-30,Eldoret,Hospital,401,72.55,0.0,431.85,Paid,7,Tender/Institutional Order,Scheduled
+S00423,B00071,C0060,P05,Sorghum,2025-10-05,Nairobi,Relief/NGO Buyer,313,61.4,0.0,0.0,Paid,3,Tender/Institutional Order,Standard
+S00424,B00130,C0008,P07,Green Grams,2025-09-28,Nakuru,Retailer,480,150.42,0.0,0.0,Pending,6,Agent-Brokered,Standard
+S00425,B00698,C0025,P05,Sorghum,2026-06-06,Eldoret,Wholesaler,1797,56.07,0.0,1400.71,Pending,20,Standing Contract,Standard
+S00426,B00300,C0035,P01,Maize,2025-09-27,Nairobi,Wholesaler,820,58.6,4.1,440.88,Paid,6,Direct Sale,Standard
+S00427,B00854,C0060,P01,Maize,2025-02-25,Nairobi,Relief/NGO Buyer,304,54.79,0.0,0.0,Pending,17,Tender/Institutional Order,Urgent
+S00428,B00572,C0015,P05,Sorghum,2026-05-02,Nairobi,Retailer,1086,81.92,2.8,903.09,Overdue,45,Agent-Brokered,Standard
+S00429,B00029,C0037,P08,Cowpeas,2025-08-18,Thika,Supermarket,536,102.83,0.0,497.33,Pending,23,Agent-Brokered,Standard
+S00430,B00217,C0049,P05,Sorghum,2025-03-08,Nyeri Town,Retailer,1017,62.85,0.0,0.0,Pending,26,Direct Sale,Scheduled
+S00431,B00518,C0003,P02,Beans,2026-04-10,Mombasa,Wholesaler,898,167.71,0.0,965.74,Paid,9,Direct Sale,Standard
+S00432,B00045,C0028,P01,Maize,2025-11-01,Nyeri Town,School,882,57.44,0.0,0.0,Paid,7,Tender/Institutional Order,Urgent
+S00433,B00067,C0031,P08,Cowpeas,2025-03-31,Nyeri Town,Retailer,782,129.6,0.0,0.0,Paid,9,Tender/Institutional Order,Scheduled
+S00434,B00582,C0001,P03,Rice,2025-06-20,Nakuru,Wholesaler,523,92.06,0.0,258.43,Paid,7,Direct Sale,Standard
+S00435,B00432,C0026,P07,Green Grams,2026-05-31,Thika,Wholesaler,1162,182.05,0.0,1073.21,Paid,0,Tender/Institutional Order,Standard
+S00436,B00310,C0033,P02,Beans,2026-05-28,Nakuru,Miller,821,129.16,0.0,816.0,Paid,14,Agent-Brokered,Urgent
+S00437,B00672,C0044,P04,Wheat,2025-02-19,Nyeri Town,School,165,57.19,0.0,118.16,Paid,13,Tender/Institutional Order,Standard
+S00438,B00674,C0044,P01,Maize,2026-06-10,Nyeri Town,School,437,55.89,0.0,453.79,Paid,18,Tender/Institutional Order,Standard
+S00439,B00898,C0017,P06,Millet,2026-02-18,Mombasa,Retailer,150,100.11,0.0,100.65,Paid,20,Tender/Institutional Order,Standard
+S00440,B00459,C0012,P01,Maize,2026-06-30,Meru Town,Wholesaler,239,74.88,0.0,0.0,Paid,3,Direct Sale,Standard
+S00441,B00011,C0028,P01,Maize,2025-05-29,Nyeri Town,School,850,64.21,0.0,0.0,Paid,7,Tender/Institutional Order,Scheduled
+S00442,B00296,C0037,P08,Cowpeas,2025-06-16,Thika,Supermarket,530,139.82,1.9,620.81,Paid,21,Agent-Brokered,Scheduled
+S00443,B00312,C0051,P05,Sorghum,2026-02-10,Nakuru,Wholesaler,1714,62.93,0.0,1623.87,Paid,8,Direct Sale,Urgent
+S00444,B00101,C0044,P04,Wheat,2026-03-14,Nyeri Town,School,132,63.3,0.0,167.36,Paid,10,Tender/Institutional Order,Urgent
+S00445,B00581,C0020,P09,Barley,2025-02-01,Nakuru,Supermarket,149,52.83,0.0,0.0,Paid,1,Direct Sale,Scheduled
+S00446,B00893,C0033,P01,Maize,2026-06-12,Nakuru,Miller,675,56.15,0.0,335.82,Paid,9,Standing Contract,Standard
+S00447,B00078,C0032,P01,Maize,2026-05-15,Kisumu,Wholesaler,764,64.5,6.6,612.35,Overdue,76,Direct Sale,Standard
+S00448,B00403,C0011,P02,Beans,2025-06-11,Thika,Miller,661,107.47,0.0,716.36,Paid,15,Direct Sale,Standard
+S00449,B00159,C0038,P07,Green Grams,2025-07-16,Nairobi,Miller,244,168.24,0.0,165.62,Paid,5,Agent-Brokered,Urgent
+S00450,B00274,C0033,P02,Beans,2026-02-24,Nakuru,Miller,1611,131.79,0.0,1590.93,Paid,7,Tender/Institutional Order,Urgent
+S00451,B00139,C0056,P03,Rice,2025-04-06,Mombasa,Wholesaler,1020,126.51,0.0,901.21,Pending,10,Agent-Brokered,Standard
+S00452,B00615,C0040,P09,Barley,2025-11-10,Meru Town,Supermarket,444,58.47,0.0,474.21,Paid,4,Direct Sale,Scheduled
+S00453,B00267,C0036,P05,Sorghum,2025-07-11,Eldoret,Supermarket,643,77.75,6.9,0.0,Pending,5,Direct Sale,Standard
+S00454,B00822,C0003,P01,Maize,2025-03-26,Mombasa,Wholesaler,520,68.03,0.0,544.58,Paid,8,Direct Sale,Standard
+S00455,B00365,C0015,P05,Sorghum,2026-05-06,Nairobi,Retailer,1013,83.37,0.0,1080.14,Paid,16,Agent-Brokered,Standard
+S00456,B00599,C0031,P01,Maize,2026-04-15,Nyeri Town,Retailer,984,75.23,0.0,0.0,Paid,10,Direct Sale,Standard
+S00457,B00624,C0004,P01,Maize,2026-06-08,Meru Town,Retailer,306,66.62,0.0,274.55,Paid,15,Agent-Brokered,Urgent
+S00458,B00721,C0052,P02,Beans,2025-09-06,Meru Town,School,373,138.78,0.0,442.65,Pending,28,Tender/Institutional Order,Scheduled
+S00459,B00720,C0037,P08,Cowpeas,2025-09-15,Thika,Supermarket,493,131.66,0.0,509.16,Pending,15,Direct Sale,Scheduled
+S00460,B00383,C0044,P04,Wheat,2025-12-21,Nyeri Town,School,317,57.73,0.0,203.2,Pending,13,Tender/Institutional Order,Scheduled
+S00461,B00435,C0042,P04,Wheat,2026-05-23,Meru Town,Hospital,314,60.13,0.0,0.0,Overdue,37,Tender/Institutional Order,Urgent
+S00462,B00248,C0032,P03,Rice,2025-03-10,Kisumu,Wholesaler,564,119.44,0.0,250.66,Paid,0,Standing Contract,Standard
+S00463,B00268,C0008,P07,Green Grams,2026-06-17,Nakuru,Retailer,937,187.8,0.0,0.0,Paid,9,Direct Sale,Standard
+S00464,B00896,C0059,P02,Beans,2025-12-25,Thika,Supermarket,451,153.05,0.0,0.0,Overdue,30,Direct Sale,Standard
+S00465,B00379,C0006,P05,Sorghum,2025-04-28,Meru Town,Supermarket,311,68.41,4.6,0.0,Paid,11,Tender/Institutional Order,Standard
+S00466,B00062,C0049,P04,Wheat,2026-04-27,Nyeri Town,Retailer,800,71.07,0.0,0.0,Pending,20,Direct Sale,Standard
+S00467,B00425,C0050,P03,Rice,2025-07-28,Meru Town,Retailer,645,110.49,0.0,688.84,Paid,11,Standing Contract,Standard
+S00468,B00748,C0058,P02,Beans,2025-11-27,Eldoret,Hospital,425,133.5,0.0,311.9,Overdue,63,Tender/Institutional Order,Urgent
+S00469,B00442,C0046,P09,Barley,2026-04-22,Thika,School,358,51.73,0.0,440.4,Pending,21,Tender/Institutional Order,Urgent
+S00470,B00699,C0031,P01,Maize,2025-07-26,Nyeri Town,Retailer,391,65.97,0.0,0.0,Paid,17,Tender/Institutional Order,Standard
+S00471,B00476,C0040,P01,Maize,2025-11-30,Meru Town,Supermarket,793,60.79,0.0,957.89,Paid,12,Tender/Institutional Order,Scheduled
+S00472,B00668,C0043,P04,Wheat,2025-06-06,Nakuru,Supermarket,219,65.14,0.0,0.0,Pending,13,Agent-Brokered,Scheduled
+S00473,B00024,C0002,P01,Maize,2026-06-09,Nakuru,Restaurant,647,77.89,0.0,753.33,Paid,7,Agent-Brokered,Scheduled
+S00474,B00359,C0012,P01,Maize,2025-08-14,Meru Town,Wholesaler,1084,65.66,0.0,0.0,Overdue,30,Standing Contract,Urgent
+S00475,B00318,C0024,P02,Beans,2025-12-20,Kisumu,Retailer,379,144.83,6.2,318.15,Paid,4,Direct Sale,Standard
+S00476,B00342,C0035,P07,Green Grams,2025-04-29,Nairobi,Wholesaler,481,167.51,0.0,262.84,Paid,7,Tender/Institutional Order,Standard
+S00477,B00834,C0005,P01,Maize,2025-03-01,Mombasa,Retailer,784,58.96,0.0,558.17,Paid,11,Tender/Institutional Order,Scheduled
+S00478,B00603,C0021,P01,Maize,2026-03-16,Thika,Retailer,431,52.61,0.0,0.0,Paid,5,Agent-Brokered,Scheduled
+S00479,B00606,C0004,P09,Barley,2025-06-10,Meru Town,Retailer,167,54.08,6.8,108.65,Pending,10,Standing Contract,Standard
+S00480,B00330,C0059,P02,Beans,2026-03-27,Thika,Supermarket,981,119.03,0.0,0.0,Overdue,30,Tender/Institutional Order,Standard
+S00481,B00165,C0017,P01,Maize,2025-09-04,Mombasa,Retailer,121,65.34,0.0,132.52,Paid,6,Direct Sale,Urgent
+S00482,B00106,C0036,P05,Sorghum,2026-02-27,Eldoret,Supermarket,27,83.8,0.0,0.0,Overdue,77,Direct Sale,Scheduled
+S00483,B00716,C0006,P05,Sorghum,2025-06-03,Meru Town,Supermarket,972,70.88,0.0,0.0,Paid,10,Agent-Brokered,Standard
+S00484,B00536,C0003,P01,Maize,2026-03-30,Mombasa,Wholesaler,61,74.33,0.0,78.64,Paid,13,Tender/Institutional Order,Urgent
+S00485,B00387,C0036,P05,Sorghum,2026-03-03,Eldoret,Supermarket,336,75.08,0.0,0.0,Paid,4,Standing Contract,Standard
+S00486,B00709,C0039,P09,Barley,2026-01-17,Thika,Wholesaler,520,60.44,0.0,0.0,Paid,1,Tender/Institutional Order,Scheduled
+S00487,B00360,C0052,P06,Millet,2025-01-26,Meru Town,School,471,108.13,0.0,426.41,Pending,10,Tender/Institutional Order,Standard
+S00488,B00358,C0012,P01,Maize,2026-01-13,Meru Town,Wholesaler,215,64.0,0.0,0.0,Paid,8,Standing Contract,Standard
+S00489,B00525,C0004,P09,Barley,2026-01-13,Meru Town,Retailer,327,65.9,0.0,195.26,Paid,0,Direct Sale,Standard
+S00490,B00665,C0035,P01,Maize,2025-08-07,Nairobi,Wholesaler,47,61.41,0.0,57.2,Overdue,32,Direct Sale,Scheduled
+S00491,B00426,C0035,P01,Maize,2025-03-31,Nairobi,Wholesaler,1229,66.43,0.0,862.77,Paid,6,Standing Contract,Standard
+S00492,B00023,C0037,P08,Cowpeas,2025-03-27,Thika,Supermarket,522,145.42,5.4,354.19,Paid,2,Standing Contract,Standard
+S00493,B00135,C0015,P05,Sorghum,2025-04-09,Nairobi,Retailer,323,82.47,0.0,134.75,Paid,0,Direct Sale,Scheduled
+S00494,B00770,C0044,P04,Wheat,2025-05-17,Nyeri Town,School,503,55.45,0.0,343.86,Pending,22,Tender/Institutional Order,Standard
+S00495,B00077,C0006,P09,Barley,2026-01-29,Meru Town,Supermarket,1055,70.35,0.0,0.0,Paid,9,Standing Contract,Standard
+S00496,B00132,C0056,P03,Rice,2026-06-07,Mombasa,Wholesaler,1278,106.44,7.1,1623.0,Paid,12,Agent-Brokered,Standard
+S00497,B00467,C0041,P02,Beans,2025-06-02,Eldoret,Relief/NGO Buyer,670,167.17,0.0,547.61,Paid,3,Tender/Institutional Order,Scheduled
+S00498,B00042,C0046,P05,Sorghum,2025-11-15,Thika,School,601,61.76,0.0,576.86,Overdue,59,Tender/Institutional Order,Urgent
+S00499,B00235,C0001,P03,Rice,2026-02-17,Nakuru,Wholesaler,50,124.67,0.0,42.79,Pending,32,Agent-Brokered,Standard
+S00500,B00729,C0035,P01,Maize,2025-03-19,Nairobi,Wholesaler,1103,72.06,4.8,784.78,Pending,22,Standing Contract,Urgent
+S00501,B00462,C0022,P01,Maize,2025-09-01,Nyeri Town,Miller,236,64.95,0.0,0.0,Paid,5,Direct Sale,Standard
+S00502,B00037,C0059,P04,Wheat,2026-04-04,Thika,Supermarket,752,64.49,0.0,0.0,Overdue,50,Tender/Institutional Order,Urgent
+S00503,B00793,C0009,P08,Cowpeas,2025-05-07,Nyeri Town,Supermarket,56,142.51,0.0,33.74,Paid,5,Tender/Institutional Order,Standard
+S00504,B00015,C0055,P02,Beans,2025-06-04,Kisumu,Relief/NGO Buyer,187,104.15,0.0,0.0,Paid,4,Tender/Institutional Order,Scheduled
+S00505,B00576,C0012,P01,Maize,2025-05-03,Meru Town,Wholesaler,454,55.2,0.0,0.0,Paid,12,Direct Sale,Urgent
+S00506,B00172,C0020,P09,Barley,2025-11-27,Nakuru,Supermarket,80,56.22,0.0,0.0,Paid,8,Direct Sale,Standard
+S00507,B00429,C0049,P04,Wheat,2026-01-27,Nyeri Town,Retailer,1107,60.22,3.7,0.0,Paid,15,Direct Sale,Scheduled
+S00508,B00477,C0019,P02,Beans,2026-06-28,Mombasa,Restaurant,571,140.31,0.0,519.06,Paid,6,Direct Sale,Urgent
+S00509,B00199,C0050,P01,Maize,2025-09-29,Meru Town,Retailer,209,57.72,1.1,214.18,Paid,7,Direct Sale,Standard
+S00510,B00609,C0017,P06,Millet,2025-10-17,Mombasa,Retailer,352,87.0,3.4,192.15,Pending,15,Agent-Brokered,Standard
+S00511,B00801,C0028,P01,Maize,2025-08-15,Nyeri Town,School,274,67.41,0.0,0.0,Paid,3,Tender/Institutional Order,Scheduled
+S00512,B00383,C0047,P04,Wheat,2025-10-31,Nakuru,Restaurant,350,58.77,3.6,0.0,Pending,26,Direct Sale,Standard
+S00513,B00583,C0021,P01,Maize,2025-03-11,Thika,Retailer,621,67.53,0.0,0.0,Paid,19,Direct Sale,Scheduled
+S00514,B00593,C0022,P03,Rice,2026-02-12,Nyeri Town,Miller,351,105.76,0.0,0.0,Paid,7,Standing Contract,Standard
+S00515,B00409,C0012,P01,Maize,2025-05-28,Meru Town,Wholesaler,417,61.05,0.0,0.0,Paid,5,Direct Sale,Standard
+S00516,B00790,C0019,P01,Maize,2026-06-05,Mombasa,Restaurant,944,57.11,0.0,613.3,Paid,5,Direct Sale,Standard
+S00517,B00271,C0009,P07,Green Grams,2026-05-21,Nyeri Town,Supermarket,1043,167.97,1.9,1006.05,Paid,5,Direct Sale,Standard
+S00518,B00303,C0004,P09,Barley,2025-11-07,Meru Town,Retailer,167,65.89,0.0,85.92,Pending,33,Direct Sale,Urgent
+S00519,B00704,C0003,P06,Millet,2026-02-23,Mombasa,Wholesaler,1516,100.59,7.9,684.77,Paid,5,Agent-Brokered,Scheduled
+S00520,B00464,C0029,P06,Millet,2025-10-29,Kisumu,Wholesaler,1667,124.43,0.0,1692.69,Pending,15,Standing Contract,Standard
+S00521,B00147,C0044,P05,Sorghum,2025-05-03,Nyeri Town,School,337,81.14,0.0,295.82,Paid,2,Tender/Institutional Order,Urgent
+S00522,B00815,C0017,P06,Millet,2026-06-26,Mombasa,Retailer,24,114.68,0.0,26.91,Paid,10,Direct Sale,Standard
+S00523,B00401,C0033,P02,Beans,2025-11-06,Nakuru,Miller,679,165.47,0.0,731.85,Pending,19,Direct Sale,Urgent
+S00524,B00702,C0060,P01,Maize,2025-04-22,Nairobi,Relief/NGO Buyer,405,58.85,0.0,0.0,Overdue,30,Tender/Institutional Order,Standard
+S00525,B00473,C0042,P04,Wheat,2025-04-02,Meru Town,Hospital,195,64.8,0.0,0.0,Paid,4,Tender/Institutional Order,Standard
+S00526,B00129,C0042,P04,Wheat,2025-07-11,Meru Town,Hospital,609,63.75,0.0,0.0,Paid,16,Tender/Institutional Order,Scheduled
+S00527,B00540,C0017,P06,Millet,2025-08-15,Mombasa,Retailer,77,128.4,5.8,89.72,Pending,20,Standing Contract,Standard
+S00528,B00192,C0032,P05,Sorghum,2025-08-12,Kisumu,Wholesaler,1121,81.1,0.0,1165.95,Paid,9,Agent-Brokered,Standard
+S00529,B00634,C0015,P05,Sorghum,2026-01-16,Nairobi,Retailer,849,91.97,3.6,383.61,Paid,9,Direct Sale,Standard
+S00530,B00856,C0013,P01,Maize,2026-03-05,Nairobi,Restaurant,139,70.57,0.0,102.37,Pending,31,Direct Sale,Standard
+S00531,B00668,C0047,P04,Wheat,2025-06-08,Nakuru,Restaurant,384,64.87,0.0,0.0,Overdue,32,Standing Contract,Urgent
+S00532,B00212,C0058,P02,Beans,2025-11-15,Eldoret,Hospital,444,120.67,0.0,334.65,Overdue,42,Tender/Institutional Order,Standard
+S00533,B00890,C0033,P02,Beans,2026-06-30,Nakuru,Miller,507,123.41,0.0,371.6,Paid,8,Standing Contract,Standard
+S00534,B00566,C0060,P05,Sorghum,2026-01-01,Nairobi,Relief/NGO Buyer,403,78.34,0.0,0.0,Overdue,30,Tender/Institutional Order,Standard
+S00535,B00803,C0026,P07,Green Grams,2026-04-05,Thika,Wholesaler,726,185.82,3.6,759.15,Overdue,34,Direct Sale,Standard
+S00536,B00838,C0060,P01,Maize,2026-01-13,Nairobi,Relief/NGO Buyer,570,62.89,3.9,0.0,Paid,14,Tender/Institutional Order,Urgent
+S00537,B00884,C0057,P01,Maize,2025-12-22,Nakuru,School,357,56.51,0.0,176.3,Pending,26,Tender/Institutional Order,Scheduled
+S00538,B00854,C0002,P01,Maize,2025-03-30,Nakuru,Restaurant,914,66.33,1.8,668.61,Paid,13,Direct Sale,Scheduled
+S00539,B00269,C0018,P01,Maize,2025-12-01,Kisumu,Wholesaler,598,65.27,0.0,379.0,Overdue,39,Agent-Brokered,Urgent
+S00540,B00489,C0004,P09,Barley,2025-04-30,Meru Town,Retailer,256,64.95,0.0,273.35,Paid,6,Standing Contract,Standard
+S00541,B00509,C0009,P06,Millet,2026-05-06,Nyeri Town,Supermarket,320,99.21,0.0,145.84,Pending,5,Standing Contract,Standard
+S00542,B00845,C0023,P07,Green Grams,2025-07-28,Kisumu,Retailer,381,170.83,0.0,164.87,Overdue,61,Tender/Institutional Order,Urgent
+S00543,B00319,C0047,P04,Wheat,2025-09-01,Nakuru,Restaurant,233,49.0,0.0,0.0,Overdue,64,Agent-Brokered,Standard
+S00544,B00398,C0059,P02,Beans,2026-02-13,Thika,Supermarket,503,173.31,2.4,0.0,Pending,28,Direct Sale,Standard
+S00545,B00033,C0050,P01,Maize,2026-06-22,Meru Town,Retailer,802,71.07,0.0,569.08,Paid,17,Standing Contract,Standard
+S00546,B00450,C0058,P05,Sorghum,2026-01-22,Eldoret,Hospital,343,69.19,0.0,323.47,Paid,11,Tender/Institutional Order,Standard
+S00547,B00627,C0055,P07,Green Grams,2025-03-31,Kisumu,Relief/NGO Buyer,333,151.64,0.0,0.0,Paid,16,Tender/Institutional Order,Scheduled
+S00548,B00060,C0031,P01,Maize,2025-11-09,Nyeri Town,Retailer,748,62.54,0.0,0.0,Overdue,44,Agent-Brokered,Scheduled
+S00549,B00113,C0054,P02,Beans,2026-03-17,Mombasa,Relief/NGO Buyer,643,133.38,0.0,733.83,Pending,5,Tender/Institutional Order,Scheduled
+S00550,B00352,C0036,P05,Sorghum,2026-06-23,Eldoret,Supermarket,240,89.07,0.0,0.0,Paid,13,Direct Sale,Standard
+S00551,B00278,C0029,P01,Maize,2025-05-17,Kisumu,Wholesaler,658,56.66,0.0,273.2,Paid,0,Agent-Brokered,Standard
+S00552,B00847,C0010,P01,Maize,2026-03-06,Thika,Hospital,608,73.3,0.0,0.0,Pending,21,Tender/Institutional Order,Standard
+S00553,B00461,C0023,P04,Wheat,2025-08-10,Kisumu,Retailer,259,59.43,0.0,160.07,Overdue,62,Agent-Brokered,Standard
+S00554,B00171,C0052,P06,Millet,2025-12-14,Meru Town,School,64,123.67,2.7,53.57,Paid,10,Tender/Institutional Order,Scheduled
+S00555,B00578,C0020,P05,Sorghum,2025-03-16,Nakuru,Supermarket,90,67.21,0.0,0.0,Paid,20,Direct Sale,Standard
+S00556,B00279,C0037,P03,Rice,2025-07-05,Thika,Supermarket,260,105.66,0.0,237.07,Pending,5,Standing Contract,Urgent
+S00557,B00823,C0024,P02,Beans,2025-11-18,Kisumu,Retailer,526,166.63,0.0,338.98,Pending,19,Agent-Brokered,Standard
+S00558,B00434,C0025,P05,Sorghum,2026-06-06,Eldoret,Wholesaler,1876,73.62,6.6,2120.04,Paid,9,Direct Sale,Scheduled
+S00559,B00770,C0043,P04,Wheat,2025-05-31,Nakuru,Supermarket,135,52.68,1.5,0.0,Paid,2,Direct Sale,Urgent
+S00560,B00604,C0058,P02,Beans,2026-06-04,Eldoret,Hospital,349,112.26,0.0,162.9,Paid,3,Tender/Institutional Order,Scheduled
+S00561,B00366,C0015,P05,Sorghum,2026-06-24,Nairobi,Retailer,692,81.79,0.0,636.02,Paid,4,Agent-Brokered,Standard
+S00562,B00810,C0027,P01,Maize,2025-08-16,Nyeri Town,Restaurant,579,61.51,0.0,430.78,Paid,3,Direct Sale,Standard
+S00563,B00366,C0047,P05,Sorghum,2026-06-01,Nakuru,Restaurant,154,67.15,0.0,0.0,Paid,8,Direct Sale,Scheduled
+S00564,B00528,C0018,P04,Wheat,2025-08-29,Kisumu,Wholesaler,1466,53.28,7.8,1198.95,Paid,5,Tender/Institutional Order,Urgent
+S00565,B00456,C0032,P03,Rice,2026-05-23,Kisumu,Wholesaler,279,108.95,0.0,208.44,Paid,10,Agent-Brokered,Standard
+S00566,B00052,C0055,P07,Green Grams,2025-08-11,Kisumu,Relief/NGO Buyer,232,188.16,6.2,0.0,Overdue,57,Tender/Institutional Order,Standard
+S00567,B00601,C0040,P01,Maize,2025-03-23,Meru Town,Supermarket,923,66.84,0.0,554.23,Paid,11,Agent-Brokered,Standard
+S00568,B00400,C0047,P04,Wheat,2025-10-27,Nakuru,Restaurant,284,51.58,3.1,0.0,Overdue,41,Standing Contract,Standard
+S00569,B00646,C0059,P02,Beans,2026-06-12,Thika,Supermarket,949,137.69,0.0,0.0,Paid,10,Standing Contract,Urgent
+S00570,B00222,C0056,P08,Cowpeas,2025-02-12,Mombasa,Wholesaler,882,140.93,5.0,831.84,Paid,14,Agent-Brokered,Scheduled
+S00571,B00486,C0055,P07,Green Grams,2026-01-23,Kisumu,Relief/NGO Buyer,243,205.63,0.0,0.0,Paid,11,Tender/Institutional Order,Urgent
+S00572,B00290,C0043,P01,Maize,2026-06-26,Nakuru,Supermarket,210,56.26,0.0,0.0,Overdue,75,Standing Contract,Urgent
+S00573,B00667,C0035,P01,Maize,2025-11-15,Nairobi,Wholesaler,373,55.07,7.3,340.89,Paid,13,Agent-Brokered,Standard
+S00574,B00277,C0031,P03,Rice,2025-10-20,Nyeri Town,Retailer,880,104.35,0.0,0.0,Paid,17,Tender/Institutional Order,Standard
+S00575,B00006,C0055,P01,Maize,2025-03-22,Kisumu,Relief/NGO Buyer,146,63.88,0.0,0.0,Paid,0,Tender/Institutional Order,Standard
+S00576,B00029,C0037,P08,Cowpeas,2025-08-24,Thika,Supermarket,319,96.55,0.0,260.09,Pending,20,Standing Contract,Standard
+S00577,B00605,C0039,P09,Barley,2025-12-08,Thika,Wholesaler,2448,59.76,0.0,0.0,Pending,17,Agent-Brokered,Scheduled
+S00578,B00169,C0017,P04,Wheat,2026-01-13,Mombasa,Retailer,200,52.12,0.0,177.57,Paid,8,Standing Contract,Standard
+S00579,B00539,C0012,P01,Maize,2026-05-13,Meru Town,Wholesaler,522,71.66,0.0,0.0,Paid,4,Direct Sale,Urgent
+S00580,B00849,C0002,P01,Maize,2026-06-16,Nakuru,Restaurant,717,68.88,0.0,542.5,Pending,23,Standing Contract,Standard
+S00581,B00395,C0051,P08,Cowpeas,2026-04-24,Nakuru,Wholesaler,413,122.87,0.0,183.83,Overdue,30,Agent-Brokered,Standard
+S00582,B00311,C0032,P03,Rice,2026-03-29,Kisumu,Wholesaler,1001,115.78,0.0,453.05,Paid,11,Agent-Brokered,Scheduled
+S00583,B00848,C0004,P09,Barley,2026-05-30,Meru Town,Retailer,249,56.22,0.0,263.16,Pending,13,Agent-Brokered,Standard
+S00584,B00286,C0009,P06,Millet,2025-05-24,Nyeri Town,Supermarket,557,104.4,0.0,719.84,Paid,6,Standing Contract,Standard
+S00585,B00436,C0015,P05,Sorghum,2026-03-16,Nairobi,Retailer,745,79.03,0.0,923.45,Paid,11,Standing Contract,Standard
+S00586,B00468,C0031,P01,Maize,2025-08-08,Nyeri Town,Retailer,667,71.09,0.0,0.0,Paid,9,Direct Sale,Scheduled
+S00587,B00419,C0012,P06,Millet,2025-11-09,Meru Town,Wholesaler,323,95.92,0.0,0.0,Pending,28,Direct Sale,Standard
+S00588,B00779,C0030,P03,Rice,2025-06-24,Mombasa,Miller,309,98.6,6.6,204.99,Pending,12,Direct Sale,Scheduled
+S00589,B00245,C0047,P04,Wheat,2025-12-13,Nakuru,Restaurant,380,67.93,0.0,0.0,Pending,19,Agent-Brokered,Standard
+S00590,B00115,C0053,P01,Maize,2025-04-27,Meru Town,Restaurant,154,67.52,0.0,136.67,Paid,13,Standing Contract,Standard
+S00591,B00100,C0044,P04,Wheat,2025-09-21,Nyeri Town,School,359,52.55,0.0,332.59,Paid,10,Tender/Institutional Order,Standard
+S00592,B00265,C0049,P08,Cowpeas,2025-12-23,Nyeri Town,Retailer,1213,126.31,0.0,0.0,Pending,23,Direct Sale,Standard
+S00593,B00086,C0009,P06,Millet,2025-08-16,Nyeri Town,Supermarket,1130,100.91,0.0,1014.2,Pending,28,Agent-Brokered,Standard
+S00594,B00575,C0059,P08,Cowpeas,2025-05-19,Thika,Supermarket,959,136.42,0.0,0.0,Pending,16,Direct Sale,Standard
+S00595,B00887,C0040,P01,Maize,2026-03-10,Meru Town,Supermarket,583,75.94,1.7,325.29,Pending,15,Standing Contract,Urgent
+S00596,B00603,C0016,P01,Maize,2026-04-04,Nyeri Town,Miller,267,60.44,2.2,0.0,Pending,24,Agent-Brokered,Standard
+S00597,B00250,C0057,P01,Maize,2025-06-16,Nakuru,School,629,70.88,0.0,422.59,Pending,18,Tender/Institutional Order,Scheduled
+S00598,B00807,C0020,P09,Barley,2026-01-22,Nakuru,Supermarket,134,61.29,0.0,0.0,Pending,28,Direct Sale,Standard
+S00599,B00636,C0044,P04,Wheat,2025-05-24,Nyeri Town,School,456,62.88,0.0,438.45,Pending,22,Tender/Institutional Order,Standard
+S00600,B00790,C0041,P01,Maize,2026-06-11,Eldoret,Relief/NGO Buyer,28,52.36,0.0,19.24,Paid,5,Tender/Institutional Order,Scheduled
+S00601,B00529,C0037,P08,Cowpeas,2025-10-12,Thika,Supermarket,292,129.16,0.0,124.1,Paid,10,Agent-Brokered,Standard
+S00602,B00108,C0038,P06,Millet,2026-01-25,Nairobi,Miller,175,99.8,0.0,174.71,Paid,4,Direct Sale,Standard
+S00603,B00549,C0043,P01,Maize,2026-01-18,Nakuru,Supermarket,253,74.87,3.6,0.0,Paid,13,Direct Sale,Standard
+S00604,B00210,C0042,P02,Beans,2025-05-11,Meru Town,Hospital,468,162.38,2.9,0.0,Paid,2,Tender/Institutional Order,Scheduled
+S00605,B00841,C0046,P01,Maize,2025-08-28,Thika,School,279,73.32,6.2,240.0,Overdue,66,Tender/Institutional Order,Standard
+S00606,B00474,C0024,P02,Beans,2025-06-05,Kisumu,Retailer,700,144.79,6.3,349.13,Paid,10,Agent-Brokered,Standard
+S00607,B00704,C0020,P06,Millet,2026-02-17,Nakuru,Supermarket,177,111.31,0.0,0.0,Pending,18,Tender/Institutional Order,Standard
+S00608,B00426,C0031,P01,Maize,2025-04-15,Nyeri Town,Retailer,137,61.76,0.0,0.0,Pending,26,Direct Sale,Standard
+S00609,B00553,C0009,P06,Millet,2026-04-29,Nyeri Town,Supermarket,629,131.59,1.5,355.21,Paid,11,Direct Sale,Standard
+S00610,B00289,C0040,P01,Maize,2025-10-02,Meru Town,Supermarket,1247,76.28,0.0,1136.66,Pending,30,Standing Contract,Standard
+S00611,B00166,C0056,P03,Rice,2026-06-26,Mombasa,Wholesaler,2029,104.74,0.0,2072.8,Paid,15,Direct Sale,Urgent
+S00612,B00290,C0008,P01,Maize,2026-06-21,Nakuru,Retailer,752,49.42,1.0,0.0,Paid,10,Standing Contract,Urgent
+S00613,B00707,C0035,P01,Maize,2025-10-10,Nairobi,Wholesaler,1070,56.01,0.0,688.16,Pending,13,Standing Contract,Standard
+S00614,B00144,C0001,P04,Wheat,2025-04-08,Nakuru,Wholesaler,1793,68.21,0.0,813.44,Paid,6,Agent-Brokered,Standard
+S00615,B00223,C0030,P08,Cowpeas,2025-02-14,Mombasa,Miller,1322,139.09,0.0,1329.74,Pending,19,Direct Sale,Scheduled
+S00616,B00483,C0027,P01,Maize,2026-02-20,Nyeri Town,Restaurant,463,56.37,0.0,415.28,Overdue,64,Direct Sale,Scheduled
+S00617,B00542,C0013,P05,Sorghum,2026-01-07,Nairobi,Restaurant,233,73.11,0.0,271.27,Pending,16,Direct Sale,Scheduled
+S00618,B00079,C0030,P06,Millet,2026-05-31,Mombasa,Miller,1376,124.84,0.0,668.01,Paid,7,Agent-Brokered,Urgent
+S00619,B00004,C0053,P01,Maize,2026-06-27,Meru Town,Restaurant,699,59.68,0.0,764.21,Paid,18,Tender/Institutional Order,Standard
+S00620,B00674,C0027,P01,Maize,2026-06-19,Nyeri Town,Restaurant,486,64.54,0.0,431.04,Paid,8,Agent-Brokered,Standard
+S00621,B00100,C0044,P04,Wheat,2025-10-20,Nyeri Town,School,408,59.91,0.0,443.64,Paid,5,Tender/Institutional Order,Standard
+S00622,B00391,C0054,P04,Wheat,2025-04-05,Mombasa,Relief/NGO Buyer,1119,65.74,3.3,1054.22,Pending,26,Tender/Institutional Order,Standard
+S00623,B00878,C0001,P06,Millet,2026-04-18,Nakuru,Wholesaler,349,123.03,5.3,272.48,Overdue,47,Direct Sale,Urgent
+S00624,B00701,C0037,P08,Cowpeas,2026-06-07,Thika,Supermarket,266,134.8,0.0,225.63,Paid,2,Agent-Brokered,Scheduled
+S00625,B00088,C0019,P01,Maize,2026-05-06,Mombasa,Restaurant,355,70.61,0.0,234.33,Paid,14,Standing Contract,Standard
+S00626,B00743,C0026,P04,Wheat,2025-06-23,Thika,Wholesaler,578,65.56,0.0,395.6,Pending,14,Direct Sale,Standard
+S00627,B00032,C0052,P06,Millet,2026-01-08,Meru Town,School,261,136.44,2.0,212.14,Paid,9,Tender/Institutional Order,Standard
+S00628,B00713,C0039,P01,Maize,2025-12-22,Thika,Wholesaler,136,57.18,0.0,0.0,Paid,8,Tender/Institutional Order,Standard
+S00629,B00647,C0056,P01,Maize,2026-06-28,Mombasa,Wholesaler,543,58.67,0.0,624.49,Paid,10,Direct Sale,Standard
+S00630,B00264,C0056,P03,Rice,2026-05-08,Mombasa,Wholesaler,2249,109.01,5.8,2357.36,Pending,5,Direct Sale,Standard
+S00631,B00216,C0056,P02,Beans,2025-04-04,Mombasa,Wholesaler,1239,139.55,0.0,709.23,Paid,7,Tender/Institutional Order,Scheduled
+S00632,B00780,C0019,P01,Maize,2025-12-24,Mombasa,Restaurant,393,66.63,7.1,441.45,Paid,14,Agent-Brokered,Standard
+S00633,B00304,C0024,P01,Maize,2026-01-09,Kisumu,Retailer,47,74.14,0.0,58.48,Paid,15,Direct Sale,Standard
+S00634,B00558,C0028,P01,Maize,2026-05-11,Nyeri Town,School,661,58.88,6.4,0.0,Paid,4,Tender/Institutional Order,Scheduled
+S00635,B00662,C0040,P01,Maize,2025-06-11,Meru Town,Supermarket,328,63.15,1.1,200.84,Overdue,61,Agent-Brokered,Standard
+S00636,B00513,C0051,P05,Sorghum,2025-04-02,Nakuru,Wholesaler,759,78.11,0.0,711.61,Pending,13,Direct Sale,Standard
+S00637,B00391,C0053,P04,Wheat,2025-02-14,Meru Town,Restaurant,334,60.84,2.2,382.77,Pending,17,Direct Sale,Urgent
+S00638,B00231,C0026,P07,Green Grams,2026-05-20,Thika,Wholesaler,882,171.09,7.8,745.46,Paid,7,Direct Sale,Standard
+S00639,B00461,C0047,P04,Wheat,2025-09-02,Nakuru,Restaurant,347,57.79,0.0,0.0,Paid,9,Standing Contract,Standard
+S00640,B00402,C0055,P07,Green Grams,2026-06-01,Kisumu,Relief/NGO Buyer,163,180.69,0.0,0.0,Paid,14,Tender/Institutional Order,Scheduled
+S00641,B00437,C0034,P01,Maize,2026-01-15,Nairobi,Retailer,446,64.01,0.0,0.0,Paid,10,Direct Sale,Urgent
+S00642,B00807,C0020,P09,Barley,2025-11-18,Nakuru,Supermarket,164,65.93,5.1,0.0,Paid,8,Standing Contract,Standard
+S00643,B00592,C0017,P06,Millet,2026-01-27,Mombasa,Retailer,187,116.61,0.0,95.81,Paid,13,Direct Sale,Urgent
+S00644,B00768,C0045,P02,Beans,2026-04-26,Nakuru,Hospital,135,129.53,0.0,0.0,Paid,4,Tender/Institutional Order,Standard
+S00645,B00381,C0059,P02,Beans,2025-04-29,Thika,Supermarket,604,131.27,0.0,0.0,Pending,19,Direct Sale,Standard
+S00646,B00449,C0012,P01,Maize,2026-01-02,Meru Town,Wholesaler,506,60.95,0.0,0.0,Paid,13,Direct Sale,Standard
+S00647,B00813,C0007,P02,Beans,2026-04-22,Nairobi,Retailer,735,168.44,0.0,586.84,Paid,11,Direct Sale,Scheduled
+S00648,B00525,C0038,P09,Barley,2026-01-26,Nairobi,Miller,290,64.76,0.0,280.2,Paid,6,Standing Contract,Standard
+S00649,B00825,C0040,P01,Maize,2026-06-10,Meru Town,Supermarket,1093,54.8,0.0,661.36,Paid,1,Standing Contract,Scheduled
+S00650,B00093,C0044,P01,Maize,2026-06-21,Nyeri Town,School,438,57.32,0.0,328.88,Paid,10,Tender/Institutional Order,Standard
+S00651,B00861,C0034,P01,Maize,2025-11-23,Nairobi,Retailer,167,66.25,0.0,0.0,Pending,7,Standing Contract,Standard
+S00652,B00730,C0046,P06,Millet,2025-11-21,Thika,School,465,111.35,4.1,430.32,Pending,18,Tender/Institutional Order,Standard
+S00653,B00050,C0058,P05,Sorghum,2025-03-18,Eldoret,Hospital,257,77.67,0.0,207.31,Paid,14,Tender/Institutional Order,Standard
+S00654,B00275,C0022,P04,Wheat,2025-10-16,Nyeri Town,Miller,3176,67.29,0.0,0.0,Pending,24,Tender/Institutional Order,Standard
+S00655,B00240,C0034,P01,Maize,2026-01-28,Nairobi,Retailer,566,62.46,0.0,0.0,Paid,0,Agent-Brokered,Standard
+S00656,B00421,C0040,P03,Rice,2025-09-20,Meru Town,Supermarket,360,101.59,0.0,343.97,Pending,21,Standing Contract,Urgent
+S00657,B00412,C0041,P07,Green Grams,2025-10-23,Eldoret,Relief/NGO Buyer,232,171.09,0.0,181.11,Paid,7,Tender/Institutional Order,Scheduled
+S00658,B00789,C0024,P02,Beans,2026-01-09,Kisumu,Retailer,555,157.94,0.0,596.13,Overdue,30,Agent-Brokered,Standard
+S00659,B00059,C0044,P04,Wheat,2026-06-01,Nyeri Town,School,273,58.65,0.0,140.07,Paid,10,Tender/Institutional Order,Standard
+S00660,B00370,C0009,P06,Millet,2026-01-27,Nyeri Town,Supermarket,182,99.83,0.0,208.16,Pending,16,Standing Contract,Urgent
+S00661,B00069,C0003,P01,Maize,2025-05-04,Mombasa,Wholesaler,1801,68.82,3.4,1850.43,Pending,16,Tender/Institutional Order,Standard
+S00662,B00438,C0026,P07,Green Grams,2025-09-09,Thika,Wholesaler,1114,187.8,0.0,799.75,Pending,20,Direct Sale,Standard
+S00663,B00624,C0022,P01,Maize,2026-06-09,Nyeri Town,Miller,489,66.67,0.0,0.0,Paid,5,Direct Sale,Standard
+S00664,B00501,C0037,P08,Cowpeas,2025-09-11,Thika,Supermarket,470,105.74,0.0,447.49,Paid,9,Standing Contract,Scheduled
+S00665,B00659,C0031,P01,Maize,2025-07-15,Nyeri Town,Retailer,399,73.68,0.0,0.0,Paid,6,Direct Sale,Standard
+S00666,B00549,C0012,P01,Maize,2025-12-15,Meru Town,Wholesaler,438,75.66,7.3,0.0,Paid,6,Agent-Brokered,Scheduled
+S00667,B00289,C0021,P01,Maize,2025-10-21,Thika,Retailer,45,69.54,0.0,0.0,Paid,13,Direct Sale,Standard
+S00668,B00152,C0001,P03,Rice,2025-09-01,Nakuru,Wholesaler,1087,107.88,0.0,932.86,Paid,14,Agent-Brokered,Urgent
+S00669,B00771,C0030,P03,Rice,2025-04-30,Mombasa,Miller,2013,125.99,0.0,886.55,Paid,0,Direct Sale,Urgent
+S00670,B00727,C0059,P05,Sorghum,2025-07-16,Thika,Supermarket,836,63.32,0.0,0.0,Overdue,59,Tender/Institutional Order,Urgent
+S00671,B00399,C0056,P03,Rice,2025-07-06,Mombasa,Wholesaler,647,112.8,4.4,522.88,Pending,31,Direct Sale,Scheduled
+S00672,B00494,C0052,P06,Millet,2025-05-03,Meru Town,School,497,142.34,0.0,541.28,Paid,16,Tender/Institutional Order,Standard
+S00673,B00734,C0014,P07,Green Grams,2025-09-14,Kisumu,Relief/NGO Buyer,126,152.51,0.0,135.16,Overdue,55,Tender/Institutional Order,Standard
+S00674,B00321,C0015,P05,Sorghum,2026-04-11,Nairobi,Retailer,964,75.19,0.0,910.54,Paid,3,Direct Sale,Scheduled
+S00675,B00715,C0013,P05,Sorghum,2025-11-11,Nairobi,Restaurant,247,75.51,0.0,273.87,Overdue,57,Standing Contract,Standard
+S00676,B00845,C0055,P07,Green Grams,2025-06-16,Kisumu,Relief/NGO Buyer,191,187.06,0.0,0.0,Paid,4,Tender/Institutional Order,Urgent
+S00677,B00705,C0005,P01,Maize,2025-02-26,Mombasa,Retailer,1503,61.61,0.0,1657.37,Pending,17,Agent-Brokered,Standard
+S00678,B00769,C0031,P02,Beans,2026-05-26,Nyeri Town,Retailer,207,142.43,0.0,0.0,Paid,10,Tender/Institutional Order,Urgent
+S00679,B00241,C0017,P04,Wheat,2026-04-29,Mombasa,Retailer,182,70.43,0.0,103.19,Paid,4,Standing Contract,Urgent
+S00680,B00555,C0044,P04,Wheat,2025-10-26,Nyeri Town,School,264,55.15,0.0,129.17,Paid,3,Tender/Institutional Order,Standard
+S00681,B00344,C0001,P03,Rice,2025-09-07,Nakuru,Wholesaler,912,111.41,5.2,1004.56,Paid,11,Standing Contract,Standard
+S00682,B00407,C0009,P06,Millet,2025-07-19,Nyeri Town,Supermarket,1039,102.52,0.0,708.28,Paid,18,Tender/Institutional Order,Standard
+S00683,B00058,C0052,P06,Millet,2025-03-10,Meru Town,School,191,104.22,0.0,82.35,Paid,15,Tender/Institutional Order,Standard
+S00684,B00427,C0007,P02,Beans,2026-05-06,Nairobi,Retailer,110,162.75,0.0,62.38,Paid,12,Standing Contract,Standard
+S00685,B00601,C0060,P01,Maize,2025-01-30,Nairobi,Relief/NGO Buyer,509,68.97,0.0,0.0,Paid,13,Tender/Institutional Order,Scheduled
+S00686,B00008,C0030,P03,Rice,2026-02-22,Mombasa,Miller,707,109.14,0.0,856.99,Paid,12,Direct Sale,Standard
+S00687,B00538,C0001,P03,Rice,2025-08-30,Nakuru,Wholesaler,350,95.76,0.0,435.0,Overdue,54,Agent-Brokered,Standard
+S00688,B00693,C0053,P01,Maize,2025-02-24,Meru Town,Restaurant,843,49.41,0.0,605.11,Paid,13,Standing Contract,Standard
+S00689,B00328,C0006,P05,Sorghum,2026-02-11,Meru Town,Supermarket,1108,68.03,0.0,0.0,Paid,2,Direct Sale,Standard
+S00690,B00609,C0009,P06,Millet,2025-12-04,Nyeri Town,Supermarket,327,111.77,4.0,390.03,Overdue,50,Agent-Brokered,Urgent
+S00691,B00458,C0052,P06,Millet,2025-03-10,Meru Town,School,264,141.56,0.0,205.7,Paid,8,Tender/Institutional Order,Standard
+S00692,B00382,C0004,P04,Wheat,2026-05-11,Meru Town,Retailer,186,60.31,0.0,167.72,Paid,9,Agent-Brokered,Standard
+S00694,B00137,C0055,P07,Green Grams,2025-11-04,Kisumu,Relief/NGO Buyer,240,168.61,0.0,0.0,Overdue,41,Tender/Institutional Order,Urgent
+S00695,B00774,C0013,P05,Sorghum,2025-05-25,Nairobi,Restaurant,205,85.39,0.0,162.64,Paid,11,Standing Contract,Standard
+S00696,B00485,C0008,P07,Green Grams,2025-08-14,Nakuru,Retailer,973,167.48,1.5,0.0,Paid,4,Agent-Brokered,Standard
+S00699,B00297,C0022,P01,Maize,2025-06-25,Nyeri Town,Miller,259,53.9,0.0,0.0,Pending,15,Agent-Brokered,Scheduled
+S00701,B00017,C0008,P07,Green Grams,2025-11-01,Nakuru,Retailer,353,195.21,6.6,0.0,Paid,5,Standing Contract,Scheduled
+S00702,B00798,C0025,P05,Sorghum,2025-11-17,Eldoret,Wholesaler,1588,77.2,0.0,1823.82,Pending,26,Standing Contract,Standard
+S00703,B00471,C0030,P05,Sorghum,2026-04-26,Mombasa,Miller,398,67.62,7.0,485.07,Paid,8,Standing Contract,Standard
+S00704,B00877,C0003,P01,Maize,2025-12-21,Mombasa,Wholesaler,1876,56.53,0.0,2253.61,Paid,6,Direct Sale,Standard
+S00705,B00097,C0060,P01,Maize,2025-11-29,Nairobi,Relief/NGO Buyer,332,72.0,0.0,0.0,Paid,7,Tender/Institutional Order,Standard
+S00706,B00058,C0052,P06,Millet,2025-02-09,Meru Town,School,182,87.02,0.0,118.29,Paid,9,Tender/Institutional Order,Standard
+S00707,B00298,C0025,P05,Sorghum,2026-03-20,Eldoret,Wholesaler,1609,66.39,1.4,843.36,Overdue,72,Agent-Brokered,Scheduled
+S00708,B00720,C0046,P08,Cowpeas,2025-10-06,Thika,School,308,134.54,0.0,391.57,Paid,2,Tender/Institutional Order,Scheduled
+S00709,B00526,C0010,P01,Maize,2025-12-19,Thika,Hospital,93,57.06,2.6,0.0,Pending,25,Tender/Institutional Order,Standard
+S00710,B00162,C0013,P05,Sorghum,2026-02-02,Nairobi,Restaurant,261,82.98,0.0,141.86,Paid,11,Agent-Brokered,Scheduled
+S00711,B00148,C0036,P01,Maize,2025-02-03,Eldoret,Supermarket,582,73.45,0.0,0.0,Paid,4,Agent-Brokered,Scheduled
+S00712,B00239,C0008,P01,Maize,2025-05-26,Nakuru,Retailer,567,61.18,2.7,0.0,Paid,16,Direct Sale,Standard
+S00713,B00176,C0057,P01,Maize,2026-06-19,Nakuru,School,484,60.63,0.0,308.81,Paid,11,Tender/Institutional Order,Standard
+S00714,B00332,C0032,P02,Beans,2026-04-05,Kisumu,Wholesaler,1335,135.23,0.0,1321.09,Pending,15,Standing Contract,Standard
+S00715,B00033,C0015,P01,Maize,2026-05-21,Nairobi,Retailer,667,56.88,0.0,746.17,Overdue,30,Standing Contract,Standard
+S00716,B00316,C0055,P07,Green Grams,2025-06-02,Kisumu,Relief/NGO Buyer,219,176.86,7.6,0.0,Pending,21,Tender/Institutional Order,Urgent
+S00717,B00198,C0009,P05,Sorghum,2026-06-28,Nyeri Town,Supermarket,580,60.95,0.0,720.04,Overdue,47,Agent-Brokered,Scheduled
+S00718,B00137,C0055,P07,Green Grams,2026-01-02,Kisumu,Relief/NGO Buyer,305,184.79,0.0,0.0,Paid,3,Tender/Institutional Order,Scheduled
+S00719,B00572,C0051,P05,Sorghum,2026-04-16,Nakuru,Wholesaler,472,78.66,0.0,204.3,Overdue,32,Direct Sale,Standard
+S00720,B00314,C0033,P02,Beans,2025-12-09,Nakuru,Miller,585,115.24,1.4,616.27,Pending,26,Agent-Brokered,Standard
+S00721,B00375,C0008,P07,Green Grams,2026-01-10,Nakuru,Retailer,573,160.55,2.8,0.0,Pending,5,Direct Sale,Standard
+S00722,B00309,C0045,P02,Beans,2025-12-15,Nakuru,Hospital,283,131.92,0.0,0.0,Paid,10,Tender/Institutional Order,Standard
+S00723,B00364,C0034,P01,Maize,2026-02-26,Nairobi,Retailer,349,61.52,0.0,0.0,Paid,8,Standing Contract,Standard
+S00724,B00382,C0012,P04,Wheat,2026-06-15,Meru Town,Wholesaler,476,55.6,0.0,0.0,Pending,23,Direct Sale,Standard
+S00725,B00214,C0007,P01,Maize,2026-05-18,Nairobi,Retailer,971,53.11,6.1,604.37,Paid,7,Agent-Brokered,Standard
+S00726,B00003,C0040,P04,Wheat,2025-10-18,Meru Town,Supermarket,363,53.04,0.0,310.26,Paid,10,Direct Sale,Standard
+S00727,B00750,C0045,P02,Beans,2025-03-12,Nakuru,Hospital,237,112.35,1.1,0.0,Paid,5,Tender/Institutional Order,Scheduled
+S00728,B00140,C0053,P01,Maize,2026-01-06,Meru Town,Restaurant,766,68.66,0.0,592.46,Pending,19,Direct Sale,Standard
+S00729,B00543,C0025,P01,Maize,2025-09-02,Eldoret,Wholesaler,116,65.54,0.0,76.14,Overdue,55,Tender/Institutional Order,Standard
+S00732,B00674,C0005,P01,Maize,2026-06-15,Mombasa,Retailer,1194,53.59,0.0,656.49,Paid,9,Standing Contract,Standard
+S00734,B00044,C0009,P05,Sorghum,2025-07-12,Nyeri Town,Supermarket,613,82.69,5.8,306.48,Paid,10,Standing Contract,Standard
+S00735,B00751,C0058,P05,Sorghum,2026-06-20,Eldoret,Hospital,691,85.3,0.0,351.41,Paid,4,Tender/Institutional Order,Standard
+S00736,B00565,C0015,P05,Sorghum,2025-11-16,Nairobi,Retailer,491,65.31,6.1,439.02,Pending,15,Tender/Institutional Order,Scheduled
+S00737,B00376,C0003,P01,Maize,2026-06-12,Mombasa,Wholesaler,517,65.89,0.0,655.35,Paid,6,Standing Contract,Standard
+S00738,B00827,C0003,P02,Beans,2025-08-25,Mombasa,Wholesaler,682,137.9,0.0,285.03,Pending,17,Agent-Brokered,Standard
+S00739,B00161,C0028,P01,Maize,2025-03-02,Nyeri Town,School,337,51.65,3.8,0.0,Paid,15,Tender/Institutional Order,Standard
+S00740,B00006,C0005,P01,Maize,2025-01-15,Mombasa,Retailer,414,82.05,0.0,451.33,Pending,17,Direct Sale,Scheduled
+S00741,B00838,C0045,P01,Maize,2025-11-18,Nakuru,Hospital,334,65.49,0.0,0.0,Paid,3,Tender/Institutional Order,Standard
+S00742,B00521,C0059,P02,Beans,2025-05-09,Thika,Supermarket,788,135.15,3.6,0.0,Paid,11,Tender/Institutional Order,Standard
+S00743,B00606,C0052,P09,Barley,2025-05-16,Meru Town,School,312,64.44,0.0,190.13,Paid,15,Tender/Institutional Order,Standard
+S00744,B00176,C0021,P01,Maize,2026-06-30,Thika,Retailer,372,64.85,0.0,0.0,Paid,2,Standing Contract,Standard
+S00745,B00731,C0028,P01,Maize,2025-06-02,Nyeri Town,School,500,64.8,4.8,0.0,Paid,18,Tender/Institutional Order,Standard
+S00747,B00741,C0007,P02,Beans,2025-06-13,Nairobi,Retailer,421,124.61,0.0,311.01,Overdue,54,Direct Sale,Urgent
+S00748,B00581,C0039,P09,Barley,2025-02-11,Thika,Wholesaler,92,55.79,0.0,0.0,Pending,28,Direct Sale,Standard
+S00749,B00204,C0050,P01,Maize,2025-07-08,Meru Town,Retailer,401,58.19,4.5,204.61,Paid,16,Direct Sale,Urgent
+S00750,B00494,C0035,P06,Millet,2025-04-10,Nairobi,Wholesaler,1040,104.97,0.0,912.15,Pending,27,Standing Contract,Standard

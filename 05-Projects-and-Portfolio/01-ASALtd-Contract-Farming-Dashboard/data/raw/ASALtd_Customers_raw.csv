@@ -1,0 +1,61 @@
+customer_id,customer_name,customer_type,city,county,market_segment,average_order_size_kg,payment_terms,credit_risk_level,preferred_product,delivery_preference,relationship_start_date
+C0001,Odhiambo Millers,Wholesaler,Nakuru,Nakuru,Wholesale,3336,Cash on Delivery,High,Rice,Third-Party Transporter,2022-02-03
+C0002,Urban Restaurant,Restaurant,Nakuru,Nakuru,Foodservice,1003,Cash on Delivery,Low,Maize,Third-Party Transporter,2024-05-03
+C0003,Wekesa Foods,Wholesaler,Mombasa,Mombasa,Wholesale,3259,Net 7,Low,Maize,Third-Party Transporter,2022-02-11
+C0004,Kiplagat Ltd,Retailer,Meru Town,Meru,Retail,302,Cash on Delivery,Low,Barley,Company Delivery,2023-12-08
+C0005,Kiprono Foods,Retailer,Mombasa,Mombasa,Retail,1870,Net 7,Low,Maize,Third-Party Transporter,2022-12-25
+C0006,FreshChoice Supermarket Meru Town,Supermarket,Meru Town,Meru,Retail,2130,Net 30,Low,Sorghum,Customer Pickup,2022-03-17
+C0007,Wafula Traders,Retailer,Nairobi,Nairobi,Retail,1001,Net 7,Low,Beans,Third-Party Transporter,2024-08-27
+C0008,Achieng Foods,Retailer,Nakuru,Nakuru,Retail,2676,Cash on Delivery,Medium,Green Grams,Customer Pickup,2022-09-12
+C0009,FreshChoice Supermarket Nyeri Town,Supermarket,Nyeri Town,Nyeri,Retail,2339,Net 30,Low,Millet,Company Delivery,2024-10-13
+C0010,Thika Nursing Home,Hospital,Thika,Kiambu,Institutional,1352,Cash on Delivery,Low,Maize,Customer Pickup,2023-01-05
+C0011,Mutua Enterprises,Miller,Thika,Kiambu,Processing,3954,Cash on Delivery,Low,Beans,Third-Party Transporter,2024-05-22
+C0012,Barasa General Merchants,Wholesaler,Meru Town,Meru,Wholesale,3678,Net 30,Low,Maize,Customer Pickup,2023-07-17
+C0013,Savanna Grill,Restaurant,Nairobi,Nairobi,Foodservice,245,Net 7,Medium,Sorghum,Third-Party Transporter,2022-11-24
+C0014,Care NGO Kenya,Relief/NGO Buyer,Kisumu,Kisumu,Institutional,787,Cash on Delivery,Low,Green Grams,Third-Party Transporter,2024-01-21
+C0015,Auma Wholesalers,Retailer,Nairobi,Nairobi,Retail,1406,Net 30,Low,Sorghum,Company Delivery,2022-10-09
+C0016,Kiptoo Supplies,Miller,Nyeri Town,Nyeri,Processing,4207,Cash on Delivery,Medium,Maize,Customer Pickup,2024-11-26
+C0017,Kamau Supplies,Retailer,Mombasa,Mombasa,Retail,345,Cash on Delivery,Medium,Millet,Third-Party Transporter,2024-10-02
+C0018,Otieno General Merchants,Wholesaler,Kisumu,Kisumu,Wholesale,2259,Net 14,High,Maize,Third-Party Transporter,2023-10-17
+C0019,Coastal Grill,Restaurant,Mombasa,Mombasa,Foodservice,901,Cash on Delivery,Low,Maize,Third-Party Transporter,2022-12-23
+C0020,QuickMart Supermarket Nakuru,Supermarket,Nakuru,Nakuru,Retail,180,Net 14,Low,Barley,Customer Pickup,2022-02-23
+C0021,Chebet Distributors,Retailer,Thika,Kiambu,Retail,883,Net 30,Low,Maize,Customer Pickup,2024-09-07
+C0022,Kiprono Enterprises,Miller,Nyeri Town,Nyeri,Processing,3158,Net 7,Low,Maize,Customer Pickup,2024-11-25
+C0023,Cherop Ltd,Retailer,Kisumu,Kisumu,Retail,492,Net 30,Medium,Wheat,Third-Party Transporter,2022-11-10
+C0024,Kiptoo Stores,Retailer,Kisumu,Kisumu,Retail,897,Net 30,High,Beans,Company Delivery,2023-05-29
+C0025,Cherop Supplies,Wholesaler,Eldoret,Uasin Gishu,Wholesale,3592,Cash on Delivery,Medium,Sorghum,Third-Party Transporter,2022-11-12
+C0026,Kiprono Traders,Wholesaler,Thika,Kiambu,Wholesale,2661,Cash on Delivery,Low,Green Grams,Third-Party Transporter,2023-06-27
+C0027,Coastal Grill,Restaurant,Nyeri Town,Nyeri,Foodservice,549,Net 30,Low,Maize,Third-Party Transporter,2023-09-11
+C0028,Uhuru Secondary School,School,Nyeri Town,Nyeri,Institutional,873,Cash on Delivery,Low,Maize,Customer Pickup,2024-08-09
+C0029,Kiptoo Foods,Wholesaler,Kisumu,Kisumu,Wholesale,2457,Net 30,High,Millet,Company Delivery,2024-01-29
+C0030,Kiptoo Stores,Miller,Mombasa,Mombasa,Processing,4566,Cash on Delivery,Low,Rice,Company Delivery,2022-04-14
+C0031,Auma Ltd,Retailer,Nyeri Town,Nyeri,Retail,953,Net 30,Low,Maize,Customer Pickup,2023-10-03
+C0032,Kariuki Distributors,Wholesaler,Kisumu,Kisumu,Wholesale,2587,Net 30,Low,Rice,Company Delivery,2024-03-16
+C0033,Wafula Millers,Miller,Nakuru,Nakuru,Processing,3061,Cash on Delivery,Low,Beans,Third-Party Transporter,2024-08-21
+C0034,Mutua Ltd,Retailer,Nairobi,Nairobi,Retail,870,Cash on Delivery,Low,Maize,Customer Pickup,2024-01-20
+C0035,Kiprono Distributors,Wholesaler,Nairobi,Nairobi,Wholesale,2812,Net 14,Low,Maize,Third-Party Transporter,2024-07-11
+C0036,Value Supermarket Eldoret,Supermarket,Eldoret,Uasin Gishu,Retail,661,Cash on Delivery,High,Sorghum,Customer Pickup,2024-02-04
+C0037,Value Supermarket Thika,Supermarket,Thika,Kiambu,Retail,641,Net 14,Low,Cowpeas,Third-Party Transporter,2024-04-02
+C0038,Kiplagat Wholesalers,Miller,Nairobi,Nairobi,Processing,2307,Net 30,Low,Millet,Company Delivery,2024-11-21
+C0039,Njoroge Ltd,Wholesaler,Thika,Kiambu,Wholesale,3952,Net 14,Low,Barley,Customer Pickup,2024-11-04
+C0040,Value Supermarket Meru Town,Supermarket,Meru Town,Meru,Retail,1303,Net 30,Low,Maize,Third-Party Transporter,2022-08-13
+C0041,Hope NGO Kenya,Relief/NGO Buyer,Eldoret,Uasin Gishu,Institutional,1122,Net 30,Medium,Rice,Third-Party Transporter,2023-04-12
+C0042,Meru Town County Hospital,Hospital,Meru Town,Meru,Institutional,862,Net 14,Medium,Wheat,Customer Pickup,2022-10-30
+C0043,QuickMart Supermarket Nakuru,Supermarket,Nakuru,Nakuru,Retail,486,Net 14,Low,Wheat,Customer Pickup,2023-10-05
+C0044,Kenyatta Secondary School,School,Nyeri Town,Nyeri,Institutional,564,Net 14,Low,Wheat,Third-Party Transporter,2022-05-08
+C0045,Nakuru Nursing Home,Hospital,Nakuru,Nakuru,Institutional,333,Net 14,Low,Beans,Customer Pickup,2022-12-21
+C0046,Jubilee Academy,School,Thika,Kiambu,Institutional,610,Net 14,Medium,Millet,Third-Party Transporter,2023-06-26
+C0047,Nyama Choma Eatery,Restaurant,Nakuru,Nakuru,Foodservice,441,Cash on Delivery,High,Wheat,Customer Pickup,2023-08-15
+C0048,Meru Town Medical Centre,Hospital,Meru Town,Meru,Institutional,2267,Net 14,High,Rice,Third-Party Transporter,2023-07-15
+C0049,Muthoni Foods,Retailer,Nyeri Town,Nyeri,Retail,1533,Net 30,Low,Cowpeas,Customer Pickup,2022-06-11
+C0050,Kamau General Merchants,Retailer,Meru Town,Meru,Retail,978,Net 30,Low,Maize,Third-Party Transporter,2023-07-11
+C0051,Mwangi Traders,Wholesaler,Nakuru,Nakuru,Wholesale,2522,Net 7,Medium,Sorghum,Company Delivery,2022-07-25
+C0052,St. Joseph Academy,School,Meru Town,Meru,Institutional,457,Cash on Delivery,Medium,Millet,Company Delivery,2024-04-13
+C0053,Highlands Grill,Restaurant,Meru Town,Meru,Foodservice,828,Net 30,Low,Maize,Third-Party Transporter,2022-05-02
+C0054,Care Relief Foundation,Relief/NGO Buyer,Mombasa,Mombasa,Institutional,1569,Net 14,High,Wheat,Company Delivery,2024-05-05
+C0055,Hope Aid Trust,Relief/NGO Buyer,Kisumu,Kisumu,Institutional,340,Cash on Delivery,Medium,Green Grams,Customer Pickup,2022-03-18
+C0056,Kiptoo Supplies,Wholesaler,Mombasa,Mombasa,Wholesale,3293,Net 14,Low,Rice,Company Delivery,2024-10-29
+C0057,St. Joseph Secondary School,School,Nakuru,Nakuru,Institutional,608,Net 7,Low,Maize,Company Delivery,2022-01-29
+C0058,Eldoret Nursing Home,Hospital,Eldoret,Uasin Gishu,Institutional,681,Cash on Delivery,Medium,Sorghum,Third-Party Transporter,2024-04-10
+C0059,QuickMart Supermarket Thika,Supermarket,Thika,Kiambu,Retail,961,Cash on Delivery,High,Beans,Customer Pickup,2023-10-25
+C0060,Harvest Aid Trust,Relief/NGO Buyer,Nairobi,Nairobi,Institutional,534,Net 14,High,Maize,Customer Pickup,2022-01-24

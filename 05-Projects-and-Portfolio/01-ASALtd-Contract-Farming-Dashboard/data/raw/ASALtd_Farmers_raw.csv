@@ -1,0 +1,121 @@
+farmer_id,farmer_name,farmer_type,county,sub_county,ward,gender_of_lead_farmer,farm_size_acres,primary_cereal,farming_model,aggregation_channel,certification_status,distance_to_collection_center_km,payment_preference,reliability_score,registration_date
+F0001,Trans Grain Growers Association #18,Youth Farmer Group,Trans Nzoia,Trans Nzoia Sub-County 1,Trans Nzoia Ward 9,Male,4.2,Maize,Rainfed,Cooperative Bulking,None,9.2,Mobile Money,74,2022-04-22
+F0002,David Nyongesa,Medium-Scale Farmer,Trans Nzoia,Trans Nzoia Sub-County 4,Trans Nzoia Ward 5,Male,10.5,Beans,Mixed,Direct Delivery,Certified Seed User,19.1,Mobile Money,72,2023-05-16
+F0003,Nancy Kiptoo,Smallholder Farmer,Meru,Meru Sub-County 4,Meru Ward 2,Female,7.9,Maize,Rainfed,Field Agent,Certified Seed User,32.5,Bank Transfer,85,2023-07-30
+F0004,Esther Auma,Medium-Scale Farmer,Kakamega,Kakamega Sub-County 3,Kakamega Ward 4,Female,10.1,Cowpeas,Mixed,Direct Delivery,Certified Seed User,2.8,Bank Transfer,83,2021-06-13
+F0005,Nakuru Youth Agribusiness Group #18,Cooperative,Nakuru,Nakuru Sub-County 3,Nakuru Ward 3,Female,3.5,Sorghum,Rainfed,Collection Center,Certified Seed User,4.1,Bank Transfer,51,2024-10-31
+F0006,Kirinyaga Farmers Cooperative Society #16,Youth Farmer Group,Kirinyaga,Kirinyaga Sub-County 3,Kirinyaga Ward 9,Male,1.3,Rice,Rainfed,Field Agent,GAP Certified,5.1,Bank Transfer,80,2022-04-15
+F0007,Narok Youth Agribusiness Group #18,Cooperative,Narok,Narok Sub-County 3,Narok Ward 4,Male,7.5,Maize,Irrigated,Cooperative Bulking,GAP Certified,7.5,Mobile Money,73,2021-10-20
+F0008,Stephen Kamau,Smallholder Farmer,Kitui,Kitui Sub-County 4,Kitui Ward 7,Male,1.9,Millet,Rainfed,Collection Center,None,2.7,Mobile Money,77,2021-04-07
+F0009,Meru Grain Growers Association #11,Cooperative,Meru,Meru Sub-County 4,Meru Ward 7,Female,1.9,Sorghum,Irrigated,Cooperative Bulking,None,6.2,Cash,72,2021-01-24
+F0010,Nakuru Grain Growers Association #35,Women-Led Group,Nakuru,Nakuru Sub-County 3,Nakuru Ward 2,Female,3.0,Millet,Rainfed,Collection Center,None,22.6,Cash,62,2022-06-24
+F0011,Peter Achieng,Commercial Farmer,Kirinyaga,Kirinyaga Sub-County 2,Kirinyaga Ward 3,Male,13.2,Green Grams,Rainfed,Collection Center,None,7.6,Bank Transfer,60,2023-12-23
+F0012,Narok Youth Agribusiness Group #2,Cooperative,Narok,Narok Sub-County 3,Narok Ward 4,Male,0.9,Cowpeas,Rainfed,Direct Delivery,None,14.4,Mobile Money,78,2021-05-22
+F0013,Lucy Nyongesa,Commercial Farmer,Meru,Meru Sub-County 4,Meru Ward 4,Female,12.9,Maize,Mixed,Collection Center,Certified Seed User,3.0,Mobile Money,78,2024-10-07
+F0014,Nyeri Farmers Cooperative Society #29,Youth Farmer Group,Nyeri,Nyeri Sub-County 1,Nyeri Ward 6,Male,2.7,Maize,Rainfed,Collection Center,Certified Seed User,3.8,Mobile Money,72,2024-07-16
+F0015,Simon Kiptoo,Smallholder Farmer,Bungoma,Bungoma Sub-County 2,Bungoma Ward 5,Male,2.1,Maize,Irrigated,Collection Center,None,8.0,Bank Transfer,89,2024-03-15
+F0016,Kitui Youth Agribusiness Group #27,Youth Farmer Group,Kitui,Kitui Sub-County 4,Kitui Ward 6,Male,3.8,Maize,Rainfed,Cooperative Bulking,GAP Certified,40.0,Mobile Money,70,2024-08-31
+F0017,Josephine Kiptoo,Commercial Farmer,Nakuru,Nakuru Sub-County 1,Nakuru Ward 4,Female,9.7,Green Grams,Rainfed,Cooperative Bulking,None,16.2,Mobile Money,83,2023-08-06
+F0018,Simon Nyongesa,Smallholder Farmer,Bungoma,Bungoma Sub-County 1,Bungoma Ward 2,Male,5.9,Maize,Mixed,Collection Center,None,1.7,Mobile Money,88,2022-03-14
+F0019,Uasin Cereal Growers Cooperative #25,Cooperative,Uasin Gishu,Uasin Gishu Sub-County 3,Uasin Gishu Ward 8,Male,1.5,Barley,Rainfed,Cooperative Bulking,None,9.8,Mobile Money,71,2021-04-30
+F0020,Uasin Grain Growers Association #21,Youth Farmer Group,Uasin Gishu,Uasin Gishu Sub-County 4,Uasin Gishu Ward 9,Male,2.1,Maize,Mixed,Collection Center,None,4.5,Mobile Money,73,2022-01-16
+F0021,Samuel Muthoni,Smallholder Farmer,Bungoma,Bungoma Sub-County 2,Bungoma Ward 1,Male,5.1,Maize,Irrigated,Cooperative Bulking,Certified Seed User,6.8,Mobile Money,93,2022-10-10
+F0022,Daniel Mwangi,Commercial Farmer,Makueni,Makueni Sub-County 2,Makueni Ward 5,Male,11.8,Maize,Rainfed,Direct Delivery,None,8.4,Mobile Money,67,2024-02-28
+F0023,Stephen Kamau,Commercial Farmer,Bungoma,Bungoma Sub-County 3,Bungoma Ward 2,Male,10.9,Maize,Mixed,Field Agent,None,6.0,Mobile Money,96,2024-01-18
+F0024,Trans Grain Growers Association #36,Women-Led Group,Trans Nzoia,Trans Nzoia Sub-County 1,Trans Nzoia Ward 3,Female,3.2,Maize,Rainfed,Direct Delivery,Certified Seed User,7.4,Mobile Money,72,2022-08-01
+F0025,Narok Cereal Growers Cooperative #17,Youth Farmer Group,Narok,Narok Sub-County 1,Narok Ward 2,Female,2.5,Maize,Irrigated,Field Agent,None,13.7,Mobile Money,80,2021-09-25
+F0026,Machakos Cereal Growers Cooperative #29,Youth Farmer Group,Machakos,Machakos Sub-County 1,Machakos Ward 2,Female,1.5,Wheat,Mixed,Collection Center,None,15.9,Bank Transfer,69,2024-04-07
+F0027,Esther Barasa,Medium-Scale Farmer,Kisii,Kisii Sub-County 1,Kisii Ward 6,Female,13.5,Cowpeas,Rainfed,Collection Center,Certified Seed User,2.9,Mobile Money,80,2024-02-21
+F0028,Kisii Farmers Cooperative Society #10,Cooperative,Kisii,Kisii Sub-County 2,Kisii Ward 7,Male,3.2,Green Grams,Rainfed,Field Agent,Certified Seed User,21.4,Mobile Money,88,2024-10-03
+F0029,Kitui Women in Agriculture Group #11,Cooperative,Kitui,Kitui Sub-County 1,Kitui Ward 8,Male,1.7,Beans,Rainfed,Cooperative Bulking,None,6.0,Bank Transfer,71,2022-04-12
+F0030,Esther Otieno,Smallholder Farmer,Makueni,Makueni Sub-County 3,Makueni Ward 6,Female,3.7,Barley,Irrigated,Cooperative Bulking,Certified Seed User,7.4,Bank Transfer,79,2022-11-10
+F0031,Joseph Njoroge,Commercial Farmer,Nakuru,Nakuru Sub-County 3,Nakuru Ward 1,Male,8.8,Wheat,Rainfed,Cooperative Bulking,None,4.7,Bank Transfer,70,2023-06-13
+F0032,Nakuru Youth Agribusiness Group #37,Youth Farmer Group,Nakuru,Nakuru Sub-County 4,Nakuru Ward 1,Male,2.6,Maize,Rainfed,Collection Center,None,11.9,Mobile Money,81,2024-09-22
+F0033,Peter Achieng,Commercial Farmer,Narok,Narok Sub-County 4,Narok Ward 6,Male,11.6,Wheat,Rainfed,Field Agent,Certified Seed User,3.6,Mobile Money,75,2024-09-23
+F0034,Joseph Muthoni,Commercial Farmer,Kirinyaga,Kirinyaga Sub-County 1,Kirinyaga Ward 5,Male,8.4,Wheat,Rainfed,Cooperative Bulking,Certified Seed User,1.3,Mobile Money,75,2022-10-22
+F0035,Stephen Kariuki,Medium-Scale Farmer,Nyeri,Nyeri Sub-County 2,Nyeri Ward 2,Male,11.1,Green Grams,Rainfed,Field Agent,None,3.9,Cash,99,2022-04-27
+F0036,Kitui Cereal Growers Cooperative #10,Youth Farmer Group,Kitui,Kitui Sub-County 4,Kitui Ward 2,Male,2.6,Maize,Rainfed,Collection Center,Certified Seed User,7.1,Mobile Money,79,2023-03-30
+F0037,Simon Mutua,Smallholder Farmer,Trans Nzoia,Trans Nzoia Sub-County 2,Trans Nzoia Ward 3,Male,6.2,Millet,Mixed,Cooperative Bulking,None,12.7,Mobile Money,85,2021-09-06
+F0038,Stephen Auma,Medium-Scale Farmer,Nyeri,Nyeri Sub-County 4,Nyeri Ward 9,Male,15.2,Beans,Rainfed,Cooperative Bulking,GAP Certified,7.9,Bank Transfer,57,2023-08-31
+F0039,Joseph Wekesa,Medium-Scale Farmer,Kitui,Kitui Sub-County 2,Kitui Ward 5,Male,9.3,Rice,Rainfed,Field Agent,None,9.0,Mobile Money,68,2024-01-12
+F0040,Josephine Cherop,Smallholder Farmer,Meru,Meru Sub-County 1,Meru Ward 7,Female,0.7,Millet,Rainfed,Cooperative Bulking,None,2.7,Mobile Money,76,2023-05-11
+F0041,Charles Kiprono,Medium-Scale Farmer,Trans Nzoia,Trans Nzoia Sub-County 1,Trans Nzoia Ward 6,Male,9.4,Beans,Rainfed,Cooperative Bulking,GAP Certified,2.3,Cash,96,2023-05-09
+F0042,Joseph Odhiambo,Medium-Scale Farmer,Kitui,Kitui Sub-County 4,Kitui Ward 6,Male,9.6,Rice,Irrigated,Cooperative Bulking,Certified Seed User,19.9,Bank Transfer,71,2021-09-19
+F0043,Kennedy Kiprono,Commercial Farmer,Trans Nzoia,Trans Nzoia Sub-County 1,Trans Nzoia Ward 7,Male,13.1,Sorghum,Rainfed,Cooperative Bulking,None,8.3,Mobile Money,59,2022-11-02
+F0044,Winnie Muthoni,Smallholder Farmer,Narok,Narok Sub-County 4,Narok Ward 5,Female,0.7,Maize,Mixed,Cooperative Bulking,None,21.5,Mobile Money,78,2022-12-18
+F0045,Moses Kiplagat,Smallholder Farmer,Bungoma,Bungoma Sub-County 2,Bungoma Ward 4,Male,3.6,Millet,Mixed,Collection Center,None,4.9,Mobile Money,86,2021-08-23
+F0046,Makueni Youth Agribusiness Group #17,Youth Farmer Group,Makueni,Makueni Sub-County 1,Makueni Ward 3,Female,4.3,Maize,Mixed,Direct Delivery,Certified Seed User,14.6,Cash,79,2024-03-25
+F0047,Kakamega Youth Agribusiness Group #13,Youth Farmer Group,Kakamega,Kakamega Sub-County 2,Kakamega Ward 2,Male,1.7,Sorghum,Irrigated,Field Agent,GAP Certified,21.6,Mobile Money,79,2021-09-05
+F0048,Uasin Women in Agriculture Group #35,Women-Led Group,Uasin Gishu,Uasin Gishu Sub-County 3,Uasin Gishu Ward 2,Female,3.7,Beans,Rainfed,Field Agent,None,2.6,Mobile Money,66,2023-10-01
+F0049,Simon Chebet,Smallholder Farmer,Busia,Busia Sub-County 4,Busia Ward 3,Male,9.2,Millet,Mixed,Field Agent,Certified Seed User,3.3,Cash,82,2023-09-18
+F0050,Ruth Otieno,Medium-Scale Farmer,Machakos,Machakos Sub-County 4,Machakos Ward 4,Female,9.3,Maize,Mixed,Cooperative Bulking,None,13.4,Mobile Money,86,2022-10-28
+F0051,Esther Kiptoo,Smallholder Farmer,Makueni,Makueni Sub-County 3,Makueni Ward 9,Female,5.6,Maize,Rainfed,Collection Center,None,8.6,Bank Transfer,81,2023-09-28
+F0052,Moses Kariuki,Medium-Scale Farmer,Kitui,Kitui Sub-County 1,Kitui Ward 2,Male,10.5,Rice,Rainfed,Cooperative Bulking,Certified Seed User,3.5,Mobile Money,66,2024-04-06
+F0053,David Nyongesa,Smallholder Farmer,Busia,Busia Sub-County 4,Busia Ward 5,Male,2.8,Beans,Rainfed,Collection Center,None,10.0,Mobile Money,80,2021-09-02
+F0054,Kirinyaga Cereal Growers Cooperative #14,Women-Led Group,Kirinyaga,Kirinyaga Sub-County 3,Kirinyaga Ward 9,Female,3.0,Millet,Irrigated,Direct Delivery,GAP Certified,7.1,Mobile Money,94,2023-01-10
+F0055,James Kamau,Smallholder Farmer,Trans Nzoia,Trans Nzoia Sub-County 1,Trans Nzoia Ward 9,Male,4.6,Maize,Rainfed,Collection Center,Certified Seed User,1.2,Bank Transfer,64,2021-07-30
+F0056,Kisumu Youth Agribusiness Group #31,Cooperative,Kisumu,Kisumu Sub-County 1,Kisumu Ward 5,Female,1.2,Beans,Mixed,Cooperative Bulking,None,28.7,Mobile Money,82,2023-10-05
+F0057,Nancy Kiprono,Smallholder Farmer,Uasin Gishu,Uasin Gishu Sub-County 1,Uasin Gishu Ward 4,Female,2.5,Cowpeas,Rainfed,Cooperative Bulking,Certified Seed User,24.7,Bank Transfer,85,2022-04-08
+F0058,Kakamega Youth Agribusiness Group #29,Women-Led Group,Kakamega,Kakamega Sub-County 4,Kakamega Ward 5,Female,4.1,Maize,Irrigated,Direct Delivery,Certified Seed User,18.3,Bank Transfer,75,2022-03-02
+F0059,Machakos Grain Growers Association #6,Youth Farmer Group,Machakos,Machakos Sub-County 1,Machakos Ward 3,Male,1.5,Maize,Rainfed,Cooperative Bulking,Certified Seed User,4.4,Mobile Money,56,2021-03-08
+F0060,Paul Otieno,Smallholder Farmer,Kisumu,Kisumu Sub-County 3,Kisumu Ward 4,Male,3.5,Sorghum,Rainfed,Collection Center,Certified Seed User,11.7,Cash,59,2021-10-19
+F0061,Kennedy Kiprono,Smallholder Farmer,Kirinyaga,Kirinyaga Sub-County 4,Kirinyaga Ward 2,Male,1.4,Cowpeas,Rainfed,Field Agent,Certified Seed User,42.5,Cash,77,2023-10-22
+F0062,Mary Odhiambo,Medium-Scale Farmer,Nyeri,Nyeri Sub-County 3,Nyeri Ward 1,Female,11.1,Millet,Rainfed,Direct Delivery,Organic (In-Conversion),13.2,Bank Transfer,61,2022-07-06
+F0063,Kirinyaga Youth Agribusiness Group #34,Youth Farmer Group,Kirinyaga,Kirinyaga Sub-County 2,Kirinyaga Ward 7,Female,6.0,Cowpeas,Irrigated,Cooperative Bulking,Organic (In-Conversion),4.1,Mobile Money,89,2023-04-17
+F0064,Daniel Odhiambo,Smallholder Farmer,Nakuru,Nakuru Sub-County 3,Nakuru Ward 7,Male,4.3,Sorghum,Mixed,Direct Delivery,None,23.0,Mobile Money,82,2022-10-25
+F0065,Simon Wanjiru,Smallholder Farmer,Kakamega,Kakamega Sub-County 4,Kakamega Ward 7,Male,4.3,Sorghum,Rainfed,Field Agent,Certified Seed User,10.4,Mobile Money,99,2023-06-25
+F0066,Makueni Women in Agriculture Group #36,Women-Led Group,Makueni,Makueni Sub-County 3,Makueni Ward 8,Female,5.6,Maize,Mixed,Cooperative Bulking,None,4.7,Cash,84,2024-05-31
+F0067,Kirinyaga Women in Agriculture Group #36,Women-Led Group,Kirinyaga,Kirinyaga Sub-County 4,Kirinyaga Ward 2,Female,1.6,Maize,Rainfed,Direct Delivery,None,1.3,Mobile Money,72,2021-11-12
+F0068,Joseph Odhiambo,Medium-Scale Farmer,Kisumu,Kisumu Sub-County 4,Kisumu Ward 4,Male,19.4,Green Grams,Rainfed,Collection Center,None,9.0,Cash,51,2023-11-07
+F0069,Meru Farmers Group #18,Women-Led Group,Meru,Meru Sub-County 4,Meru Ward 6,Female,2.1,Millet,Mixed,Field Agent,GAP Certified,7.6,Mobile Money,90,2022-09-04
+F0070,Embu Cereal Growers Cooperative #29,Cooperative,Embu,Embu Sub-County 4,Embu Ward 8,Female,1.7,Beans,Mixed,Collection Center,Organic (In-Conversion),1.8,Mobile Money,84,2023-02-24
+F0071,Josephine Kariuki,Smallholder Farmer,Kisii,Kisii Sub-County 4,Kisii Ward 7,Female,3.1,Millet,Mixed,Collection Center,None,10.1,Mobile Money,67,2023-10-26
+F0072,Simon Chebet,Commercial Farmer,Narok,Narok Sub-County 4,Narok Ward 1,Male,8.4,Maize,Mixed,Cooperative Bulking,GAP Certified,3.8,Cash,78,2021-06-03
+F0073,Josephine Muthoni,Medium-Scale Farmer,Machakos,Machakos Sub-County 3,Machakos Ward 9,Female,9.6,Sorghum,Rainfed,Field Agent,Certified Seed User,30.6,Bank Transfer,74,2023-09-27
+F0074,Uasin Farmers Cooperative Society #5,Cooperative,Uasin Gishu,Uasin Gishu Sub-County 3,Uasin Gishu Ward 4,Male,4.2,Sorghum,Mixed,Cooperative Bulking,Organic (In-Conversion),2.7,Bank Transfer,87,2024-12-12
+F0075,Nyeri Cereal Growers Cooperative #20,Cooperative,Nyeri,Nyeri Sub-County 1,Nyeri Ward 5,Male,2.1,Maize,Rainfed,Cooperative Bulking,None,12.3,Mobile Money,67,2024-03-05
+F0076,Kirinyaga Cereal Growers Cooperative #12,Women-Led Group,Kirinyaga,Kirinyaga Sub-County 4,Kirinyaga Ward 4,Female,1.0,Maize,Rainfed,Collection Center,None,13.1,Mobile Money,87,2023-07-31
+F0077,Paul Achieng,Smallholder Farmer,Trans Nzoia,Trans Nzoia Sub-County 2,Trans Nzoia Ward 2,Male,10.4,Sorghum,Rainfed,Field Agent,Organic (In-Conversion),3.6,Mobile Money,89,2023-05-19
+F0078,Nyeri Women in Agriculture Group #13,Women-Led Group,Nyeri,Nyeri Sub-County 4,Nyeri Ward 2,Female,6.7,Barley,Rainfed,Field Agent,Certified Seed User,2.1,Cash,66,2022-08-28
+F0079,Beatrice Kiplagat,Smallholder Farmer,Kakamega,Kakamega Sub-County 4,Kakamega Ward 5,Female,4.1,Cowpeas,Mixed,Collection Center,Certified Seed User,1.9,Mobile Money,86,2024-07-27
+F0080,David Cherop,Smallholder Farmer,Machakos,Machakos Sub-County 1,Machakos Ward 5,Male,0.5,Sorghum,Mixed,Direct Delivery,Certified Seed User,6.1,Bank Transfer,62,2021-07-04
+F0081,Narok Grain Growers Association #27,Cooperative,Narok,Narok Sub-County 3,Narok Ward 9,Male,8.2,Maize,Rainfed,Field Agent,GAP Certified,1.4,Mobile Money,57,2023-09-14
+F0082,Daniel Mutua,Commercial Farmer,Kisumu,Kisumu Sub-County 1,Kisumu Ward 3,Male,15.4,Rice,Mixed,Collection Center,GAP Certified,18.5,Bank Transfer,57,2023-03-25
+F0083,Faith Wanjiru,Commercial Farmer,Busia,Busia Sub-County 1,Busia Ward 8,Female,9.3,Maize,Rainfed,Field Agent,Certified Seed User,10.3,Bank Transfer,82,2023-01-31
+F0084,Kennedy Nyongesa,Smallholder Farmer,Kitui,Kitui Sub-County 2,Kitui Ward 2,Male,3.1,Beans,Irrigated,Cooperative Bulking,GAP Certified,8.7,Mobile Money,70,2023-04-17
+F0085,Joseph Kariuki,Smallholder Farmer,Uasin Gishu,Uasin Gishu Sub-County 2,Uasin Gishu Ward 9,Male,8.0,Maize,Rainfed,Cooperative Bulking,None,8.1,Cash,59,2024-11-27
+F0086,David Cherop,Commercial Farmer,Kisii,Kisii Sub-County 1,Kisii Ward 8,Male,10.7,Cowpeas,Irrigated,Field Agent,None,22.2,Mobile Money,83,2023-06-28
+F0087,Peter Barasa,Medium-Scale Farmer,Kitui,Kitui Sub-County 3,Kitui Ward 1,Male,11.6,Wheat,Rainfed,Collection Center,Organic (In-Conversion),4.5,Cash,67,2023-07-21
+F0088,Kennedy Wanjiru,Smallholder Farmer,Makueni,Makueni Sub-County 3,Makueni Ward 4,Male,1.9,Maize,Mixed,Collection Center,None,11.7,Bank Transfer,87,2022-03-01
+F0089,Kitui Women in Agriculture Group #10,Youth Farmer Group,Kitui,Kitui Sub-County 2,Kitui Ward 3,Male,5.4,Maize,Rainfed,Collection Center,None,15.6,Bank Transfer,79,2021-09-27
+F0090,John Njoroge,Smallholder Farmer,Kitui,Kitui Sub-County 2,Kitui Ward 7,Male,1.5,Maize,Rainfed,Direct Delivery,None,15.8,Bank Transfer,68,2023-11-18
+F0091,Nyeri Farmers Cooperative Society #15,Youth Farmer Group,Nyeri,Nyeri Sub-County 3,Nyeri Ward 8,Male,2.9,Millet,Irrigated,Direct Delivery,None,14.5,Mobile Money,77,2023-04-03
+F0092,Vincent Chebet,Medium-Scale Farmer,Nakuru,Nakuru Sub-County 1,Nakuru Ward 6,Male,12.3,Maize,Irrigated,Direct Delivery,None,6.0,Mobile Money,73,2024-04-13
+F0093,Beatrice Wekesa,Medium-Scale Farmer,Narok,Narok Sub-County 4,Narok Ward 2,Female,13.2,Maize,Mixed,Direct Delivery,GAP Certified,22.0,Bank Transfer,86,2024-02-04
+F0094,Makueni Youth Agribusiness Group #29,Women-Led Group,Makueni,Makueni Sub-County 4,Makueni Ward 6,Female,6.8,Cowpeas,Mixed,Cooperative Bulking,None,21.3,Mobile Money,76,2023-05-25
+F0095,Grace Kariuki,Smallholder Farmer,Machakos,Machakos Sub-County 1,Machakos Ward 2,Female,3.8,Maize,Rainfed,Field Agent,GAP Certified,8.7,Mobile Money,74,2024-04-16
+F0096,Francis Barasa,Commercial Farmer,Narok,Narok Sub-County 4,Narok Ward 1,Male,9.5,Green Grams,Mixed,Field Agent,None,4.6,Mobile Money,99,2022-03-12
+F0097,Jane Barasa,Smallholder Farmer,Embu,Embu Sub-County 3,Embu Ward 2,Female,6.3,Green Grams,Mixed,Collection Center,GAP Certified,15.0,Bank Transfer,86,2024-06-27
+F0098,Trans Farmers Cooperative Society #18,Youth Farmer Group,Trans Nzoia,Trans Nzoia Sub-County 3,Trans Nzoia Ward 6,Male,3.0,Maize,Rainfed,Collection Center,GAP Certified,8.2,Mobile Money,64,2023-04-01
+F0099,Agnes Wafula,Smallholder Farmer,Trans Nzoia,Trans Nzoia Sub-County 4,Trans Nzoia Ward 6,Female,5.7,Beans,Rainfed,Field Agent,Certified Seed User,2.1,Bank Transfer,74,2024-03-08
+F0100,Uasin Cereal Growers Cooperative #11,Youth Farmer Group,Uasin Gishu,Uasin Gishu Sub-County 3,Uasin Gishu Ward 8,Male,4.0,Sorghum,Irrigated,Cooperative Bulking,Certified Seed User,2.0,Mobile Money,68,2022-03-18
+F0101,Nakuru Women in Agriculture Group #28,Women-Led Group,Nakuru,Nakuru Sub-County 4,Nakuru Ward 9,Female,3.6,Maize,Irrigated,Direct Delivery,None,16.5,Cash,69,2021-04-23
+F0102,Charles Cherop,Smallholder Farmer,Kisumu,Kisumu Sub-County 3,Kisumu Ward 6,Male,2.1,Millet,Rainfed,Cooperative Bulking,Certified Seed User,39.8,Mobile Money,79,2023-02-18
+F0103,Simon Barasa,Medium-Scale Farmer,Kitui,Kitui Sub-County 1,Kitui Ward 7,Male,8.8,Maize,Rainfed,Direct Delivery,GAP Certified,27.5,Mobile Money,57,2024-03-20
+F0104,Faith Wanjiru,Medium-Scale Farmer,Kisii,Kisii Sub-County 2,Kisii Ward 8,Female,9.7,Barley,Mixed,Field Agent,None,8.4,Bank Transfer,73,2022-05-14
+F0105,Francis Achieng,Medium-Scale Farmer,Kakamega,Kakamega Sub-County 2,Kakamega Ward 6,Male,13.3,Millet,Mixed,Direct Delivery,None,7.1,Mobile Money,73,2023-11-11
+F0106,Sarah Cherop,Smallholder Farmer,Busia,Busia Sub-County 2,Busia Ward 5,Female,2.9,Maize,Rainfed,Collection Center,Certified Seed User,2.1,Bank Transfer,72,2021-12-29
+F0107,Kennedy Kiprono,Commercial Farmer,Embu,Embu Sub-County 3,Embu Ward 6,Male,11.7,Rice,Rainfed,Direct Delivery,None,8.9,Mobile Money,65,2022-07-17
+F0108,Busia Farmers Cooperative Society #5,Youth Farmer Group,Busia,Busia Sub-County 1,Busia Ward 1,Female,2.8,Rice,Rainfed,Field Agent,None,19.3,Bank Transfer,81,2021-07-04
+F0109,Kakamega Youth Agribusiness Group #38,Youth Farmer Group,Kakamega,Kakamega Sub-County 2,Kakamega Ward 6,Male,3.5,Rice,Irrigated,Collection Center,Organic (In-Conversion),8.3,Mobile Money,76,2022-12-05
+F0110,James Kiplagat,Commercial Farmer,Bungoma,Bungoma Sub-County 4,Bungoma Ward 8,Male,11.0,Maize,Rainfed,Collection Center,None,11.7,Cash,82,2023-03-05
+F0111,John Kiptoo,Medium-Scale Farmer,Narok,Narok Sub-County 1,Narok Ward 9,Male,18.6,Maize,Irrigated,Field Agent,None,21.8,Bank Transfer,66,2024-05-19
+F0112,Narok Farmers Group #38,Cooperative,Narok,Narok Sub-County 3,Narok Ward 7,Male,10.8,Cowpeas,Rainfed,Direct Delivery,None,2.9,Mobile Money,65,2022-11-04
+F0113,Bungoma Grain Growers Association #28,Cooperative,Bungoma,Bungoma Sub-County 3,Bungoma Ward 3,Female,0.5,Maize,Mixed,Field Agent,GAP Certified,1.7,Mobile Money,69,2022-04-09
+F0114,Sarah Mutua,Commercial Farmer,Meru,Meru Sub-County 1,Meru Ward 6,Female,11.8,Wheat,Mixed,Collection Center,Certified Seed User,16.1,Mobile Money,99,2022-01-06
+F0115,Kirinyaga Grain Growers Association #29,Cooperative,Kirinyaga,Kirinyaga Sub-County 2,Kirinyaga Ward 8,Male,1.4,Beans,Irrigated,Cooperative Bulking,None,16.6,Mobile Money,82,2023-08-19
+F0116,Makueni Women in Agriculture Group #37,Cooperative,Makueni,Makueni Sub-County 3,Makueni Ward 7,Female,0.9,Rice,Rainfed,Cooperative Bulking,Organic (In-Conversion),19.1,Bank Transfer,99,2024-05-23
+F0117,Lucy Barasa,Smallholder Farmer,Machakos,Machakos Sub-County 1,Machakos Ward 9,Female,6.4,Wheat,Mixed,Field Agent,None,2.5,Mobile Money,69,2023-07-10
+F0118,Meru Youth Agribusiness Group #6,Cooperative,Meru,Meru Sub-County 3,Meru Ward 1,Male,7.0,Green Grams,Rainfed,Cooperative Bulking,None,5.8,Mobile Money,74,2021-06-17
+F0119,Jane Kiptoo,Smallholder Farmer,Trans Nzoia,Trans Nzoia Sub-County 2,Trans Nzoia Ward 1,Female,6.6,Green Grams,Rainfed,Cooperative Bulking,Certified Seed User,14.2,Mobile Money,76,2024-12-15
+F0120,John Kamau,Medium-Scale Farmer,Trans Nzoia,Trans Nzoia Sub-County 2,Trans Nzoia Ward 9,Male,11.1,Maize,Mixed,Cooperative Bulking,None,6.4,Mobile Money,70,2022-09-09

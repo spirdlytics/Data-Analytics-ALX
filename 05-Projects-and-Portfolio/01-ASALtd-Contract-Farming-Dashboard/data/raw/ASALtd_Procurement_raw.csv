@@ -1,0 +1,901 @@
+procurement_id,batch_id,farmer_id,product_id,product_name,procurement_date,season,county_sourced,quantity_kg,farmgate_price_kes_per_kg,transport_cost_kes,handling_cost_kes,moisture_percent,grade,rejected_quantity_kg,accepted_quantity_kg,collection_center,payment_status,days_to_pay_farmer
+PR00001,B00001,F0047,P01,Maize,2025-08-30,Long Rains Harvest,Kakamega,662,39.55,101.9,473.17,10.6,Grade A,0,662,Kakamega Collection Center 2,Pending,
+PR00002,B00002,F0082,P05,Sorghum,2025-10-30,Peak Demand Season,Kisumu,922,58.12,136.29,1078.88,13.1,Grade B,0,922,Kisumu Collection Center 3,Paid,20
+PR00003,B00003,F0061,P04,Wheat,2025-08-12,Long Rains Harvest,Kirinyaga,363,49.33,92.74,332.9,16.8,Grade C,0,363,Kirinyaga Collection Center 3,Paid,21
+PR00004,B00004,F0107,P01,Maize,2026-06-02,Lean Season,Embu,1413,50.66,177.03,869.24,10.9,Grade A,0,1413,Embu Collection Center 2,Pending,
+PR00005,B00005,F0066,P01,Maize,2026-04-02,Lean Season,Makueni,438,61.53,47.25,376.36,8.7,Grade A,0,438,Makueni Collection Center 3,Pending,
+PR00006,B00006,F0033,P01,Maize,2025-01-04,Short Rains Harvest,Narok,560,51.24,60.02,297.75,11.9,Grade A,0,560,Narok Collection Center 1,Delayed,41
+PR00007,B00007,F0061,P09,Barley,2025-02-02,Short Rains Harvest,Kirinyaga,182,44.53,41.06,108.25,18.3,Grade C,0,182,Kirinyaga Collection Center 2,Paid,8
+PR00008,B00008,F0118,P03,Rice,2026-01-22,Short Rains Harvest,Meru,707,74.35,83.49,681.02,11.6,Grade B,0,707,Meru Collection Center 3,Paid,19
+PR00009,B00009,F0017,P02,Beans,2025-08-17,Long Rains Harvest,Nakuru,510,118.12,81.48,604.32,14.8,Grade B,0,510,Nakuru Collection Center 1,Paid,16
+PR00010,B00010,F0045,P01,Maize,2025-06-08,Lean Season,Bungoma,453,51.98,55.06,456.41,17.6,Grade C,0,453,Bungoma Collection Center 1,Pending,
+PR00011,B00011,F0009,P01,Maize,2025-04-14,Lean Season,Meru,1145,57.68,129.38,1111.13,12.1,Grade A,145,1000,Meru Collection Center 1,Paid,16
+PR00012,B00012,F0038,P01,Maize,2025-08-28,Long Rains Harvest,Nyeri,835,50.65,106.38,603.9,12.7,Grade B,0,835,Nyeri Collection Center 1,Paid,17
+PR00013,B00013,F0067,P09,Barley,2025-08-15,Long Rains Harvest,Kirinyaga,1612,44.28,147.66,1434.2,13.0,Grade B,0,1612,Kirinyaga Collection Center 3,Paid,13
+PR00014,B00014,F0045,P03,Rice,2026-01-26,Short Rains Harvest,Bungoma,1153,82.92,121.03,912.52,13.3,Grade B,0,1153,Bungoma Collection Center 1,Paid,11
+PR00015,B00015,F0091,P02,Beans,2025-05-28,Lean Season,Nyeri,955,142.5,151.71,853.46,16.9,Grade C,80,875,Nyeri Collection Center 3,Paid,13
+PR00016,B00016,F0058,P01,Maize,2026-01-15,Short Rains Harvest,Kakamega,1425,41.31,237.33,902.51,8.2,Grade B,0,1425,Kakamega Collection Center 1,Pending,
+PR00017,B00017,F0076,P07,Green Grams,2025-08-11,Long Rains Harvest,Kirinyaga,353,127.16,53.58,258.78,14.7,Grade A,0,353,Kirinyaga Collection Center 1,Delayed,26
+PR00018,B00018,F0097,P06,Millet,2026-05-06,Lean Season,Embu,200,122.37,30.61,198.53,12.5,Grade A,0,200,Embu Collection Center 2,Paid,16
+PR00019,B00019,F0046,P04,Wheat,2025-11-12,Peak Demand Season,Makueni,394,51.05,57.16,334.15,13.1,Grade C,0,394,Makueni Collection Center 1,Pending,
+PR00020,B00020,F0053,P02,Beans,2025-02-16,Short Rains Harvest,Busia,223,111.63,26.63,134.28,14.9,Grade C,0,223,Busia Collection Center 1,Paid,16
+PR00021,B00021,F0030,P01,Maize,2026-01-24,Short Rains Harvest,Makueni,1683,48.56,187.54,1490.21,12.9,Grade A,0,1683,Makueni Collection Center 3,Paid,15
+PR00022,B00022,F0063,P05,Sorghum,2026-04-17,Lean Season,Kirinyaga,560,57.53,64.21,346.35,10.7,Grade A,0,560,Kirinyaga Collection Center 3,Paid,18
+PR00023,B00023,F0068,P08,Cowpeas,2025-02-04,Short Rains Harvest,Kisumu,1026,107.51,114.51,1100.48,14.7,Grade A,173,853,Kisumu Collection Center 1,Paid,17
+PR00024,B00024,F0065,P01,Maize,2026-04-12,Lean Season,Kakamega,647,53.73,86.23,625.47,10.4,Grade A,0,647,Kakamega Collection Center 3,Paid,8
+PR00025,B00025,F0003,P02,Beans,2025-10-09,Peak Demand Season,Meru,520,122.25,102.95,442.81,14.3,Grade B,0,520,Meru Collection Center 1,Paid,18
+PR00026,B00026,F0031,P04,Wheat,2025-07-16,Long Rains Harvest,Nakuru,1034,48.02,106.01,773.54,16.4,Grade B,0,1034,Nakuru Collection Center 1,Paid,11
+PR00027,B00027,F0029,P09,Barley,2025-11-04,Peak Demand Season,Kitui,537,53.38,66.28,514.24,8.8,Grade B,0,537,Kitui Collection Center 3,Paid,21
+PR00028,B00028,F0082,P03,Rice,2025-01-10,Short Rains Harvest,Kisumu,1200,81.19,170.97,1310.08,12.4,Grade A,0,1200,Kisumu Collection Center 3,Delayed,36
+PR00029,B00029,F0030,P08,Cowpeas,2025-08-05,Long Rains Harvest,Makueni,3296,105.84,409.92,2955.68,12.7,Grade C,0,3296,Makueni Collection Center 3,Paid,17
+PR00030,B00030,F0005,P04,Wheat,2025-07-03,Long Rains Harvest,Nakuru,1078,50.86,110.08,1264.52,13.0,Grade B,0,1078,Nakuru Collection Center 1,Paid,20
+PR00031,B00031,F0073,P01,Maize,2025-09-04,Long Rains Harvest,Machakos,313,46.98,68.62,304.84,15.8,Grade B,0,313,Machakos Collection Center 3,Pending,
+PR00032,B00032,F0065,P06,Millet,2025-12-21,Peak Demand Season,Kakamega,538,85.8,68.63,584.84,12.3,Grade B,0,538,Kakamega Collection Center 2,Paid,13
+PR00033,B00033,F0035,P01,Maize,2026-04-07,Lean Season,Nyeri,3149,55.83,322.79,3649.06,13.6,Grade B,0,3149,Nyeri Collection Center 3,Paid,9
+PR00034,B00034,F0032,P01,Maize,2025-03-17,Lean Season,Nakuru,574,48.51,70.92,572.95,14.3,Grade B,0,574,Nakuru Collection Center 1,Paid,4
+PR00035,B00035,F0057,P08,Cowpeas,2026-01-04,Short Rains Harvest,Uasin Gishu,666,105.3,108.77,373.7,13.8,Grade B,0,666,Uasin Gishu Collection Center 1,Paid,11
+PR00036,B00036,F0012,P02,Beans,2025-11-29,Peak Demand Season,Narok,2095,136.03,265.63,1654.35,10.1,Grade B,0,2095,Narok Collection Center 1,Delayed,33
+PR00037,B00037,F0022,P04,Wheat,2026-01-25,Short Rains Harvest,Makueni,782,45.31,90.31,537.93,9.7,Grade A,0,782,Makueni Collection Center 1,Paid,15
+PR00038,B00038,F0032,P02,Beans,2026-05-23,Lean Season,Nakuru,1230,133.0,153.65,707.1,10.4,Grade C,0,1230,Nakuru Collection Center 2,Paid,15
+PR00039,B00039,F0056,P03,Rice,2025-05-20,Lean Season,Kisumu,425,85.8,85.05,419.35,12.2,Grade A,0,425,Kisumu Collection Center 3,Paid,21
+PR00040,B00040,F0063,P05,Sorghum,2025-09-06,Long Rains Harvest,Kirinyaga,818,50.16,82.8,858.99,10.9,Grade C,0,818,Kirinyaga Collection Center 1,Delayed,41
+PR00041,B00041,F0071,P05,Sorghum,2025-01-28,Short Rains Harvest,Kisii,724,63.71,92.15,721.0,12.8,Grade A,0,724,Kisii Collection Center 2,Pending,
+PR00042,B00042,F0018,P05,Sorghum,2025-11-07,Peak Demand Season,Bungoma,768,55.48,78.45,768.51,11.4,Grade A,0,768,Bungoma Collection Center 2,Paid,17
+PR00043,B00043,F0119,P04,Wheat,2026-03-05,Lean Season,Trans Nzoia,50,57.61,7.67,37.58,15.1,Grade B,0,50,Trans Nzoia Collection Center 1,Paid,6
+PR00044,B00044,F0046,P05,Sorghum,2025-06-20,Lean Season,Makueni,613,68.25,78.8,728.57,11.7,Grade A,0,613,Makueni Collection Center 2,Delayed,33
+PR00045,B00045,F0013,P01,Maize,2025-09-22,Long Rains Harvest,Meru,1110,41.91,121.23,988.56,10.2,Grade A,0,1110,Meru Collection Center 3,Paid,21
+PR00046,B00046,F0065,P04,Wheat,2025-06-04,Lean Season,Kakamega,1415,55.38,162.07,811.06,15.2,Grade C,335,1080,Kakamega Collection Center 2,Paid,7
+PR00047,B00047,F0101,P02,Beans,2025-07-31,Long Rains Harvest,Nakuru,451,106.58,65.77,256.32,11.4,Grade A,0,451,Nakuru Collection Center 3,Paid,18
+PR00048,B00048,F0109,P01,Maize,2025-12-18,Peak Demand Season,Kakamega,289,54.99,36.79,177.75,14.0,Grade A,0,289,Kakamega Collection Center 3,Paid,18
+PR00049,B00049,F0060,P02,Beans,2025-08-26,Long Rains Harvest,Kisumu,375,116.76,51.93,236.43,11.7,Grade A,0,375,Kisumu Collection Center 2,Delayed,46
+PR00050,B00050,F0050,P05,Sorghum,2025-01-05,Short Rains Harvest,Machakos,330,58.99,42.98,338.79,13.8,Grade A,73,257,Machakos Collection Center 2,Paid,6
+PR00051,B00051,F0015,P01,Maize,2025-09-26,Long Rains Harvest,Bungoma,2198,48.51,265.17,2585.16,11.4,Grade A,0,2198,Bungoma Collection Center 2,Paid,16
+PR00052,B00052,F0080,P07,Green Grams,2025-06-26,Lean Season,Machakos,460,169.03,55.14,325.78,9.5,Grade A,0,460,Machakos Collection Center 2,Paid,20
+PR00053,B00053,F0048,P01,Maize,2025-05-25,Lean Season,Uasin Gishu,239,56.19,23.79,142.57,8.1,Grade A,0,239,Uasin Gishu Collection Center 3,Paid,21
+PR00054,B00054,F0023,P08,Cowpeas,2025-06-20,Lean Season,Bungoma,906,115.01,94.04,652.51,12.3,Grade A,0,906,Bungoma Collection Center 1,Paid,14
+PR00055,B00055,F0050,P01,Maize,2026-06-02,Lean Season,Machakos,769,58.74,105.52,649.2,11.7,Grade A,0,769,Machakos Collection Center 1,Paid,12
+PR00056,B00056,F0036,P01,Maize,2025-08-19,Long Rains Harvest,Kitui,966,46.55,104.52,792.24,8.9,Grade B,0,966,Kitui Collection Center 1,Paid,11
+PR00057,B00057,F0070,P01,Maize,2026-01-11,Short Rains Harvest,Embu,578,48.14,60.63,596.5,12.5,Grade A,0,578,Embu Collection Center 3,Pending,
+PR00058,B00058,F0039,P06,Millet,2025-02-03,Short Rains Harvest,Kitui,991,89.67,118.86,1062.06,9.1,Grade C,0,991,Kitui Collection Center 3,Paid,18
+PR00059,B00059,F0045,P04,Wheat,2026-03-15,Lean Season,Bungoma,2469,53.38,247.31,1591.6,14.0,Grade A,0,2469,Bungoma Collection Center 3,Paid,13
+PR00060,B00060,F0091,P01,Maize,2025-10-27,Peak Demand Season,Nyeri,1454,48.96,197.86,1600.29,10.4,Grade B,0,1454,Nyeri Collection Center 2,Delayed,40
+PR00061,B00061,F0036,P08,Cowpeas,2025-05-10,Lean Season,Kitui,702,122.13,75.24,422.86,14.2,Grade A,0,702,Kitui Collection Center 1,Paid,11
+PR00062,B00062,F0035,P04,Wheat,2026-03-01,Lean Season,Nyeri,800,55.72,76.19,844.98,11.8,Grade A,0,800,Nyeri Collection Center 2,Paid,10
+PR00063,B00063,F0063,P03,Rice,2025-12-02,Peak Demand Season,Kirinyaga,233,86.94,27.16,254.67,13.7,Grade C,0,233,Kirinyaga Collection Center 1,Paid,8
+PR00064,B00064,F0051,P07,Green Grams,2025-08-12,Long Rains Harvest,Makueni,254,144.25,33.75,214.96,13.7,Grade B,0,254,Makueni Collection Center 2,Paid,6
+PR00065,B00065,F0115,P07,Green Grams,2025-02-19,Short Rains Harvest,Kirinyaga,2559,115.66,400.42,2778.28,11.9,Grade C,0,2559,Kirinyaga Collection Center 2,Paid,10
+PR00066,B00066,F0089,P01,Maize,2025-05-16,Lean Season,Kitui,1233,62.85,173.92,1371.21,13.8,Grade A,0,1233,Kitui Collection Center 3,Paid,8
+PR00067,B00067,F0022,P08,Cowpeas,2025-02-23,Short Rains Harvest,Makueni,782,94.9,91.17,773.87,11.1,Grade B,0,782,Makueni Collection Center 2,Paid,21
+PR00068,B00068,F0076,P01,Maize,2025-08-20,Long Rains Harvest,Kirinyaga,460,46.29,63.2,232.6,12.9,Grade A,0,460,Kirinyaga Collection Center 2,Paid,11
+PR00069,B00069,F0050,P01,Maize,2025-04-02,Lean Season,Machakos,2434,60.14,308.43,1750.89,12.4,Grade A,0,2434,Machakos Collection Center 1,Pending,
+PR00070,B00070,F0087,P05,Sorghum,2025-05-27,Lean Season,Kitui,1239,55.29,136.37,1148.83,11.3,Grade A,0,1239,Kitui Collection Center 2,Pending,
+PR00071,B00071,F0057,P05,Sorghum,2025-08-11,Long Rains Harvest,Uasin Gishu,328,45.76,53.54,336.76,14.5,Grade B,0,328,Uasin Gishu Collection Center 1,Paid,10
+PR00072,B00072,F0083,P01,Maize,2025-03-28,Lean Season,Busia,658,51.49,87.11,661.18,9.7,Grade C,0,658,Busia Collection Center 2,Pending,
+PR00073,B00073,F0078,P01,Maize,2026-06-06,Lean Season,Nyeri,668,50.42,64.9,636.15,13.3,Grade C,0,668,Nyeri Collection Center 1,Paid,19
+PR00074,B00074,F0077,P03,Rice,2025-03-14,Lean Season,Trans Nzoia,1133,91.42,133.03,1349.2,14.8,Grade A,0,1133,Trans Nzoia Collection Center 2,Paid,10
+PR00075,B00075,F0023,P04,Wheat,2026-04-28,Lean Season,Bungoma,1184,62.21,143.59,605.83,13.4,Grade B,51,1133,Bungoma Collection Center 3,Pending,
+PR00076,B00076,F0092,P01,Maize,2026-05-29,Lean Season,Nakuru,904,60.79,100.94,706.56,14.2,Grade B,44,860,Nakuru Collection Center 1,Paid,15
+PR00077,B00077,F0020,P09,Barley,2025-12-01,Peak Demand Season,Uasin Gishu,1055,50.3,118.1,1143.8,12.1,Grade A,0,1055,Uasin Gishu Collection Center 1,Pending,
+PR00078,B00078,F0012,P01,Maize,2026-03-21,Lean Season,Narok,764,49.12,112.96,411.43,13.9,Grade B,0,764,Narok Collection Center 1,Paid,12
+PR00079,B00079,F0021,P06,Millet,2026-05-24,Lean Season,Bungoma,1376,123.76,161.4,1442.17,12.7,Grade A,0,1376,Bungoma Collection Center 2,Pending,
+PR00080,B00080,F0016,P06,Millet,2025-01-31,Short Rains Harvest,Kitui,559,86.18,129.51,484.48,10.3,Grade C,0,559,Kitui Collection Center 3,Paid,21
+PR00081,B00081,F0064,P02,Beans,2025-06-20,Lean Season,Nakuru,651,122.87,106.98,372.39,12.8,Grade B,0,651,Nakuru Collection Center 1,Paid,19
+PR00082,B00082,F0002,P07,Green Grams,2025-09-08,Long Rains Harvest,Trans Nzoia,898,112.01,139.58,1027.45,14.3,Grade C,186,712,Trans Nzoia Collection Center 3,Pending,
+PR00083,B00083,F0042,P02,Beans,2025-09-12,Long Rains Harvest,Kitui,950,102.72,163.81,655.39,12.7,Grade A,0,950,Kitui Collection Center 1,Delayed,45
+PR00084,B00084,F0067,P01,Maize,2025-02-17,Short Rains Harvest,Kirinyaga,535,54.4,46.4,441.68,15.5,Grade C,0,535,Kirinyaga Collection Center 1,Paid,19
+PR00085,B00085,F0038,P02,Beans,2025-11-08,Peak Demand Season,Nyeri,970,130.81,109.63,735.06,11.6,Grade C,0,970,Nyeri Collection Center 3,Pending,
+PR00086,B00086,F0032,P06,Millet,2025-06-04,Lean Season,Nakuru,1877,89.83,247.73,1244.64,10.7,Grade B,0,1877,Nakuru Collection Center 1,Delayed,42
+PR00087,B00087,F0049,P06,Millet,2025-11-11,Peak Demand Season,Busia,632,87.49,66.26,421.37,10.8,Grade A,0,632,Busia Collection Center 1,Pending,
+PR00088,B00088,F0030,P01,Maize,2026-02-27,Short Rains Harvest,Makueni,355,50.55,40.86,419.68,10.9,Grade A,0,355,Makueni Collection Center 1,Pending,
+PR00089,B00089,F0008,P05,Sorghum,2026-03-22,Lean Season,Kitui,132,68.6,12.24,92.95,10.0,Grade C,0,132,Kitui Collection Center 2,Pending,
+PR00090,B00090,F0035,P02,Beans,2025-08-28,Long Rains Harvest,Nyeri,1455,90.15,143.37,1521.87,12.1,Grade A,0,1455,Nyeri Collection Center 2,Paid,19
+PR00091,B00091,F0046,P01,Maize,2025-08-01,Long Rains Harvest,Makueni,476,45.29,68.23,522.05,12.8,Grade B,0,476,Makueni Collection Center 3,Pending,
+PR00092,B00092,F0107,P01,Maize,2025-12-02,Peak Demand Season,Embu,1086,46.59,141.8,1279.18,9.2,Grade A,0,1086,Embu Collection Center 1,Pending,
+PR00093,B00093,F0052,P01,Maize,2026-04-09,Lean Season,Kitui,826,57.0,87.63,467.77,11.2,Grade B,0,826,Kitui Collection Center 1,Paid,14
+PR00094,B00094,F0106,P01,Maize,2026-02-15,Short Rains Harvest,Busia,486,45.56,50.04,462.32,15.0,Grade B,0,486,Busia Collection Center 1,Paid,14
+PR00095,B00095,F0083,P01,Maize,2026-03-31,Lean Season,Busia,303,61.54,35.25,331.21,10.8,Grade A,0,303,Busia Collection Center 3,Paid,15
+PR00096,B00096,F0093,P02,Beans,2026-02-09,Short Rains Harvest,Narok,521,109.1,86.63,416.1,13.8,Grade C,0,521,Narok Collection Center 1,Paid,21
+PR00097,B00097,F0080,P01,Maize,2025-09-09,Long Rains Harvest,Machakos,1417,48.17,161.68,1584.13,11.2,Grade A,0,1417,Machakos Collection Center 3,Paid,16
+PR00098,B00098,F0068,P08,Cowpeas,2025-09-13,Long Rains Harvest,Kisumu,952,98.37,127.3,1005.69,13.2,Grade C,0,952,Kisumu Collection Center 2,Paid,16
+PR00099,B00099,F0073,P02,Beans,2026-05-30,Lean Season,Machakos,844,120.81,160.96,437.4,9.6,Grade A,0,844,Machakos Collection Center 2,Paid,12
+PR00100,B00100,F0099,P04,Wheat,2025-08-27,Long Rains Harvest,Trans Nzoia,767,51.28,69.07,736.17,16.3,Grade C,0,767,Trans Nzoia Collection Center 1,Paid,17
+PR00101,B00101,F0103,P04,Wheat,2026-02-02,Short Rains Harvest,Kitui,337,47.07,69.66,367.89,12.5,Grade A,0,337,Kitui Collection Center 3,Paid,21
+PR00102,B00102,F0090,P01,Maize,2025-12-27,Peak Demand Season,Kitui,3133,60.02,473.84,2801.45,11.4,Grade C,0,3133,Kitui Collection Center 2,Paid,21
+PR00103,B00103,F0005,P01,Maize,2025-04-03,Lean Season,Nakuru,315,48.05,34.53,161.89,13.7,Grade B,0,315,Nakuru Collection Center 2,Pending,
+PR00104,B00104,F0118,P06,Millet,2025-11-28,Peak Demand Season,Meru,605,86.0,62.52,600.94,14.5,Grade A,0,605,Meru Collection Center 1,Paid,16
+PR00105,B00105,F0085,P02,Beans,2026-02-10,Short Rains Harvest,Uasin Gishu,1028,112.52,119.73,746.15,14.0,Grade B,0,1028,Uasin Gishu Collection Center 2,Paid,21
+PR00106,B00106,F0023,P05,Sorghum,2026-01-01,Short Rains Harvest,Bungoma,1613,49.84,187.5,1004.49,11.1,Grade B,0,1613,Bungoma Collection Center 3,Pending,
+PR00107,B00107,F0051,P08,Cowpeas,2025-02-03,Short Rains Harvest,Makueni,1078,88.79,126.82,1149.33,12.1,Grade B,0,1078,Makueni Collection Center 2,Paid,14
+PR00108,B00108,F0031,P06,Millet,2025-12-22,Peak Demand Season,Nakuru,1646,117.01,165.05,1843.07,10.8,Grade B,0,1646,Nakuru Collection Center 2,Delayed,39
+PR00109,B00109,F0027,P01,Maize,2025-09-13,Long Rains Harvest,Kisii,1025,48.84,101.38,1077.19,12.9,Grade A,0,1025,Kisii Collection Center 1,Paid,14
+PR00110,B00110,F0064,P08,Cowpeas,2026-01-23,Short Rains Harvest,Nakuru,252,93.61,42.7,272.2,14.1,Grade B,0,252,Nakuru Collection Center 2,Paid,19
+PR00111,B00111,F0109,P01,Maize,2025-02-04,Short Rains Harvest,Kakamega,908,44.38,105.9,1058.88,13.0,Grade A,0,908,Kakamega Collection Center 3,Pending,
+PR00112,B00112,F0012,P08,Cowpeas,2025-12-13,Peak Demand Season,Narok,2001,111.11,295.95,1676.67,15.0,Grade C,452,1549,Narok Collection Center 1,Paid,8
+PR00113,B00113,F0025,P02,Beans,2026-02-24,Short Rains Harvest,Narok,885,116.74,131.91,894.72,13.4,Grade B,0,885,Narok Collection Center 3,Paid,18
+PR00114,B00114,F0063,P04,Wheat,2025-06-07,Lean Season,Kirinyaga,347,52.13,32.62,194.78,8.7,Grade B,0,347,Kirinyaga Collection Center 1,Paid,16
+PR00115,B00115,F0038,P01,Maize,2025-03-25,Lean Season,Nyeri,551,55.53,60.21,578.23,12.8,Grade B,0,551,Nyeri Collection Center 2,Paid,16
+PR00116,B00116,F0114,P01,Maize,2026-01-26,Short Rains Harvest,Meru,1010,45.51,149.51,691.15,12.2,Grade A,0,1010,Meru Collection Center 3,Paid,2
+PR00117,B00117,F0011,P05,Sorghum,2025-12-19,Peak Demand Season,Kirinyaga,1257,67.37,147.08,1294.11,14.8,Grade A,0,1257,Kirinyaga Collection Center 3,Paid,12
+PR00118,B00118,F0120,P05,Sorghum,2026-05-02,Lean Season,Trans Nzoia,92,66.59,9.92,65.25,13.9,Grade C,14,78,Trans Nzoia Collection Center 3,Paid,19
+PR00119,B00119,F0080,P05,Sorghum,2025-05-31,Lean Season,Machakos,1571,56.45,190.55,975.62,15.3,Grade C,0,1571,Machakos Collection Center 2,Paid,20
+PR00120,B00120,F0088,P01,Maize,2026-03-22,Lean Season,Makueni,732,50.66,105.98,441.77,9.9,Grade A,0,732,Makueni Collection Center 1,Pending,
+PR00121,B00121,F0051,P02,Beans,2025-11-30,Peak Demand Season,Makueni,2086,135.73,258.02,2382.24,12.4,Grade B,0,2086,Makueni Collection Center 1,Pending,
+PR00122,B00122,F0019,P02,Beans,2025-04-13,Lean Season,Uasin Gishu,926,147.84,119.78,528.46,11.0,Grade A,0,926,Uasin Gishu Collection Center 2,Paid,13
+PR00123,B00123,F0074,P05,Sorghum,2026-04-30,Lean Season,Uasin Gishu,827,54.6,79.68,496.78,12.0,Grade B,187,640,Uasin Gishu Collection Center 1,Paid,12
+PR00124,B00124,F0061,P01,Maize,2025-10-03,Peak Demand Season,Kirinyaga,1567,59.17,338.6,1680.09,13.1,Grade B,0,1567,Kirinyaga Collection Center 1,Paid,13
+PR00125,B00125,F0030,P09,Barley,2025-05-18,Lean Season,Makueni,1239,52.65,155.94,1290.82,14.0,Grade B,0,1239,Makueni Collection Center 2,Paid,16
+PR00126,B00126,F0106,P01,Maize,2026-02-21,Short Rains Harvest,Busia,1758,51.16,186.52,1946.16,15.1,Grade B,173,1585,Busia Collection Center 1,Paid,17
+PR00127,B00127,F0068,P07,Green Grams,2025-01-30,Short Rains Harvest,Kisumu,346,120.27,47.03,221.62,12.4,Grade A,38,308,Kisumu Collection Center 2,Paid,17
+PR00128,B00128,F0065,P07,Green Grams,2026-02-11,Short Rains Harvest,Kakamega,2237,136.94,263.24,1166.36,10.9,Grade A,0,2237,Kakamega Collection Center 3,Pending,
+PR00129,B00129,F0045,P04,Wheat,2025-06-17,Lean Season,Bungoma,778,60.9,80.42,841.49,14.3,Grade A,169,609,Bungoma Collection Center 1,Pending,
+PR00130,B00130,F0083,P07,Green Grams,2025-08-19,Long Rains Harvest,Busia,480,134.09,58.52,377.59,11.9,Grade B,0,480,Busia Collection Center 1,Paid,13
+PR00131,B00131,F0077,P05,Sorghum,2025-01-09,Short Rains Harvest,Trans Nzoia,695,49.85,75.02,806.27,11.1,Grade B,0,695,Trans Nzoia Collection Center 2,Delayed,20
+PR00132,B00132,F0028,P03,Rice,2026-04-23,Lean Season,Kisii,1278,85.84,217.1,1196.88,13.3,Grade A,0,1278,Kisii Collection Center 2,Delayed,39
+PR00133,B00133,F0077,P04,Wheat,2025-10-17,Peak Demand Season,Trans Nzoia,772,51.43,73.43,420.5,11.3,Grade B,0,772,Trans Nzoia Collection Center 3,Paid,12
+PR00134,B00134,F0084,P08,Cowpeas,2025-11-02,Peak Demand Season,Kitui,307,98.33,38.06,205.14,13.6,Grade C,0,307,Kitui Collection Center 2,Paid,21
+PR00135,B00135,F0093,P05,Sorghum,2025-01-27,Short Rains Harvest,Narok,397,58.05,76.2,270.59,12.6,Grade A,74,323,Narok Collection Center 1,Paid,8
+PR00136,B00136,F0092,P02,Beans,2025-08-16,Long Rains Harvest,Nakuru,642,112.66,75.51,534.8,14.6,Grade B,0,642,Nakuru Collection Center 3,Paid,17
+PR00137,B00137,F0024,P07,Green Grams,2025-10-28,Peak Demand Season,Trans Nzoia,545,129.89,58.87,371.18,11.6,Grade B,0,545,Trans Nzoia Collection Center 2,Paid,21
+PR00138,B00138,F0029,P05,Sorghum,2025-12-30,Peak Demand Season,Kitui,1406,55.09,174.46,1116.83,16.3,Grade B,0,1406,Kitui Collection Center 1,Paid,17
+PR00139,B00139,F0111,P03,Rice,2025-03-14,Lean Season,Narok,1020,90.04,160.91,595.55,13.9,Grade B,0,1020,Narok Collection Center 1,Pending,
+PR00140,B00140,F0026,P01,Maize,2025-12-17,Peak Demand Season,Machakos,1510,50.97,229.25,1713.3,11.4,Grade A,0,1510,Machakos Collection Center 2,Pending,
+PR00141,B00141,F0023,P02,Beans,2025-11-17,Peak Demand Season,Bungoma,850,126.4,85.03,587.75,14.5,Grade A,0,850,Bungoma Collection Center 1,Paid,19
+PR00142,B00142,F0056,P01,Maize,2026-03-16,Lean Season,Kisumu,466,54.27,101.29,358.04,11.7,Grade A,0,466,Kisumu Collection Center 2,Paid,14
+PR00143,B00143,F0068,P06,Millet,2025-07-15,Long Rains Harvest,Kisumu,346,74.13,37.88,350.68,11.4,Grade B,0,346,Kisumu Collection Center 3,Paid,19
+PR00144,B00144,F0022,P04,Wheat,2025-03-08,Lean Season,Makueni,2633,60.75,306.38,1852.52,10.5,Grade A,0,2633,Makueni Collection Center 1,Delayed,42
+PR00145,B00145,F0116,P02,Beans,2026-05-17,Lean Season,Makueni,316,122.49,46.94,367.72,13.7,Grade B,0,316,Makueni Collection Center 1,Pending,
+PR00146,B00146,F0003,P01,Maize,2026-06-01,Lean Season,Meru,653,50.07,131.94,623.86,9.0,Grade B,0,653,Meru Collection Center 1,Paid,16
+PR00147,B00147,F0007,P05,Sorghum,2025-04-21,Lean Season,Narok,1365,68.4,143.6,1341.56,9.9,Grade A,0,1365,Narok Collection Center 1,Paid,9
+PR00148,B00148,F0088,P01,Maize,2025-01-10,Short Rains Harvest,Makueni,914,44.48,127.52,880.86,14.7,Grade B,194,720,Makueni Collection Center 3,Paid,12
+PR00149,B00149,F0037,P05,Sorghum,2025-04-27,Lean Season,Trans Nzoia,2215,71.34,305.08,2051.76,12.1,Grade B,0,2215,Trans Nzoia Collection Center 2,Paid,16
+PR00150,B00150,F0006,P01,Maize,2026-05-24,Lean Season,Kirinyaga,1198,63.35,138.51,1002.08,9.2,Grade A,0,1198,Kirinyaga Collection Center 3,Paid,16
+PR00151,B00151,F0020,P05,Sorghum,2025-04-03,Lean Season,Uasin Gishu,280,71.22,27.2,281.82,11.2,Grade B,0,280,Uasin Gishu Collection Center 2,Delayed,38
+PR00152,B00152,F0013,P03,Rice,2025-06-28,Lean Season,Meru,1087,99.94,121.59,817.59,13.0,Grade A,0,1087,Meru Collection Center 1,Pending,
+PR00153,B00153,F0018,P01,Maize,2025-06-24,Lean Season,Bungoma,976,52.93,105.22,1140.52,11.9,Grade B,0,976,Bungoma Collection Center 1,Paid,14
+PR00154,B00154,F0059,P02,Beans,2025-10-06,Peak Demand Season,Machakos,600,134.85,67.82,500.86,8.0,Grade B,0,600,Machakos Collection Center 3,Paid,19
+PR00155,B00155,F0109,P01,Maize,2025-06-13,Lean Season,Kakamega,308,48.9,41.35,258.06,13.2,Grade B,0,308,Kakamega Collection Center 3,Pending,
+PR00156,B00156,F0088,P01,Maize,2025-05-14,Lean Season,Makueni,269,55.7,36.0,301.63,14.9,Grade A,0,269,Makueni Collection Center 3,Paid,6
+PR00157,B00157,F0096,P04,Wheat,2025-08-18,Long Rains Harvest,Narok,646,51.32,73.16,475.98,12.7,Grade B,0,646,Narok Collection Center 1,Paid,5
+PR00158,B00158,F0085,P03,Rice,2026-01-30,Short Rains Harvest,Uasin Gishu,1465,69.61,191.87,1647.31,11.5,Grade A,0,1465,Uasin Gishu Collection Center 2,Paid,20
+PR00159,B00159,F0112,P07,Green Grams,2025-06-19,Lean Season,Narok,244,137.59,25.0,163.14,11.8,Grade A,0,244,Narok Collection Center 2,Paid,15
+PR00160,B00160,F0011,P07,Green Grams,2026-04-16,Lean Season,Kirinyaga,622,153.3,75.66,349.32,16.9,Grade B,0,622,Kirinyaga Collection Center 1,Pending,
+PR00161,B00161,F0053,P01,Maize,2025-02-06,Short Rains Harvest,Busia,1001,48.37,112.62,564.19,15.2,Grade B,0,1001,Busia Collection Center 1,Paid,12
+PR00162,B00162,F0059,P05,Sorghum,2025-12-16,Peak Demand Season,Machakos,683,58.03,65.77,448.08,12.6,Grade A,0,683,Machakos Collection Center 3,Paid,16
+PR00163,B00163,F0058,P02,Beans,2025-04-27,Lean Season,Kakamega,716,110.77,117.44,359.1,10.3,Grade B,0,716,Kakamega Collection Center 2,Paid,15
+PR00164,B00164,F0006,P06,Millet,2025-06-18,Lean Season,Kirinyaga,121,107.25,14.43,123.39,12.8,Grade A,0,121,Kirinyaga Collection Center 2,Paid,15
+PR00165,B00165,F0106,P01,Maize,2025-07-15,Long Rains Harvest,Busia,715,49.19,64.52,564.94,14.8,Grade C,0,715,Busia Collection Center 2,Pending,
+PR00166,B00166,F0076,P03,Rice,2026-06-01,Lean Season,Kirinyaga,2568,81.72,357.48,2237.38,12.2,Grade C,0,2568,Kirinyaga Collection Center 3,Paid,8
+PR00167,B00167,F0117,P07,Green Grams,2025-07-01,Long Rains Harvest,Machakos,1192,134.59,111.05,1276.24,11.2,Grade B,0,1192,Machakos Collection Center 2,Paid,21
+PR00168,B00168,F0078,P02,Beans,2025-09-12,Long Rains Harvest,Nyeri,686,97.47,76.19,809.03,13.0,Grade A,0,686,Nyeri Collection Center 3,Pending,
+PR00169,B00169,F0108,P04,Wheat,2025-11-18,Peak Demand Season,Busia,769,55.77,137.38,725.02,16.7,Grade C,0,769,Busia Collection Center 3,Paid,14
+PR00170,B00170,F0091,P01,Maize,2025-07-02,Long Rains Harvest,Nyeri,1510,46.06,228.17,1095.76,12.9,Grade A,0,1510,Nyeri Collection Center 3,Paid,16
+PR00171,B00171,F0087,P06,Millet,2025-10-20,Peak Demand Season,Kitui,332,113.48,35.31,168.97,13.9,Grade B,14,318,Kitui Collection Center 1,Paid,21
+PR00172,B00172,F0088,P09,Barley,2025-09-14,Long Rains Harvest,Makueni,311,41.83,37.28,326.25,14.6,Grade B,0,311,Makueni Collection Center 3,Paid,11
+PR00173,B00173,F0095,P07,Green Grams,2025-08-18,Long Rains Harvest,Machakos,986,136.35,123.55,656.99,15.5,Grade C,0,986,Machakos Collection Center 2,Paid,14
+PR00174,B00174,F0101,P02,Beans,2025-11-17,Peak Demand Season,Nakuru,1439,140.31,194.21,1468.6,14.7,Grade C,0,1439,Nakuru Collection Center 1,Paid,18
+PR00175,B00175,F0091,P08,Cowpeas,2026-01-12,Short Rains Harvest,Nyeri,1249,105.12,182.24,1152.04,13.8,Grade C,0,1249,Nyeri Collection Center 3,Paid,13
+PR00176,B00176,F0023,P01,Maize,2026-06-11,Lean Season,Bungoma,856,49.18,86.48,595.24,9.8,Grade A,0,856,Bungoma Collection Center 2,Paid,4
+PR00177,B00177,F0020,P06,Millet,2025-02-10,Short Rains Harvest,Uasin Gishu,394,80.67,40.86,211.03,15.8,Grade B,0,394,Uasin Gishu Collection Center 3,Paid,12
+PR00178,B00178,F0010,P04,Wheat,2025-11-22,Peak Demand Season,Nakuru,262,53.82,50.47,226.48,12.9,Grade A,0,262,Nakuru Collection Center 2,Paid,14
+PR00179,B00179,F0028,P01,Maize,2025-12-06,Peak Demand Season,Kisii,1544,49.66,247.83,1799.09,15.7,Grade B,0,1544,Kisii Collection Center 3,Pending,
+PR00180,B00180,F0086,P01,Maize,2025-12-21,Peak Demand Season,Kisii,1453,51.59,274.4,1350.7,11.8,Grade C,0,1453,Kisii Collection Center 1,Paid,11
+PR00181,B00181,F0070,P02,Beans,2025-10-17,Peak Demand Season,Embu,774,100.79,76.71,804.45,9.6,Grade A,0,774,Embu Collection Center 3,Paid,6
+PR00182,B00182,F0066,P01,Maize,2025-03-26,Lean Season,Makueni,1487,64.03,149.09,1738.89,17.6,Grade A,264,1223,Makueni Collection Center 3,Pending,
+PR00183,B00183,F0014,P02,Beans,2025-07-30,Long Rains Harvest,Nyeri,1218,107.19,135.34,1441.33,13.7,Grade B,0,1218,Nyeri Collection Center 1,Pending,
+PR00184,B00184,F0092,P01,Maize,2025-12-06,Peak Demand Season,Nakuru,1277,44.74,130.17,797.61,13.1,Grade A,0,1277,Nakuru Collection Center 2,Delayed,33
+PR00185,B00185,F0081,P02,Beans,2026-02-19,Short Rains Harvest,Narok,1128,106.7,96.79,1095.64,8.9,Grade B,0,1128,Narok Collection Center 3,Pending,
+PR00186,B00186,F0109,P01,Maize,2025-03-16,Lean Season,Kakamega,733,53.45,89.51,515.22,14.5,Grade B,0,733,Kakamega Collection Center 2,Delayed,28
+PR00187,B00187,F0085,P02,Beans,2025-02-01,Short Rains Harvest,Uasin Gishu,135,108.26,16.51,80.39,13.3,Grade C,0,135,Uasin Gishu Collection Center 1,Delayed,25
+PR00188,B00188,F0114,P01,Maize,2026-01-18,Short Rains Harvest,Meru,1420,54.45,187.61,1579.52,12.2,Grade A,0,1420,Meru Collection Center 3,Paid,9
+PR00189,B00189,F0040,P08,Cowpeas,2025-08-04,Long Rains Harvest,Meru,366,101.61,40.98,271.09,13.7,Grade B,0,366,Meru Collection Center 1,Paid,12
+PR00190,B00190,F0033,P05,Sorghum,2025-07-18,Long Rains Harvest,Narok,973,46.27,106.59,872.88,15.4,Grade C,0,973,Narok Collection Center 3,Paid,14
+PR00191,B00191,F0038,P04,Wheat,2025-03-10,Lean Season,Nyeri,510,54.33,56.96,462.27,12.6,Grade A,0,510,Nyeri Collection Center 2,Paid,19
+PR00192,B00192,F0116,P05,Sorghum,2025-07-18,Long Rains Harvest,Makueni,1121,50.01,178.06,1044.14,11.9,Grade A,0,1121,Makueni Collection Center 2,Paid,11
+PR00193,B00193,F0022,P08,Cowpeas,2025-01-05,Short Rains Harvest,Makueni,1091,92.53,142.82,1089.41,9.8,Grade A,0,1091,Makueni Collection Center 2,Paid,11
+PR00194,B00194,F0060,P07,Green Grams,2026-04-02,Lean Season,Kisumu,464,149.67,59.32,411.18,14.2,Grade B,0,464,Kisumu Collection Center 1,Pending,
+PR00195,B00195,F0026,P08,Cowpeas,2025-09-27,Long Rains Harvest,Machakos,517,101.21,79.57,521.76,11.1,Grade B,0,517,Machakos Collection Center 3,Pending,
+PR00196,B00196,F0076,P02,Beans,2025-08-06,Long Rains Harvest,Kirinyaga,948,120.75,133.67,834.65,17.2,Grade C,0,948,Kirinyaga Collection Center 1,Paid,7
+PR00197,B00197,F0076,P08,Cowpeas,2025-10-25,Peak Demand Season,Kirinyaga,1108,96.62,154.33,624.23,11.0,Grade A,0,1108,Kirinyaga Collection Center 3,Delayed,33
+PR00198,B00198,F0097,P05,Sorghum,2026-06-11,Lean Season,Embu,717,56.9,96.02,642.75,15.1,Grade C,137,580,Embu Collection Center 1,Delayed,51
+PR00199,B00199,F0063,P01,Maize,2025-08-26,Long Rains Harvest,Kirinyaga,209,39.57,21.64,110.76,13.1,Grade C,0,209,Kirinyaga Collection Center 2,Paid,11
+PR00200,B00200,F0006,P08,Cowpeas,2025-11-28,Peak Demand Season,Kirinyaga,1034,95.65,127.36,975.58,10.9,Grade B,0,1034,Kirinyaga Collection Center 2,Paid,20
+PR00201,B00201,F0047,P05,Sorghum,2025-03-21,Lean Season,Kakamega,520,65.33,85.6,590.24,13.1,Grade B,0,520,Kakamega Collection Center 2,Paid,12
+PR00202,B00202,F0001,P08,Cowpeas,2026-05-29,Lean Season,Trans Nzoia,191,128.2,23.57,126.25,13.7,Grade B,0,191,Trans Nzoia Collection Center 3,Paid,12
+PR00203,B00203,F0016,P06,Millet,2025-08-24,Long Rains Harvest,Kitui,351,85.81,79.32,203.35,11.3,Grade A,0,351,Kitui Collection Center 2,Paid,15
+PR00204,B00204,F0006,P01,Maize,2025-05-11,Lean Season,Kirinyaga,439,57.32,44.52,412.96,12.6,Grade A,38,401,Kirinyaga Collection Center 2,Paid,14
+PR00205,B00205,F0073,P05,Sorghum,2025-01-20,Short Rains Harvest,Machakos,205,62.29,43.72,220.36,13.5,Grade A,0,205,Machakos Collection Center 2,Paid,21
+PR00206,B00206,F0107,P01,Maize,2026-02-25,Short Rains Harvest,Embu,303,49.03,40.33,325.52,9.9,Grade B,0,303,Embu Collection Center 2,Pending,
+PR00207,B00207,F0077,P08,Cowpeas,2025-03-12,Lean Season,Trans Nzoia,2099,106.28,214.57,1209.02,13.4,Grade C,0,2099,Trans Nzoia Collection Center 1,Paid,12
+PR00208,B00208,F0023,P05,Sorghum,2026-05-03,Lean Season,Bungoma,469,73.96,54.66,522.67,13.6,Grade C,82,387,Bungoma Collection Center 3,Delayed,25
+PR00209,B00209,F0115,P07,Green Grams,2026-03-18,Lean Season,Kirinyaga,882,156.62,129.66,467.82,9.5,Grade A,0,882,Kirinyaga Collection Center 2,Pending,
+PR00210,B00210,F0103,P02,Beans,2025-04-11,Lean Season,Kitui,2007,125.46,360.21,2079.46,11.9,Grade A,0,2007,Kitui Collection Center 2,Paid,21
+PR00211,B00211,F0091,P01,Maize,2025-01-08,Short Rains Harvest,Nyeri,1167,48.69,152.67,589.38,11.4,Grade B,0,1167,Nyeri Collection Center 1,Paid,8
+PR00212,B00212,F0075,P02,Beans,2025-09-17,Long Rains Harvest,Nyeri,826,97.02,113.64,739.49,14.1,Grade C,0,826,Nyeri Collection Center 3,Paid,21
+PR00213,B00213,F0062,P07,Green Grams,2025-07-03,Long Rains Harvest,Nyeri,1020,123.34,144.3,691.2,11.4,Grade A,0,1020,Nyeri Collection Center 3,Pending,
+PR00214,B00214,F0030,P01,Maize,2026-04-03,Lean Season,Makueni,1000,61.07,131.81,570.2,14.0,Grade C,0,1000,Makueni Collection Center 3,Paid,18
+PR00215,B00215,F0021,P06,Millet,2026-02-03,Short Rains Harvest,Bungoma,429,105.32,44.0,241.85,9.7,Grade C,0,429,Bungoma Collection Center 1,Paid,11
+PR00216,B00216,F0078,P02,Beans,2025-02-08,Short Rains Harvest,Nyeri,1239,117.78,136.62,966.98,10.2,Grade A,0,1239,Nyeri Collection Center 1,Paid,8
+PR00217,B00217,F0057,P05,Sorghum,2025-01-11,Short Rains Harvest,Uasin Gishu,1017,49.43,190.97,1080.8,17.7,Grade A,0,1017,Uasin Gishu Collection Center 1,Paid,14
+PR00218,B00218,F0087,P05,Sorghum,2025-02-06,Short Rains Harvest,Kitui,784,52.44,88.19,927.43,12.7,Grade A,0,784,Kitui Collection Center 2,Paid,16
+PR00219,B00219,F0067,P04,Wheat,2025-01-16,Short Rains Harvest,Kirinyaga,1402,50.7,121.58,789.49,11.9,Grade B,0,1402,Kirinyaga Collection Center 2,Paid,17
+PR00220,B00220,F0025,P01,Maize,2026-04-11,Lean Season,Narok,1161,63.7,167.16,792.7,12.1,Grade A,0,1161,Narok Collection Center 1,Paid,10
+PR00221,B00221,F0033,P07,Green Grams,2025-09-14,Long Rains Harvest,Narok,1116,134.67,130.71,997.95,10.6,Grade B,0,1116,Narok Collection Center 2,Paid,15
+PR00222,B00222,F0111,P08,Cowpeas,2025-01-29,Short Rains Harvest,Narok,882,97.34,141.46,677.26,12.4,Grade A,0,882,Narok Collection Center 2,Pending,
+PR00223,B00223,F0067,P08,Cowpeas,2025-01-10,Short Rains Harvest,Kirinyaga,1322,103.57,120.72,926.86,11.1,Grade B,0,1322,Kirinyaga Collection Center 1,Paid,17
+PR00224,B00224,F0046,P03,Rice,2025-08-12,Long Rains Harvest,Makueni,56,82.5,7.64,65.13,12.6,Grade B,0,56,Makueni Collection Center 3,Paid,11
+PR00225,B00225,F0034,P01,Maize,2025-07-31,Long Rains Harvest,Kirinyaga,688,42.01,72.12,746.78,13.6,Grade C,33,655,Kirinyaga Collection Center 2,Delayed,35
+PR00226,B00226,F0098,P05,Sorghum,2025-02-13,Short Rains Harvest,Trans Nzoia,155,61.71,18.27,111.72,11.1,Grade B,0,155,Trans Nzoia Collection Center 1,Paid,13
+PR00227,B00227,F0118,P09,Barley,2026-06-08,Lean Season,Meru,709,52.42,74.72,640.7,13.6,Grade C,0,709,Meru Collection Center 3,Paid,10
+PR00228,B00228,F0111,P02,Beans,2025-06-28,Lean Season,Narok,367,126.88,56.77,316.63,13.4,Grade A,0,367,Narok Collection Center 1,Paid,15
+PR00229,B00229,F0079,P02,Beans,2025-09-23,Long Rains Harvest,Kakamega,1914,94.29,178.65,1317.95,11.3,Grade A,0,1914,Kakamega Collection Center 2,Paid,11
+PR00230,B00230,F0048,P06,Millet,2026-01-09,Short Rains Harvest,Uasin Gishu,601,101.97,57.77,376.18,11.0,Grade A,0,601,Uasin Gishu Collection Center 2,Paid,15
+PR00231,B00231,F0072,P07,Green Grams,2026-03-19,Lean Season,Narok,882,170.84,86.47,934.94,9.3,Grade A,0,882,Narok Collection Center 1,Paid,18
+PR00232,B00232,F0109,P09,Barley,2026-06-14,Lean Season,Kakamega,1091,55.26,127.15,917.13,17.3,Grade C,56,1035,Kakamega Collection Center 1,Paid,9
+PR00233,B00233,F0061,P07,Green Grams,2025-04-09,Lean Season,Kirinyaga,669,153.55,157.11,503.54,15.0,Grade C,0,669,Kirinyaga Collection Center 1,Paid,13
+PR00234,B00234,F0087,P02,Beans,2025-07-23,Long Rains Harvest,Kitui,1370,108.63,153.93,1201.36,14.1,Grade B,0,1370,Kitui Collection Center 3,Paid,14
+PR00235,B00235,F0011,P03,Rice,2026-01-26,Short Rains Harvest,Kirinyaga,50,79.33,5.92,58.48,14.3,Grade B,0,50,Kirinyaga Collection Center 3,Paid,14
+PR00236,B00236,F0109,P04,Wheat,2025-03-15,Lean Season,Kakamega,846,52.41,99.3,608.64,10.2,Grade B,0,846,Kakamega Collection Center 2,Paid,14
+PR00237,B00237,F0047,P07,Green Grams,2026-04-07,Lean Season,Kakamega,1146,152.02,179.52,591.53,8.4,Grade B,0,1146,Kakamega Collection Center 1,Pending,
+PR00238,B00238,F0051,P01,Maize,2025-04-16,Lean Season,Makueni,2534,48.75,345.17,2106.34,12.4,Grade B,0,2534,Makueni Collection Center 1,Delayed,25
+PR00239,B00239,F0020,P01,Maize,2025-03-28,Lean Season,Uasin Gishu,567,58.77,67.24,406.29,10.6,Grade A,0,567,Uasin Gishu Collection Center 1,Paid,6
+PR00240,B00240,F0085,P01,Maize,2026-01-01,Short Rains Harvest,Uasin Gishu,566,52.98,65.73,471.65,15.6,Grade B,0,566,Uasin Gishu Collection Center 3,Paid,17
+PR00241,B00241,F0076,P04,Wheat,2026-04-13,Lean Season,Kirinyaga,474,58.59,68.19,424.13,14.7,Grade B,0,474,Kirinyaga Collection Center 3,Paid,6
+PR00242,B00242,F0012,P01,Maize,2026-03-29,Lean Season,Narok,583,52.56,82.1,355.05,17.0,Grade C,0,583,Narok Collection Center 2,Paid,11
+PR00243,B00243,F0002,P03,Rice,2026-05-19,Lean Season,Trans Nzoia,1264,101.73,202.08,640.08,13.1,Grade B,0,1264,Trans Nzoia Collection Center 2,Paid,13
+PR00244,B00244,F0113,P01,Maize,2026-03-24,Lean Season,Bungoma,881,54.11,79.53,895.08,13.5,Grade B,0,881,Bungoma Collection Center 1,Paid,13
+PR00245,B00245,F0103,P04,Wheat,2025-10-06,Peak Demand Season,Kitui,2479,51.29,501.3,2643.03,12.8,Grade B,0,2479,Kitui Collection Center 3,Paid,19
+PR00246,B00246,F0058,P03,Rice,2025-10-06,Peak Demand Season,Kakamega,562,89.68,88.57,407.14,9.7,Grade C,0,562,Kakamega Collection Center 2,Delayed,25
+PR00247,B00247,F0092,P01,Maize,2026-03-25,Lean Season,Nakuru,1641,60.07,174.54,993.59,11.1,Grade A,0,1641,Nakuru Collection Center 2,Pending,
+PR00248,B00248,F0102,P03,Rice,2025-02-02,Short Rains Harvest,Kisumu,564,73.4,143.67,657.71,11.6,Grade B,0,564,Kisumu Collection Center 1,Paid,18
+PR00249,B00249,F0033,P08,Cowpeas,2026-01-26,Short Rains Harvest,Narok,1247,107.21,119.05,1294.01,13.8,Grade C,0,1247,Narok Collection Center 1,Pending,
+PR00250,B00250,F0095,P01,Maize,2025-04-07,Lean Season,Machakos,1741,56.38,240.22,1446.73,11.8,Grade A,0,1741,Machakos Collection Center 1,Paid,14
+PR00251,B00251,F0071,P06,Millet,2025-05-06,Lean Season,Kisii,1757,98.68,233.37,1122.91,13.7,Grade C,0,1757,Kisii Collection Center 3,Paid,14
+PR00252,B00252,F0002,P02,Beans,2025-06-21,Lean Season,Trans Nzoia,807,141.99,132.42,627.09,11.1,Grade C,0,807,Trans Nzoia Collection Center 3,Paid,19
+PR00253,B00253,F0048,P05,Sorghum,2025-04-02,Lean Season,Uasin Gishu,817,59.33,82.99,800.79,13.1,Grade C,0,817,Uasin Gishu Collection Center 2,Paid,19
+PR00254,B00254,F0090,P05,Sorghum,2025-04-20,Lean Season,Kitui,1156,56.58,160.94,1372.37,11.7,Grade B,0,1156,Kitui Collection Center 1,Paid,13
+PR00255,B00255,F0049,P01,Maize,2026-01-02,Short Rains Harvest,Busia,342,50.91,33.43,180.45,8.4,Grade A,0,342,Busia Collection Center 3,Paid,15
+PR00256,B00256,F0045,P01,Maize,2025-11-28,Peak Demand Season,Bungoma,869,56.4,90.21,940.21,12.0,Grade A,0,869,Bungoma Collection Center 2,Paid,11
+PR00257,B00257,F0070,P07,Green Grams,2026-01-11,Short Rains Harvest,Embu,966,130.39,101.77,825.13,14.2,Grade C,0,966,Embu Collection Center 3,Paid,14
+PR00258,B00258,F0093,P01,Maize,2025-03-06,Lean Season,Narok,940,58.84,162.43,724.97,12.1,Grade A,0,940,Narok Collection Center 2,Paid,13
+PR00259,B00259,F0042,P02,Beans,2025-04-24,Lean Season,Kitui,657,110.71,111.68,348.63,15.9,Grade A,35,622,Kitui Collection Center 1,Paid,19
+PR00260,B00260,F0108,P04,Wheat,2026-02-02,Short Rains Harvest,Busia,1259,49.95,204.59,1247.57,12.9,Grade A,0,1259,Busia Collection Center 1,Paid,8
+PR00261,B00261,F0119,P05,Sorghum,2025-03-23,Lean Season,Trans Nzoia,1025,64.24,151.75,771.46,11.1,Grade B,0,1025,Trans Nzoia Collection Center 1,Pending,
+PR00262,B00262,F0035,P07,Green Grams,2025-02-11,Short Rains Harvest,Nyeri,802,140.51,92.16,444.75,9.4,Grade A,0,802,Nyeri Collection Center 2,Paid,11
+PR00263,B00263,F0068,P01,Maize,2025-09-12,Long Rains Harvest,Kisumu,2131,47.03,294.36,1898.5,8.5,Grade B,0,2131,Kisumu Collection Center 3,Paid,20
+PR00264,B00264,F0086,P03,Rice,2026-03-14,Lean Season,Kisii,2249,100.15,355.17,1408.5,13.8,Grade B,0,2249,Kisii Collection Center 2,Delayed,47
+PR00265,B00265,F0116,P08,Cowpeas,2025-11-19,Peak Demand Season,Makueni,1213,109.73,218.65,1323.87,12.0,Grade B,0,1213,Makueni Collection Center 1,Paid,10
+PR00266,B00266,F0028,P04,Wheat,2026-01-20,Short Rains Harvest,Kisii,1330,50.97,248.17,901.56,10.6,Grade A,0,1330,Kisii Collection Center 2,Pending,
+PR00267,B00267,F0067,P05,Sorghum,2025-05-19,Lean Season,Kirinyaga,677,76.01,62.44,480.83,10.7,Grade B,0,677,Kirinyaga Collection Center 3,Pending,
+PR00268,B00268,F0118,P07,Green Grams,2026-06-08,Lean Season,Meru,937,158.08,116.94,569.98,9.6,Grade A,0,937,Meru Collection Center 3,Paid,10
+PR00269,B00269,F0033,P01,Maize,2025-11-04,Peak Demand Season,Narok,1054,45.64,108.13,1204.21,13.1,Grade B,0,1054,Narok Collection Center 3,Paid,20
+PR00270,B00270,F0105,P06,Millet,2025-04-08,Lean Season,Kakamega,230,110.93,25.76,232.66,10.2,Grade A,0,230,Kakamega Collection Center 2,Pending,
+PR00271,B00271,F0056,P07,Green Grams,2026-03-03,Lean Season,Kisumu,1250,173.99,221.43,1299.09,11.7,Grade B,0,1250,Kisumu Collection Center 3,Paid,10
+PR00272,B00272,F0040,P02,Beans,2025-02-12,Short Rains Harvest,Meru,107,102.38,11.08,77.98,13.0,Grade A,0,107,Meru Collection Center 2,Delayed,44
+PR00273,B00273,F0074,P06,Millet,2026-06-01,Lean Season,Uasin Gishu,237,92.83,23.76,248.96,8.8,Grade A,0,237,Uasin Gishu Collection Center 3,Pending,
+PR00274,B00274,F0011,P02,Beans,2026-02-13,Short Rains Harvest,Kirinyaga,1611,109.32,205.4,952.52,11.3,Grade A,0,1611,Kirinyaga Collection Center 1,Paid,15
+PR00275,B00275,F0095,P04,Wheat,2025-09-10,Long Rains Harvest,Machakos,3176,44.55,369.76,2544.12,12.8,Grade A,0,3176,Machakos Collection Center 2,Paid,12
+PR00276,B00276,F0042,P02,Beans,2025-12-19,Peak Demand Season,Kitui,2304,124.69,333.28,1643.61,16.5,Grade C,0,2304,Kitui Collection Center 1,Paid,19
+PR00277,B00277,F0119,P03,Rice,2025-08-28,Long Rains Harvest,Trans Nzoia,1156,68.44,160.44,1191.16,12.5,Grade A,276,880,Trans Nzoia Collection Center 2,Delayed,48
+PR00278,B00278,F0089,P01,Maize,2025-04-24,Lean Season,Kitui,1566,52.51,230.47,1146.8,11.1,Grade A,0,1566,Kitui Collection Center 3,Pending,
+PR00279,B00279,F0094,P03,Rice,2025-05-25,Lean Season,Makueni,835,95.53,146.61,637.63,15.6,Grade B,0,835,Makueni Collection Center 1,Paid,13
+PR00280,B00280,F0080,P07,Green Grams,2025-10-05,Peak Demand Season,Machakos,394,128.12,46.67,199.3,12.3,Grade A,0,394,Machakos Collection Center 1,Paid,17
+PR00281,B00281,F0112,P01,Maize,2026-01-31,Short Rains Harvest,Narok,1183,43.41,117.91,1400.23,10.3,Grade A,0,1183,Narok Collection Center 1,Paid,21
+PR00282,B00282,F0059,P01,Maize,2025-01-23,Short Rains Harvest,Machakos,1659,40.5,197.69,1183.61,13.7,Grade B,300,1359,Machakos Collection Center 2,Paid,21
+PR00283,B00283,F0065,P01,Maize,2025-10-10,Peak Demand Season,Kakamega,631,57.74,84.26,703.61,16.5,Grade C,96,535,Kakamega Collection Center 1,Paid,16
+PR00284,B00284,F0051,P02,Beans,2025-05-21,Lean Season,Makueni,547,110.33,65.4,641.32,10.1,Grade B,0,547,Makueni Collection Center 1,Paid,11
+PR00285,B00285,F0040,P02,Beans,2025-12-04,Peak Demand Season,Meru,1287,118.62,119.41,1231.31,13.2,Grade B,0,1287,Meru Collection Center 3,Paid,14
+PR00286,B00286,F0068,P06,Millet,2025-05-19,Lean Season,Kisumu,557,105.01,76.29,578.74,9.2,Grade A,0,557,Kisumu Collection Center 3,Paid,18
+PR00287,B00287,F0016,P08,Cowpeas,2025-07-08,Long Rains Harvest,Kitui,1026,89.73,264.28,1035.19,10.0,Grade B,0,1026,Kitui Collection Center 2,Paid,4
+PR00288,B00288,F0106,P06,Millet,2025-10-08,Peak Demand Season,Busia,770,89.11,70.99,455.9,16.2,Grade C,0,770,Busia Collection Center 3,Paid,19
+PR00289,B00289,F0030,P01,Maize,2025-08-25,Long Rains Harvest,Makueni,1292,48.76,148.22,1268.35,10.4,Grade A,0,1292,Makueni Collection Center 2,Pending,
+PR00290,B00290,F0050,P01,Maize,2026-05-19,Lean Season,Machakos,962,55.53,123.92,633.37,13.2,Grade C,0,962,Machakos Collection Center 1,Delayed,36
+PR00291,B00291,F0026,P06,Millet,2025-07-29,Long Rains Harvest,Machakos,364,75.55,60.0,433.14,10.6,Grade A,0,364,Machakos Collection Center 1,Paid,15
+PR00292,B00292,F0100,P02,Beans,2025-02-12,Short Rains Harvest,Uasin Gishu,1004,113.35,107.72,1008.16,11.9,Grade C,0,1004,Uasin Gishu Collection Center 3,Paid,21
+PR00293,B00293,F0101,P07,Green Grams,2025-02-09,Short Rains Harvest,Nakuru,532,132.8,79.62,573.98,12.5,Grade C,0,532,Nakuru Collection Center 3,Paid,6
+PR00294,B00294,F0050,P01,Maize,2026-06-13,Lean Season,Machakos,1374,60.75,214.56,869.6,13.0,Grade B,0,1374,Machakos Collection Center 1,Paid,13
+PR00295,B00295,F0079,P02,Beans,2025-02-25,Short Rains Harvest,Kakamega,1235,116.47,134.39,1018.26,12.7,Grade A,0,1235,Kakamega Collection Center 3,Paid,6
+PR00296,B00296,F0090,P08,Cowpeas,2025-05-19,Lean Season,Kitui,530,111.77,75.54,274.24,10.2,Grade B,0,530,Kitui Collection Center 1,Delayed,40
+PR00297,B00297,F0089,P01,Maize,2025-06-17,Lean Season,Kitui,259,59.91,34.86,150.2,17.6,Grade B,0,259,Kitui Collection Center 3,Paid,7
+PR00298,B00298,F0021,P05,Sorghum,2026-01-23,Short Rains Harvest,Bungoma,1609,56.06,166.8,996.97,11.6,Grade B,0,1609,Bungoma Collection Center 1,Paid,9
+PR00299,B00299,F0092,P01,Maize,2025-02-22,Short Rains Harvest,Nakuru,1184,46.28,128.45,1229.04,11.6,Grade B,0,1184,Nakuru Collection Center 1,Paid,11
+PR00300,B00300,F0098,P01,Maize,2025-09-17,Long Rains Harvest,Trans Nzoia,820,38.82,99.71,696.22,11.9,Grade B,0,820,Trans Nzoia Collection Center 3,Paid,17
+PR00301,B00301,F0053,P03,Rice,2026-03-29,Lean Season,Busia,1011,80.36,132.7,678.68,16.3,Grade C,0,1011,Busia Collection Center 1,Pending,
+PR00302,B00302,F0008,P01,Maize,2025-12-24,Peak Demand Season,Kitui,333,44.72,36.87,321.98,8.0,Grade A,0,333,Kitui Collection Center 2,Paid,12
+PR00303,B00303,F0021,P09,Barley,2025-10-19,Peak Demand Season,Bungoma,2475,52.62,302.18,2268.28,13.8,Grade A,0,2475,Bungoma Collection Center 1,Paid,19
+PR00304,B00304,F0039,P01,Maize,2025-11-27,Peak Demand Season,Kitui,797,50.29,96.33,436.25,11.0,Grade A,0,797,Kitui Collection Center 3,Paid,13
+PR00305,B00305,F0043,P07,Green Grams,2026-02-28,Short Rains Harvest,Trans Nzoia,754,132.94,96.4,700.04,11.1,Grade B,0,754,Trans Nzoia Collection Center 2,Delayed,27
+PR00306,B00306,F0078,P06,Millet,2025-10-22,Peak Demand Season,Nyeri,550,98.35,59.54,374.97,10.5,Grade B,0,550,Nyeri Collection Center 2,Paid,11
+PR00307,B00307,F0081,P04,Wheat,2026-05-25,Lean Season,Narok,838,57.04,75.15,776.48,11.9,Grade C,30,808,Narok Collection Center 1,Paid,12
+PR00308,B00308,F0027,P06,Millet,2026-03-01,Lean Season,Kisii,1373,104.44,135.23,1225.12,12.3,Grade A,0,1373,Kisii Collection Center 1,Paid,10
+PR00309,B00309,F0065,P02,Beans,2025-11-28,Peak Demand Season,Kakamega,782,131.97,91.77,573.44,11.6,Grade A,0,782,Kakamega Collection Center 1,Pending,
+PR00310,B00310,F0044,P02,Beans,2026-05-06,Lean Season,Narok,1595,147.44,289.75,1518.37,8.7,Grade B,0,1595,Narok Collection Center 2,Paid,15
+PR00311,B00311,F0105,P03,Rice,2026-02-28,Short Rains Harvest,Kakamega,1001,85.89,105.08,865.62,15.4,Grade B,0,1001,Kakamega Collection Center 3,Paid,13
+PR00312,B00312,F0103,P05,Sorghum,2025-12-29,Peak Demand Season,Kitui,1714,51.79,299.22,1865.72,9.9,Grade A,0,1714,Kitui Collection Center 3,Paid,19
+PR00313,B00313,F0077,P02,Beans,2025-04-30,Lean Season,Trans Nzoia,1454,145.13,162.29,1444.82,13.9,Grade A,0,1454,Trans Nzoia Collection Center 1,Paid,10
+PR00314,B00314,F0107,P02,Beans,2025-11-06,Peak Demand Season,Embu,585,108.83,69.14,338.46,13.1,Grade C,0,585,Embu Collection Center 1,Paid,20
+PR00315,B00315,F0116,P07,Green Grams,2026-05-28,Lean Season,Makueni,681,140.96,105.22,570.97,10.1,Grade A,0,681,Makueni Collection Center 1,Pending,
+PR00316,B00316,F0067,P07,Green Grams,2025-05-16,Lean Season,Kirinyaga,799,143.13,68.68,616.28,15.5,Grade A,0,799,Kirinyaga Collection Center 3,Paid,16
+PR00317,B00317,F0043,P07,Green Grams,2026-04-24,Lean Season,Trans Nzoia,761,172.24,83.87,788.64,10.3,Grade A,0,761,Trans Nzoia Collection Center 1,Paid,19
+PR00318,B00318,F0025,P02,Beans,2025-10-21,Peak Demand Season,Narok,687,111.37,92.86,555.63,14.6,Grade A,0,687,Narok Collection Center 3,Paid,14
+PR00319,B00319,F0014,P04,Wheat,2025-07-31,Long Rains Harvest,Nyeri,648,47.31,69.44,446.95,13.7,Grade C,0,648,Nyeri Collection Center 2,Paid,16
+PR00320,B00320,F0044,P05,Sorghum,2026-03-31,Lean Season,Narok,896,54.9,134.33,1014.54,11.8,Grade A,0,896,Narok Collection Center 3,Paid,15
+PR00321,B00321,F0076,P05,Sorghum,2026-04-02,Lean Season,Kirinyaga,964,67.57,128.09,1033.61,10.4,Grade B,0,964,Kirinyaga Collection Center 2,Delayed,46
+PR00322,B00322,F0012,P04,Wheat,2026-04-25,Lean Season,Narok,1747,52.61,239.78,1661.56,12.3,Grade A,0,1747,Narok Collection Center 3,Paid,14
+PR00323,B00323,F0047,P01,Maize,2026-02-06,Short Rains Harvest,Kakamega,356,42.69,66.58,260.32,11.4,Grade A,0,356,Kakamega Collection Center 1,Paid,11
+PR00324,B00324,F0060,P02,Beans,2025-06-24,Lean Season,Kisumu,582,119.05,75.23,525.12,15.9,Grade B,0,582,Kisumu Collection Center 3,Paid,16
+PR00325,B00325,F0102,P05,Sorghum,2025-11-06,Peak Demand Season,Kisumu,1656,61.59,379.8,1307.26,15.7,Grade B,0,1656,Kisumu Collection Center 2,Paid,13
+PR00326,B00326,F0089,P01,Maize,2026-03-18,Lean Season,Kitui,1663,61.09,242.6,1748.03,10.6,Grade A,0,1663,Kitui Collection Center 3,Paid,15
+PR00327,B00327,F0063,P04,Wheat,2025-04-28,Lean Season,Kirinyaga,301,58.15,31.9,267.46,15.0,Grade A,0,301,Kirinyaga Collection Center 1,Paid,10
+PR00328,B00328,F0077,P05,Sorghum,2026-01-24,Short Rains Harvest,Trans Nzoia,1108,51.82,120.64,601.69,14.3,Grade A,0,1108,Trans Nzoia Collection Center 1,Pending,
+PR00329,B00329,F0085,P06,Millet,2025-06-02,Lean Season,Uasin Gishu,256,105.83,29.48,238.31,8.4,Grade A,0,256,Uasin Gishu Collection Center 3,Paid,18
+PR00330,B00330,F0120,P02,Beans,2026-03-22,Lean Season,Trans Nzoia,1492,138.56,189.3,1780.26,9.7,Grade B,0,1492,Trans Nzoia Collection Center 2,Pending,
+PR00331,B00331,F0116,P01,Maize,2025-02-24,Short Rains Harvest,Makueni,993,39.91,161.98,1176.79,13.5,Grade B,124,869,Makueni Collection Center 3,Paid,5
+PR00332,B00332,F0049,P02,Beans,2026-02-20,Short Rains Harvest,Busia,1335,104.75,140.49,1286.59,13.9,Grade A,0,1335,Busia Collection Center 2,Delayed,53
+PR00333,B00333,F0112,P01,Maize,2025-05-09,Lean Season,Narok,715,49.45,65.73,365.36,10.5,Grade A,0,715,Narok Collection Center 1,Delayed,36
+PR00334,B00334,F0104,P01,Maize,2026-03-02,Lean Season,Kisii,1553,62.45,208.31,1532.46,11.4,Grade B,0,1553,Kisii Collection Center 2,Paid,15
+PR00335,B00335,F0029,P02,Beans,2025-07-10,Long Rains Harvest,Kitui,981,103.03,98.2,832.58,12.9,Grade B,0,981,Kitui Collection Center 3,Delayed,30
+PR00336,B00336,F0005,P02,Beans,2026-05-10,Lean Season,Nakuru,1271,137.98,123.12,1063.92,14.1,Grade A,0,1271,Nakuru Collection Center 2,Delayed,41
+PR00337,B00337,F0011,P03,Rice,2025-04-01,Lean Season,Kirinyaga,377,84.44,46.49,363.66,14.8,Grade B,0,377,Kirinyaga Collection Center 3,Paid,20
+PR00338,B00338,F0044,P01,Maize,2025-01-12,Short Rains Harvest,Narok,593,47.03,100.75,491.28,13.3,Grade B,0,593,Narok Collection Center 2,Pending,
+PR00339,B00339,F0089,P01,Maize,2025-11-08,Peak Demand Season,Kitui,2278,56.31,342.88,1236.94,8.5,Grade A,0,2278,Kitui Collection Center 3,Delayed,32
+PR00340,B00340,F0037,P05,Sorghum,2026-05-12,Lean Season,Trans Nzoia,194,55.61,26.77,212.63,14.1,Grade A,0,194,Trans Nzoia Collection Center 1,Pending,
+PR00341,B00341,F0078,P06,Millet,2025-06-28,Lean Season,Nyeri,1427,122.22,150.69,1371.93,16.1,Grade B,0,1427,Nyeri Collection Center 1,Paid,19
+PR00342,B00342,F0111,P07,Green Grams,2025-02-03,Short Rains Harvest,Narok,481,126.38,73.68,289.35,12.6,Grade A,0,481,Narok Collection Center 2,Delayed,46
+PR00343,B00343,F0057,P01,Maize,2025-06-21,Lean Season,Uasin Gishu,380,50.82,72.66,281.79,13.0,Grade B,0,380,Uasin Gishu Collection Center 2,Paid,14
+PR00344,B00344,F0061,P03,Rice,2025-08-28,Long Rains Harvest,Kirinyaga,1191,72.09,306.08,991.17,12.9,Grade B,279,912,Kirinyaga Collection Center 3,Paid,18
+PR00345,B00345,F0068,P02,Beans,2025-02-12,Short Rains Harvest,Kisumu,50,93.95,6.27,37.38,13.9,Grade B,0,50,Kisumu Collection Center 2,Paid,21
+PR00346,B00346,F0013,P01,Maize,2025-09-19,Long Rains Harvest,Meru,608,48.27,60.97,633.05,12.2,Grade B,0,608,Meru Collection Center 2,Paid,18
+PR00347,B00347,F0024,P05,Sorghum,2025-11-17,Peak Demand Season,Trans Nzoia,2036,61.9,252.07,2203.32,15.3,Grade A,261,1775,Trans Nzoia Collection Center 2,Paid,11
+PR00348,B00348,F0005,P01,Maize,2025-01-25,Short Rains Harvest,Nakuru,1295,49.31,123.54,1186.09,12.0,Grade A,0,1295,Nakuru Collection Center 1,Paid,16
+PR00349,B00349,F0078,P01,Maize,2025-05-14,Lean Season,Nyeri,693,53.78,73.6,660.8,12.6,Grade A,0,693,Nyeri Collection Center 2,Paid,21
+PR00350,B00350,F0120,P03,Rice,2025-03-19,Lean Season,Trans Nzoia,492,94.14,62.53,341.19,12.9,Grade B,0,492,Trans Nzoia Collection Center 1,Paid,14
+PR00351,B00351,F0036,P07,Green Grams,2025-03-05,Lean Season,Kitui,91,150.69,10.28,49.33,11.6,Grade A,0,91,Kitui Collection Center 1,Paid,11
+PR00352,B00352,F0023,P05,Sorghum,2026-05-19,Lean Season,Bungoma,240,56.19,27.58,192.45,12.3,Grade A,0,240,Bungoma Collection Center 1,Paid,7
+PR00353,B00353,F0074,P01,Maize,2025-09-14,Long Rains Harvest,Uasin Gishu,473,50.08,42.56,401.29,11.9,Grade A,55,418,Uasin Gishu Collection Center 2,Paid,9
+PR00354,B00354,F0074,P08,Cowpeas,2025-01-04,Short Rains Harvest,Uasin Gishu,973,98.29,109.83,820.7,15.3,Grade C,0,973,Uasin Gishu Collection Center 3,Pending,
+PR00355,B00355,F0050,P01,Maize,2026-05-09,Lean Season,Machakos,1010,49.21,142.95,1206.06,12.1,Grade A,0,1010,Machakos Collection Center 3,Delayed,37
+PR00356,B00356,F0069,P01,Maize,2025-12-15,Peak Demand Season,Meru,442,45.45,52.31,458.16,12.7,Grade A,51,391,Meru Collection Center 3,Paid,3
+PR00357,B00357,F0014,P02,Beans,2026-01-03,Short Rains Harvest,Nyeri,775,108.74,89.77,625.11,14.8,Grade A,193,582,Nyeri Collection Center 2,Paid,12
+PR00358,B00358,F0070,P01,Maize,2025-11-12,Peak Demand Season,Embu,215,52.49,23.63,229.67,14.2,Grade A,0,215,Embu Collection Center 3,Paid,12
+PR00359,B00359,F0016,P01,Maize,2025-08-05,Long Rains Harvest,Kitui,1287,50.52,315.79,1056.45,15.7,Grade C,203,1084,Kitui Collection Center 1,Delayed,30
+PR00360,B00360,F0063,P06,Millet,2025-01-20,Short Rains Harvest,Kirinyaga,868,90.33,102.31,461.83,12.8,Grade A,0,868,Kirinyaga Collection Center 2,Paid,9
+PR00361,B00361,F0013,P07,Green Grams,2026-04-13,Lean Season,Meru,458,160.41,51.04,249.5,13.2,Grade A,0,458,Meru Collection Center 1,Paid,5
+PR00362,B00362,F0055,P07,Green Grams,2025-12-12,Peak Demand Season,Trans Nzoia,454,158.38,48.99,442.59,15.7,Grade C,0,454,Trans Nzoia Collection Center 1,Paid,15
+PR00363,B00363,F0076,P06,Millet,2025-06-27,Lean Season,Kirinyaga,1099,101.62,138.88,658.15,12.1,Grade B,0,1099,Kirinyaga Collection Center 3,Paid,8
+PR00364,B00364,F0013,P01,Maize,2026-01-21,Short Rains Harvest,Meru,1836,51.72,166.79,1543.85,12.9,Grade A,318,1518,Meru Collection Center 2,Delayed,42
+PR00365,B00365,F0102,P05,Sorghum,2026-05-03,Lean Season,Kisumu,1013,69.27,221.02,960.2,13.8,Grade B,0,1013,Kisumu Collection Center 1,Paid,9
+PR00366,B00366,F0092,P05,Sorghum,2026-05-27,Lean Season,Nakuru,846,67.47,86.58,912.44,8.9,Grade A,0,846,Nakuru Collection Center 3,Paid,12
+PR00367,B00367,F0080,P09,Barley,2026-01-06,Short Rains Harvest,Machakos,3345,50.0,427.1,2860.91,11.5,Grade B,0,3345,Machakos Collection Center 1,Paid,18
+PR00368,B00368,F0088,P07,Green Grams,2026-05-01,Lean Season,Makueni,347,155.57,42.71,397.62,14.3,Grade B,0,347,Makueni Collection Center 3,Paid,17
+PR00369,B00369,F0098,P07,Green Grams,2026-04-10,Lean Season,Trans Nzoia,1072,136.24,138.08,1230.02,14.3,Grade C,0,1072,Trans Nzoia Collection Center 1,Paid,12
+PR00370,B00370,F0076,P06,Millet,2025-11-30,Peak Demand Season,Kirinyaga,1402,98.08,206.99,1582.66,11.9,Grade A,0,1402,Kirinyaga Collection Center 2,Paid,18
+PR00371,B00371,F0049,P07,Green Grams,2025-08-14,Long Rains Harvest,Busia,1111,112.97,118.04,597.76,13.5,Grade A,0,1111,Busia Collection Center 2,Paid,13
+PR00372,B00372,F0093,P01,Maize,2025-07-18,Long Rains Harvest,Narok,1317,47.94,251.59,844.92,8.6,Grade B,0,1317,Narok Collection Center 2,Paid,17
+PR00373,B00373,F0022,P03,Rice,2025-12-18,Peak Demand Season,Makueni,2009,78.58,233.59,1224.99,14.1,Grade C,0,2009,Makueni Collection Center 3,Paid,12
+PR00374,B00374,F0012,P07,Green Grams,2026-02-26,Short Rains Harvest,Narok,582,144.94,83.54,696.63,10.5,Grade B,0,582,Narok Collection Center 3,Pending,
+PR00375,B00375,F0032,P07,Green Grams,2025-12-02,Peak Demand Season,Nakuru,573,143.33,72.09,658.51,15.3,Grade C,0,573,Nakuru Collection Center 1,Paid,19
+PR00376,B00376,F0061,P01,Maize,2026-06-01,Lean Season,Kirinyaga,517,47.64,127.48,431.95,12.1,Grade B,0,517,Kirinyaga Collection Center 3,Paid,19
+PR00377,B00377,F0089,P06,Millet,2026-02-21,Short Rains Harvest,Kitui,300,104.88,40.48,212.12,9.9,Grade A,0,300,Kitui Collection Center 3,Paid,11
+PR00378,B00378,F0074,P03,Rice,2025-01-25,Short Rains Harvest,Uasin Gishu,771,86.91,77.9,460.32,13.1,Grade A,0,771,Uasin Gishu Collection Center 3,Paid,12
+PR00379,B00379,F0111,P05,Sorghum,2025-03-14,Lean Season,Narok,311,62.38,55.48,271.08,13.6,Grade C,0,311,Narok Collection Center 3,Paid,16
+PR00380,B00380,F0101,P07,Green Grams,2025-03-24,Lean Season,Nakuru,570,160.81,82.86,656.97,12.3,Grade B,0,570,Nakuru Collection Center 2,Paid,11
+PR00381,B00381,F0080,P02,Beans,2025-02-11,Short Rains Harvest,Machakos,604,104.14,63.48,538.26,12.0,Grade B,0,604,Machakos Collection Center 1,Delayed,50
+PR00382,B00382,F0084,P04,Wheat,2026-05-05,Lean Season,Kitui,1133,59.78,148.49,1257.39,11.9,Grade B,0,1133,Kitui Collection Center 2,Paid,15
+PR00383,B00383,F0055,P04,Wheat,2025-10-11,Peak Demand Season,Trans Nzoia,917,48.87,85.79,748.9,15.0,Grade C,0,917,Trans Nzoia Collection Center 3,Paid,18
+PR00384,B00384,F0058,P08,Cowpeas,2026-01-12,Short Rains Harvest,Kakamega,728,106.4,127.44,776.16,13.4,Grade A,0,728,Kakamega Collection Center 1,Paid,17
+PR00385,B00385,F0023,P02,Beans,2025-10-23,Peak Demand Season,Bungoma,115,140.0,11.73,70.76,16.1,Grade B,9,106,Bungoma Collection Center 1,Delayed,57
+PR00386,B00386,F0088,P01,Maize,2025-05-16,Lean Season,Makueni,1188,55.53,156.35,1207.48,13.6,Grade A,245,943,Makueni Collection Center 3,Pending,
+PR00387,B00387,F0053,P05,Sorghum,2025-12-18,Peak Demand Season,Busia,336,64.17,46.06,282.34,10.7,Grade A,0,336,Busia Collection Center 3,Paid,13
+PR00388,B00388,F0102,P01,Maize,2025-11-10,Peak Demand Season,Kisumu,555,46.99,122.81,465.63,12.6,Grade B,60,495,Kisumu Collection Center 1,Paid,16
+PR00389,B00389,F0021,P05,Sorghum,2025-10-20,Peak Demand Season,Bungoma,1436,54.23,154.24,1429.79,8.7,Grade B,0,1436,Bungoma Collection Center 2,Paid,19
+PR00390,B00390,F0057,P04,Wheat,2025-09-24,Long Rains Harvest,Uasin Gishu,383,45.72,64.29,381.08,13.1,Grade C,0,383,Uasin Gishu Collection Center 1,Paid,16
+PR00391,B00391,F0016,P04,Wheat,2025-01-26,Short Rains Harvest,Kitui,2417,47.54,569.73,1454.47,14.9,Grade B,465,1952,Kitui Collection Center 2,Delayed,30
+PR00392,B00392,F0038,P05,Sorghum,2026-05-01,Lean Season,Nyeri,729,73.83,97.98,749.35,9.3,Grade B,0,729,Nyeri Collection Center 2,Pending,
+PR00393,B00393,F0015,P02,Beans,2026-05-06,Lean Season,Bungoma,924,146.73,101.93,818.36,13.0,Grade A,0,924,Bungoma Collection Center 1,Paid,14
+PR00394,B00394,F0078,P02,Beans,2025-07-19,Long Rains Harvest,Nyeri,1540,108.87,143.25,1778.65,12.7,Grade A,0,1540,Nyeri Collection Center 3,Paid,15
+PR00395,B00395,F0066,P08,Cowpeas,2026-02-08,Short Rains Harvest,Makueni,949,89.14,98.94,876.45,13.8,Grade C,0,949,Makueni Collection Center 2,Paid,11
+PR00396,B00396,F0048,P02,Beans,2025-01-13,Short Rains Harvest,Uasin Gishu,1010,101.07,98.87,1196.11,12.4,Grade A,0,1010,Uasin Gishu Collection Center 2,Paid,17
+PR00397,B00397,F0037,P07,Green Grams,2025-06-17,Lean Season,Trans Nzoia,1506,168.69,231.35,1199.8,10.6,Grade A,0,1506,Trans Nzoia Collection Center 1,Paid,10
+PR00398,B00398,F0112,P02,Beans,2025-12-10,Peak Demand Season,Narok,503,102.53,57.43,517.73,15.4,Grade B,0,503,Narok Collection Center 3,Paid,21
+PR00399,B00399,F0073,P03,Rice,2025-05-21,Lean Season,Machakos,647,83.31,141.31,454.6,12.4,Grade B,0,647,Machakos Collection Center 2,Paid,16
+PR00400,B00400,F0060,P04,Wheat,2025-08-18,Long Rains Harvest,Kisumu,1106,42.57,130.44,756.36,13.9,Grade C,0,1106,Kisumu Collection Center 2,Paid,21
+PR00401,B00401,F0063,P02,Beans,2025-09-08,Long Rains Harvest,Kirinyaga,679,88.45,77.31,573.85,13.7,Grade B,0,679,Kirinyaga Collection Center 2,Paid,0
+PR00402,B00402,F0081,P07,Green Grams,2026-05-03,Lean Season,Narok,1201,175.86,125.89,914.25,12.9,Grade A,0,1201,Narok Collection Center 1,Paid,21
+PR00403,B00403,F0113,P02,Beans,2025-05-19,Lean Season,Bungoma,661,122.41,57.92,497.61,10.9,Grade C,0,661,Bungoma Collection Center 3,Paid,17
+PR00404,B00404,F0066,P08,Cowpeas,2025-07-18,Long Rains Harvest,Makueni,365,102.11,36.75,206.65,9.6,Grade A,0,365,Makueni Collection Center 3,Pending,
+PR00405,B00405,F0035,P07,Green Grams,2026-01-07,Short Rains Harvest,Nyeri,391,117.46,42.35,420.84,11.1,Grade A,0,391,Nyeri Collection Center 2,Paid,14
+PR00406,B00406,F0021,P08,Cowpeas,2025-04-15,Lean Season,Bungoma,1100,105.88,128.42,1190.31,13.6,Grade B,0,1100,Bungoma Collection Center 3,Delayed,42
+PR00407,B00407,F0090,P06,Millet,2025-04-27,Lean Season,Kitui,1039,104.56,170.44,604.28,11.3,Grade A,0,1039,Kitui Collection Center 1,Paid,21
+PR00408,B00408,F0114,P07,Green Grams,2025-12-17,Peak Demand Season,Meru,1239,132.87,177.01,1265.17,10.9,Grade A,0,1239,Meru Collection Center 2,Paid,11
+PR00409,B00409,F0017,P01,Maize,2025-03-22,Lean Season,Nakuru,417,54.65,66.73,241.11,12.4,Grade A,0,417,Nakuru Collection Center 1,Paid,10
+PR00410,B00410,F0066,P07,Green Grams,2025-03-02,Lean Season,Makueni,709,154.36,85.07,375.98,12.7,Grade A,0,709,Makueni Collection Center 3,Paid,12
+PR00411,B00411,F0116,P01,Maize,2025-07-24,Long Rains Harvest,Makueni,802,41.36,124.27,451.96,13.8,Grade C,0,802,Makueni Collection Center 1,Paid,10
+PR00412,B00412,F0100,P07,Green Grams,2025-09-05,Long Rains Harvest,Uasin Gishu,418,128.05,37.18,448.81,12.1,Grade A,0,418,Uasin Gishu Collection Center 1,Delayed,35
+PR00413,B00413,F0069,P08,Cowpeas,2025-01-05,Short Rains Harvest,Meru,700,111.35,75.47,454.87,11.0,Grade B,0,700,Meru Collection Center 2,Paid,8
+PR00414,B00414,F0014,P05,Sorghum,2025-07-05,Long Rains Harvest,Nyeri,376,59.52,44.49,299.62,12.2,Grade A,0,376,Nyeri Collection Center 2,Paid,18
+PR00415,B00415,F0018,P01,Maize,2026-05-23,Lean Season,Bungoma,643,60.7,66.4,572.27,13.8,Grade B,59,584,Bungoma Collection Center 2,Paid,14
+PR00416,B00416,F0108,P05,Sorghum,2026-03-31,Lean Season,Busia,284,58.82,44.83,337.81,9.0,Grade B,0,284,Busia Collection Center 3,Pending,
+PR00417,B00417,F0002,P02,Beans,2026-05-19,Lean Season,Trans Nzoia,1643,136.51,257.47,1422.61,8.0,Grade A,0,1643,Trans Nzoia Collection Center 1,Paid,16
+PR00418,B00418,F0115,P06,Millet,2025-06-22,Lean Season,Kirinyaga,2237,91.92,378.94,1648.76,15.1,Grade C,480,1757,Kirinyaga Collection Center 2,Pending,
+PR00419,B00419,F0099,P06,Millet,2025-10-07,Peak Demand Season,Trans Nzoia,323,109.41,34.6,374.76,14.1,Grade B,0,323,Trans Nzoia Collection Center 3,Delayed,39
+PR00420,B00420,F0099,P01,Maize,2026-04-11,Lean Season,Trans Nzoia,1095,48.98,102.62,928.66,10.1,Grade A,0,1095,Trans Nzoia Collection Center 1,Paid,15
+PR00421,B00421,F0004,P03,Rice,2025-07-03,Long Rains Harvest,Kakamega,447,72.14,47.72,271.29,14.4,Grade A,87,360,Kakamega Collection Center 2,Pending,
+PR00422,B00422,F0085,P01,Maize,2026-05-25,Lean Season,Uasin Gishu,464,55.83,53.02,343.61,11.6,Grade A,0,464,Uasin Gishu Collection Center 2,Paid,15
+PR00423,B00423,F0016,P08,Cowpeas,2026-01-28,Short Rains Harvest,Kitui,794,96.43,203.3,642.97,11.8,Grade A,0,794,Kitui Collection Center 3,Pending,
+PR00424,B00424,F0056,P01,Maize,2025-05-18,Lean Season,Kisumu,873,52.64,165.81,903.39,10.7,Grade A,0,873,Kisumu Collection Center 2,Paid,18
+PR00425,B00425,F0110,P03,Rice,2025-06-10,Lean Season,Bungoma,645,90.88,84.28,545.85,10.9,Grade B,0,645,Bungoma Collection Center 2,Delayed,30
+PR00426,B00426,F0076,P01,Maize,2025-02-16,Short Rains Harvest,Kirinyaga,1366,41.85,184.01,1457.09,12.2,Grade B,0,1366,Kirinyaga Collection Center 2,Paid,16
+PR00427,B00427,F0046,P02,Beans,2026-02-26,Short Rains Harvest,Makueni,668,103.6,100.41,449.78,14.1,Grade B,0,668,Makueni Collection Center 2,Paid,15
+PR00428,B00428,F0022,P01,Maize,2025-01-21,Short Rains Harvest,Makueni,508,48.08,55.16,487.9,15.8,Grade B,0,508,Makueni Collection Center 2,Paid,11
+PR00429,B00429,F0041,P04,Wheat,2026-01-22,Short Rains Harvest,Trans Nzoia,1107,49.12,106.44,629.23,10.8,Grade B,0,1107,Trans Nzoia Collection Center 3,Paid,11
+PR00430,B00430,F0079,P02,Beans,2025-11-03,Peak Demand Season,Kakamega,898,115.01,87.57,761.38,12.9,Grade B,0,898,Kakamega Collection Center 2,Paid,11
+PR00431,B00431,F0039,P01,Maize,2026-02-16,Short Rains Harvest,Kitui,569,52.13,73.01,666.05,12.8,Grade A,0,569,Kitui Collection Center 3,Paid,16
+PR00432,B00432,F0061,P07,Green Grams,2026-03-14,Lean Season,Kirinyaga,1162,143.33,304.87,1110.96,9.5,Grade B,0,1162,Kirinyaga Collection Center 1,Paid,13
+PR00433,B00433,F0033,P02,Beans,2026-06-12,Lean Season,Narok,241,126.7,26.97,150.97,9.5,Grade B,0,241,Narok Collection Center 1,Paid,13
+PR00434,B00434,F0106,P05,Sorghum,2026-04-24,Lean Season,Busia,1876,59.76,193.49,2000.29,11.7,Grade B,0,1876,Busia Collection Center 1,Pending,
+PR00435,B00435,F0047,P04,Wheat,2026-04-19,Lean Season,Kakamega,1080,53.17,167.69,1058.09,14.7,Grade B,0,1080,Kakamega Collection Center 1,Pending,
+PR00436,B00436,F0109,P05,Sorghum,2026-02-27,Short Rains Harvest,Kakamega,745,50.67,86.19,456.24,14.5,Grade A,0,745,Kakamega Collection Center 1,Paid,21
+PR00437,B00437,F0106,P01,Maize,2025-11-14,Peak Demand Season,Busia,446,51.9,45.15,359.16,11.6,Grade A,0,446,Busia Collection Center 2,Paid,12
+PR00438,B00438,F0036,P07,Green Grams,2025-06-30,Lean Season,Kitui,1575,161.82,164.71,1584.03,15.8,Grade A,0,1575,Kitui Collection Center 2,Paid,11
+PR00439,B00439,F0116,P07,Green Grams,2026-02-21,Short Rains Harvest,Makueni,895,146.37,149.92,1002.4,12.2,Grade B,0,895,Makueni Collection Center 3,Paid,8
+PR00440,B00440,F0120,P06,Millet,2025-05-04,Lean Season,Trans Nzoia,700,108.31,87.12,815.34,8.8,Grade A,0,700,Trans Nzoia Collection Center 1,Paid,16
+PR00441,B00441,F0041,P06,Millet,2025-12-04,Peak Demand Season,Trans Nzoia,212,111.97,22.54,225.59,10.1,Grade C,0,212,Trans Nzoia Collection Center 1,Paid,9
+PR00442,B00442,F0057,P09,Barley,2026-02-23,Short Rains Harvest,Uasin Gishu,358,44.22,66.16,301.88,14.1,Grade C,0,358,Uasin Gishu Collection Center 3,Paid,3
+PR00443,B00443,F0036,P01,Maize,2025-05-29,Lean Season,Kitui,744,53.54,92.19,799.77,12.5,Grade C,0,744,Kitui Collection Center 3,Pending,
+PR00444,B00444,F0007,P07,Green Grams,2025-09-03,Long Rains Harvest,Narok,798,119.24,92.41,755.92,13.6,Grade C,0,798,Narok Collection Center 1,Paid,19
+PR00445,B00445,F0050,P07,Green Grams,2025-01-09,Short Rains Harvest,Machakos,453,146.84,61.91,536.62,13.4,Grade A,0,453,Machakos Collection Center 1,Paid,12
+PR00446,B00446,F0021,P07,Green Grams,2026-03-26,Lean Season,Bungoma,1213,161.27,154.59,1257.54,13.7,Grade A,0,1213,Bungoma Collection Center 2,Pending,
+PR00447,B00447,F0053,P03,Rice,2025-12-07,Peak Demand Season,Busia,1452,90.07,203.13,1559.69,10.9,Grade B,0,1452,Busia Collection Center 3,Paid,9
+PR00448,B00448,F0071,P06,Millet,2025-12-01,Peak Demand Season,Kisii,225,99.23,25.58,120.71,14.6,Grade B,0,225,Kisii Collection Center 2,Paid,11
+PR00449,B00449,F0040,P01,Maize,2025-11-18,Peak Demand Season,Meru,1211,53.77,111.73,817.09,13.9,Grade C,0,1211,Meru Collection Center 3,Paid,8
+PR00450,B00450,F0102,P05,Sorghum,2025-11-24,Peak Demand Season,Kisumu,414,59.88,106.17,245.69,10.9,Grade A,0,414,Kisumu Collection Center 1,Paid,11
+PR00451,B00451,F0024,P02,Beans,2026-02-07,Short Rains Harvest,Trans Nzoia,2098,123.55,276.27,2347.74,12.3,Grade C,0,2098,Trans Nzoia Collection Center 3,Paid,15
+PR00452,B00452,F0012,P01,Maize,2026-04-19,Lean Season,Narok,918,50.59,138.59,567.44,12.1,Grade A,0,918,Narok Collection Center 2,Paid,11
+PR00453,B00453,F0073,P01,Maize,2025-05-01,Lean Season,Machakos,476,47.29,96.77,495.68,11.2,Grade B,0,476,Machakos Collection Center 1,Paid,20
+PR00454,B00454,F0111,P01,Maize,2025-09-30,Long Rains Harvest,Narok,1131,42.88,192.51,668.58,13.2,Grade B,0,1131,Narok Collection Center 3,Paid,15
+PR00455,B00455,F0024,P01,Maize,2026-02-23,Short Rains Harvest,Trans Nzoia,268,51.95,28.18,317.12,15.8,Grade B,0,268,Trans Nzoia Collection Center 3,Paid,12
+PR00456,B00456,F0002,P03,Rice,2026-04-26,Lean Season,Trans Nzoia,279,81.68,42.92,274.85,11.9,Grade B,0,279,Trans Nzoia Collection Center 2,Pending,
+PR00457,B00457,F0072,P01,Maize,2025-03-02,Lean Season,Narok,149,47.97,17.44,123.62,11.8,Grade B,0,149,Narok Collection Center 3,Pending,
+PR00458,B00458,F0006,P06,Millet,2025-01-06,Short Rains Harvest,Kirinyaga,871,83.71,99.1,619.94,10.2,Grade A,0,871,Kirinyaga Collection Center 3,Paid,13
+PR00459,B00459,F0022,P01,Maize,2026-05-31,Lean Season,Makueni,806,55.87,94.77,667.09,13.7,Grade B,0,806,Makueni Collection Center 2,Paid,21
+PR00460,B00460,F0017,P01,Maize,2026-05-27,Lean Season,Nakuru,789,62.66,128.33,807.52,14.3,Grade B,0,789,Nakuru Collection Center 2,Paid,10
+PR00461,B00461,F0056,P04,Wheat,2025-06-18,Lean Season,Kisumu,2689,55.05,588.24,2781.97,8.5,Grade B,0,2689,Kisumu Collection Center 1,Pending,
+PR00462,B00462,F0007,P01,Maize,2025-08-24,Long Rains Harvest,Narok,236,41.34,27.92,145.02,11.9,Grade A,0,236,Narok Collection Center 2,Paid,17
+PR00463,B00463,F0091,P02,Beans,2026-05-12,Lean Season,Nyeri,1006,126.91,131.42,1009.86,9.1,Grade A,0,1006,Nyeri Collection Center 1,Paid,16
+PR00464,B00464,F0106,P06,Millet,2025-10-07,Peak Demand Season,Busia,2491,102.93,258.45,1615.86,9.6,Grade A,0,2491,Busia Collection Center 1,Paid,16
+PR00465,B00465,F0064,P01,Maize,2025-04-07,Lean Season,Nakuru,808,62.94,124.88,789.35,13.4,Grade B,0,808,Nakuru Collection Center 2,Delayed,35
+PR00466,B00466,F0011,P01,Maize,2026-04-17,Lean Season,Kirinyaga,484,61.93,60.1,395.83,13.5,Grade B,118,366,Kirinyaga Collection Center 2,Paid,14
+PR00467,B00467,F0094,P02,Beans,2025-05-13,Lean Season,Makueni,1332,115.87,199.93,1266.13,10.5,Grade A,0,1332,Makueni Collection Center 2,Delayed,39
+PR00468,B00468,F0033,P01,Maize,2025-07-02,Long Rains Harvest,Narok,1907,42.17,213.8,1486.01,13.2,Grade A,0,1907,Narok Collection Center 3,Paid,17
+PR00469,B00469,F0084,P06,Millet,2025-06-07,Lean Season,Kitui,677,93.92,83.4,543.39,9.9,Grade A,0,677,Kitui Collection Center 3,Paid,18
+PR00470,B00470,F0048,P01,Maize,2026-06-09,Lean Season,Uasin Gishu,1373,50.62,137.61,1059.49,11.6,Grade B,0,1373,Uasin Gishu Collection Center 2,Paid,16
+PR00471,B00471,F0056,P05,Sorghum,2026-03-13,Lean Season,Kisumu,398,55.84,77.95,470.15,16.9,Grade C,0,398,Kisumu Collection Center 3,Delayed,32
+PR00472,B00472,F0068,P05,Sorghum,2025-03-27,Lean Season,Kisumu,605,60.27,74.19,686.7,11.1,Grade A,0,605,Kisumu Collection Center 1,Delayed,21
+PR00473,B00473,F0038,P04,Wheat,2025-02-18,Short Rains Harvest,Nyeri,195,48.93,25.91,167.58,8.6,Grade A,0,195,Nyeri Collection Center 2,Pending,
+PR00474,B00474,F0075,P02,Beans,2025-03-25,Lean Season,Nyeri,1474,140.84,177.3,1501.06,13.4,Grade C,0,1474,Nyeri Collection Center 2,Paid,10
+PR00475,B00475,F0039,P07,Green Grams,2025-11-18,Peak Demand Season,Kitui,1805,149.43,222.32,1749.37,9.9,Grade A,0,1805,Kitui Collection Center 1,Pending,
+PR00476,B00476,F0011,P01,Maize,2025-09-23,Long Rains Harvest,Kirinyaga,793,51.47,85.68,693.13,10.5,Grade A,0,793,Kirinyaga Collection Center 3,Paid,18
+PR00477,B00477,F0085,P02,Beans,2026-05-14,Lean Season,Uasin Gishu,686,119.97,89.57,639.16,12.7,Grade C,0,686,Uasin Gishu Collection Center 1,Pending,
+PR00478,B00478,F0002,P01,Maize,2025-07-15,Long Rains Harvest,Trans Nzoia,1150,40.29,163.06,1356.27,13.7,Grade A,0,1150,Trans Nzoia Collection Center 2,Paid,21
+PR00479,B00479,F0110,P07,Green Grams,2025-07-15,Long Rains Harvest,Bungoma,423,113.41,60.51,255.37,14.5,Grade A,0,423,Bungoma Collection Center 2,Pending,
+PR00480,B00480,F0061,P09,Barley,2025-01-21,Short Rains Harvest,Kirinyaga,686,49.97,171.37,439.68,14.4,Grade C,22,664,Kirinyaga Collection Center 3,Paid,13
+PR00481,B00481,F0054,P02,Beans,2026-05-23,Lean Season,Kirinyaga,281,139.42,33.85,249.53,13.3,Grade B,0,281,Kirinyaga Collection Center 3,Paid,9
+PR00482,B00482,F0116,P08,Cowpeas,2026-05-15,Lean Season,Makueni,1054,106.35,151.3,541.03,8.0,Grade A,0,1054,Makueni Collection Center 2,Paid,10
+PR00483,B00483,F0080,P01,Maize,2025-12-22,Peak Demand Season,Machakos,1049,51.63,117.86,642.97,13.3,Grade B,0,1049,Machakos Collection Center 3,Paid,21
+PR00484,B00484,F0044,P08,Cowpeas,2026-04-25,Lean Season,Narok,1263,102.97,203.15,1260.44,8.8,Grade B,0,1263,Narok Collection Center 2,Pending,
+PR00485,B00485,F0109,P07,Green Grams,2025-06-15,Lean Season,Kakamega,973,160.87,112.43,996.82,13.9,Grade A,0,973,Kakamega Collection Center 1,Paid,4
+PR00486,B00486,F0064,P07,Green Grams,2025-11-07,Peak Demand Season,Nakuru,450,135.37,79.73,539.77,10.4,Grade A,0,450,Nakuru Collection Center 3,Paid,16
+PR00487,B00487,F0009,P01,Maize,2025-12-12,Peak Demand Season,Meru,310,51.33,36.51,181.19,12.0,Grade A,0,310,Meru Collection Center 1,Paid,20
+PR00488,B00488,F0072,P06,Millet,2025-10-01,Peak Demand Season,Narok,336,114.12,38.64,373.49,10.0,Grade A,0,336,Narok Collection Center 2,Delayed,30
+PR00489,B00489,F0097,P09,Barley,2025-04-24,Lean Season,Embu,1066,60.2,166.4,987.93,15.6,Grade A,0,1066,Embu Collection Center 1,Paid,5
+PR00490,B00490,F0112,P05,Sorghum,2025-07-30,Long Rains Harvest,Narok,502,60.92,47.22,353.65,13.0,Grade A,0,502,Narok Collection Center 3,Paid,13
+PR00491,B00491,F0105,P02,Beans,2025-05-22,Lean Season,Kakamega,1107,111.91,120.84,1304.87,13.7,Grade A,0,1107,Kakamega Collection Center 2,Paid,15
+PR00492,B00492,F0011,P04,Wheat,2025-09-30,Long Rains Harvest,Kirinyaga,198,45.75,25.13,148.99,14.2,Grade A,0,198,Kirinyaga Collection Center 1,Paid,16
+PR00493,B00493,F0055,P01,Maize,2026-02-28,Short Rains Harvest,Trans Nzoia,930,53.85,98.51,1084.65,8.0,Grade B,0,930,Trans Nzoia Collection Center 1,Paid,17
+PR00494,B00494,F0067,P06,Millet,2025-03-13,Lean Season,Kirinyaga,1537,92.64,142.23,1824.97,14.6,Grade A,0,1537,Kirinyaga Collection Center 3,Paid,16
+PR00495,B00495,F0074,P01,Maize,2025-03-01,Lean Season,Uasin Gishu,1090,64.56,124.12,1154.69,11.6,Grade C,0,1090,Uasin Gishu Collection Center 3,Delayed,41
+PR00496,B00496,F0039,P04,Wheat,2025-11-18,Peak Demand Season,Kitui,527,57.85,57.75,366.71,13.6,Grade C,0,527,Kitui Collection Center 1,Paid,18
+PR00497,B00497,F0080,P08,Cowpeas,2026-03-29,Lean Season,Machakos,1292,122.0,161.4,1352.85,13.8,Grade A,0,1292,Machakos Collection Center 2,Paid,17
+PR00498,B00498,F0093,P02,Beans,2025-05-10,Lean Season,Narok,69,129.72,11.93,44.82,12.3,Grade A,0,69,Narok Collection Center 1,Paid,15
+PR00499,B00499,F0102,P01,Maize,2025-09-22,Long Rains Harvest,Kisumu,1347,42.19,337.76,1358.53,12.4,Grade A,151,1196,Kisumu Collection Center 2,Paid,16
+PR00500,B00500,F0097,P01,Maize,2025-05-08,Lean Season,Embu,1289,55.08,191.6,649.2,10.4,Grade A,0,1289,Embu Collection Center 3,Paid,14
+PR00501,B00501,F0081,P08,Cowpeas,2025-08-28,Long Rains Harvest,Narok,813,90.63,74.93,853.12,16.3,Grade C,0,813,Narok Collection Center 1,Paid,18
+PR00502,B00502,F0067,P01,Maize,2025-07-17,Long Rains Harvest,Kirinyaga,662,50.75,61.99,376.41,13.1,Grade C,29,633,Kirinyaga Collection Center 2,Delayed,20
+PR00503,B00503,F0010,P01,Maize,2026-01-14,Short Rains Harvest,Nakuru,1550,50.19,262.29,1381.48,10.2,Grade B,0,1550,Nakuru Collection Center 2,Paid,13
+PR00504,B00504,F0063,P05,Sorghum,2026-03-03,Lean Season,Kirinyaga,1010,72.21,98.66,594.88,14.2,Grade A,0,1010,Kirinyaga Collection Center 1,Pending,
+PR00505,B00505,F0059,P05,Sorghum,2026-04-30,Lean Season,Machakos,1221,54.49,120.87,1088.3,9.6,Grade A,0,1221,Machakos Collection Center 2,Paid,19
+PR00506,B00506,F0006,P04,Wheat,2025-06-06,Lean Season,Kirinyaga,485,52.84,51.06,369.63,10.3,Grade A,0,485,Kirinyaga Collection Center 2,Pending,
+PR00507,B00507,F0115,P01,Maize,2025-11-09,Peak Demand Season,Kirinyaga,254,59.04,35.88,272.64,15.1,Grade A,0,254,Kirinyaga Collection Center 2,Pending,
+PR00508,B00508,F0040,P03,Rice,2026-04-09,Lean Season,Meru,400,100.58,43.57,333.06,11.4,Grade B,0,400,Meru Collection Center 2,Paid,7
+PR00509,B00509,F0086,P06,Millet,2026-04-05,Lean Season,Kisii,320,94.94,58.06,180.01,15.1,Grade B,0,320,Kisii Collection Center 2,Delayed,40
+PR00510,B00510,F0086,P04,Wheat,2026-03-30,Lean Season,Kisii,704,59.76,125.32,778.74,14.8,Grade B,0,704,Kisii Collection Center 3,Pending,
+PR00511,B00511,F0083,P05,Sorghum,2025-03-29,Lean Season,Busia,1872,58.07,248.87,1691.91,15.7,Grade B,252,1620,Busia Collection Center 1,Delayed,30
+PR00512,B00512,F0069,P05,Sorghum,2025-07-04,Long Rains Harvest,Meru,635,61.87,71.73,408.98,11.4,Grade B,0,635,Meru Collection Center 3,Paid,13
+PR00513,B00513,F0052,P05,Sorghum,2025-02-16,Short Rains Harvest,Kitui,759,54.94,87.97,560.12,9.7,Grade A,0,759,Kitui Collection Center 1,Paid,17
+PR00514,B00514,F0013,P01,Maize,2025-06-22,Lean Season,Meru,1936,52.15,184.0,2009.21,11.2,Grade C,0,1936,Meru Collection Center 2,Paid,7
+PR00515,B00515,F0092,P01,Maize,2025-03-01,Lean Season,Nakuru,379,52.38,38.9,227.29,10.8,Grade A,0,379,Nakuru Collection Center 1,Delayed,28
+PR00516,B00516,F0097,P01,Maize,2025-08-31,Long Rains Harvest,Embu,165,45.9,25.58,126.97,12.2,Grade A,0,165,Embu Collection Center 2,Paid,13
+PR00517,B00517,F0082,P01,Maize,2025-08-28,Long Rains Harvest,Kisumu,824,52.09,115.36,731.59,12.3,Grade A,0,824,Kisumu Collection Center 1,Paid,19
+PR00518,B00518,F0053,P02,Beans,2026-04-02,Lean Season,Busia,898,110.16,118.87,576.89,10.8,Grade A,0,898,Busia Collection Center 3,Pending,
+PR00519,B00519,F0117,P08,Cowpeas,2026-04-08,Lean Season,Machakos,268,99.96,29.2,314.31,14.2,Grade B,0,268,Machakos Collection Center 2,Paid,20
+PR00520,B00520,F0033,P01,Maize,2026-01-25,Short Rains Harvest,Narok,1479,55.09,168.53,959.76,10.1,Grade A,0,1479,Narok Collection Center 1,Paid,11
+PR00521,B00521,F0051,P02,Beans,2025-05-06,Lean Season,Makueni,1483,143.61,192.58,1778.38,13.1,Grade A,0,1483,Makueni Collection Center 3,Pending,
+PR00522,B00522,F0082,P08,Cowpeas,2025-09-25,Long Rains Harvest,Kisumu,674,108.0,112.33,465.81,13.1,Grade B,0,674,Kisumu Collection Center 2,Delayed,45
+PR00523,B00523,F0089,P01,Maize,2025-05-17,Lean Season,Kitui,1613,58.62,210.04,1344.55,12.6,Grade B,0,1613,Kitui Collection Center 3,Delayed,32
+PR00524,B00524,F0051,P03,Rice,2025-03-25,Lean Season,Makueni,620,97.8,79.1,343.65,9.1,Grade B,0,620,Makueni Collection Center 2,Paid,18
+PR00525,B00525,F0049,P09,Barley,2026-01-02,Short Rains Harvest,Busia,617,45.47,69.54,659.15,10.7,Grade A,0,617,Busia Collection Center 1,Paid,13
+PR00526,B00526,F0003,P01,Maize,2025-10-15,Peak Demand Season,Meru,971,55.53,213.13,615.67,12.9,Grade B,0,971,Meru Collection Center 2,Paid,11
+PR00527,B00527,F0005,P09,Barley,2025-10-15,Peak Demand Season,Nakuru,194,51.37,21.78,179.3,12.5,Grade C,0,194,Nakuru Collection Center 2,Paid,19
+PR00528,B00528,F0064,P04,Wheat,2025-06-24,Lean Season,Nakuru,1991,57.7,361.52,1783.93,15.2,Grade B,116,1875,Nakuru Collection Center 2,Paid,11
+PR00529,B00529,F0110,P08,Cowpeas,2025-08-22,Long Rains Harvest,Bungoma,938,105.28,132.93,649.12,13.3,Grade A,0,938,Bungoma Collection Center 3,Paid,15
+PR00530,B00530,F0072,P01,Maize,2026-04-10,Lean Season,Narok,462,47.08,48.05,448.68,10.7,Grade B,0,462,Narok Collection Center 2,Pending,
+PR00531,B00531,F0088,P01,Maize,2026-06-15,Lean Season,Makueni,749,55.4,97.14,772.46,11.0,Grade A,0,749,Makueni Collection Center 2,Paid,19
+PR00532,B00532,F0051,P02,Beans,2025-07-19,Long Rains Harvest,Makueni,1466,99.72,197.2,1561.83,13.5,Grade A,0,1466,Makueni Collection Center 1,Delayed,39
+PR00533,B00533,F0043,P01,Maize,2025-11-15,Peak Demand Season,Trans Nzoia,828,45.16,104.13,430.16,14.1,Grade A,0,828,Trans Nzoia Collection Center 2,Delayed,49
+PR00534,B00534,F0061,P01,Maize,2025-09-02,Long Rains Harvest,Kirinyaga,1219,52.75,322.51,1310.6,10.9,Grade A,0,1219,Kirinyaga Collection Center 2,Paid,14
+PR00535,B00535,F0081,P06,Millet,2026-04-03,Lean Season,Narok,1221,110.35,106.76,662.37,12.1,Grade A,0,1221,Narok Collection Center 1,Paid,11
+PR00536,B00536,F0103,P01,Maize,2026-03-29,Lean Season,Kitui,951,48.02,186.46,762.98,13.1,Grade A,206,745,Kitui Collection Center 3,Paid,21
+PR00537,B00537,F0030,P06,Millet,2025-01-11,Short Rains Harvest,Makueni,666,89.78,78.43,532.58,15.6,Grade A,0,666,Makueni Collection Center 1,Paid,17
+PR00538,B00538,F0043,P03,Rice,2025-07-17,Long Rains Harvest,Trans Nzoia,350,66.59,37.63,349.76,16.7,Grade C,0,350,Trans Nzoia Collection Center 3,Paid,15
+PR00539,B00539,F0054,P01,Maize,2026-05-08,Lean Season,Kirinyaga,522,60.03,60.62,349.85,14.3,Grade A,0,522,Kirinyaga Collection Center 3,Paid,8
+PR00540,B00540,F0040,P06,Millet,2025-05-30,Lean Season,Meru,788,94.88,76.58,583.14,11.5,Grade A,0,788,Meru Collection Center 1,Paid,20
+PR00541,B00541,F0105,P01,Maize,2025-02-25,Short Rains Harvest,Kakamega,279,46.32,30.4,178.63,14.2,Grade C,0,279,Kakamega Collection Center 3,Paid,17
+PR00542,B00542,F0060,P05,Sorghum,2025-12-06,Peak Demand Season,Kisumu,344,68.29,46.92,252.83,13.7,Grade B,77,267,Kisumu Collection Center 2,Delayed,44
+PR00543,B00543,F0001,P01,Maize,2025-08-17,Long Rains Harvest,Trans Nzoia,618,48.84,76.78,401.2,11.2,Grade B,0,618,Trans Nzoia Collection Center 2,Pending,
+PR00544,B00544,F0024,P01,Maize,2025-01-07,Short Rains Harvest,Trans Nzoia,841,45.41,89.52,438.17,9.0,Grade A,0,841,Trans Nzoia Collection Center 2,Paid,10
+PR00545,B00545,F0004,P01,Maize,2025-07-23,Long Rains Harvest,Kakamega,262,41.55,24.67,293.38,11.1,Grade A,0,262,Kakamega Collection Center 1,Paid,17
+PR00546,B00546,F0034,P01,Maize,2025-04-14,Lean Season,Kirinyaga,311,47.42,31.44,237.99,9.6,Grade A,0,311,Kirinyaga Collection Center 1,Paid,14
+PR00547,B00547,F0048,P02,Beans,2025-06-25,Lean Season,Uasin Gishu,406,148.56,46.04,486.54,9.6,Grade B,0,406,Uasin Gishu Collection Center 1,Paid,16
+PR00548,B00548,F0025,P07,Green Grams,2026-01-23,Short Rains Harvest,Narok,1036,139.07,139.98,829.5,14.3,Grade C,0,1036,Narok Collection Center 3,Paid,15
+PR00549,B00549,F0020,P01,Maize,2025-12-02,Peak Demand Season,Uasin Gishu,1166,48.25,130.38,811.6,10.2,Grade A,0,1166,Uasin Gishu Collection Center 3,Paid,16
+PR00550,B00550,F0061,P01,Maize,2025-03-08,Lean Season,Kirinyaga,360,50.04,85.69,402.37,13.6,Grade B,0,360,Kirinyaga Collection Center 3,Paid,12
+PR00551,B00551,F0089,P02,Beans,2026-05-10,Lean Season,Kitui,635,138.46,94.0,436.78,12.7,Grade C,0,635,Kitui Collection Center 1,Paid,21
+PR00552,B00552,F0058,P08,Cowpeas,2025-08-29,Long Rains Harvest,Kakamega,642,91.89,96.58,720.39,13.4,Grade C,0,642,Kakamega Collection Center 1,Paid,14
+PR00553,B00553,F0038,P06,Millet,2026-04-01,Lean Season,Nyeri,629,108.19,70.86,332.62,9.5,Grade A,0,629,Nyeri Collection Center 2,Paid,20
+PR00554,B00554,F0041,P07,Green Grams,2025-10-07,Peak Demand Season,Trans Nzoia,708,141.26,65.59,469.87,11.3,Grade A,0,708,Trans Nzoia Collection Center 3,Pending,
+PR00555,B00555,F0011,P04,Wheat,2025-10-11,Peak Demand Season,Kirinyaga,1486,58.03,160.2,817.22,16.9,Grade B,152,1334,Kirinyaga Collection Center 3,Paid,21
+PR00556,B00556,F0025,P07,Green Grams,2025-05-22,Lean Season,Narok,76,176.89,11.41,77.36,10.7,Grade A,0,76,Narok Collection Center 2,Pending,
+PR00557,B00557,F0106,P08,Cowpeas,2025-01-13,Short Rains Harvest,Busia,1115,97.05,111.6,1151.59,14.6,Grade B,0,1115,Busia Collection Center 2,Pending,
+PR00558,B00558,F0076,P01,Maize,2026-04-25,Lean Season,Kirinyaga,661,59.99,91.18,696.92,10.4,Grade A,0,661,Kirinyaga Collection Center 1,Paid,12
+PR00559,B00559,F0110,P02,Beans,2025-01-31,Short Rains Harvest,Bungoma,381,104.49,52.11,224.73,13.0,Grade A,0,381,Bungoma Collection Center 2,Pending,
+PR00560,B00560,F0055,P01,Maize,2026-02-18,Short Rains Harvest,Trans Nzoia,1047,51.5,105.79,743.1,10.8,Grade A,0,1047,Trans Nzoia Collection Center 2,Paid,20
+PR00561,B00561,F0103,P04,Wheat,2026-02-05,Short Rains Harvest,Kitui,664,53.01,117.62,513.57,8.0,Grade A,0,664,Kitui Collection Center 2,Paid,19
+PR00562,B00562,F0039,P05,Sorghum,2025-04-06,Lean Season,Kitui,761,57.6,98.82,475.13,10.9,Grade B,0,761,Kitui Collection Center 2,Paid,21
+PR00563,B00563,F0030,P01,Maize,2025-10-26,Peak Demand Season,Makueni,1465,55.18,155.78,791.42,15.1,Grade A,0,1465,Makueni Collection Center 1,Paid,14
+PR00564,B00564,F0017,P09,Barley,2026-03-05,Lean Season,Nakuru,1000,54.64,134.55,1168.57,13.2,Grade A,0,1000,Nakuru Collection Center 3,Paid,17
+PR00565,B00565,F0021,P05,Sorghum,2025-11-14,Peak Demand Season,Bungoma,491,62.74,57.31,480.88,13.2,Grade A,0,491,Bungoma Collection Center 2,Paid,10
+PR00566,B00566,F0032,P05,Sorghum,2025-12-03,Peak Demand Season,Nakuru,737,69.52,108.65,605.92,14.6,Grade B,0,737,Nakuru Collection Center 2,Delayed,47
+PR00567,B00567,F0108,P02,Beans,2025-11-01,Peak Demand Season,Busia,561,116.18,97.74,614.23,11.9,Grade A,0,561,Busia Collection Center 2,Paid,17
+PR00568,B00568,F0024,P08,Cowpeas,2025-04-08,Lean Season,Trans Nzoia,1089,111.78,143.43,727.22,12.6,Grade A,0,1089,Trans Nzoia Collection Center 1,Paid,13
+PR00569,B00569,F0093,P05,Sorghum,2025-08-11,Long Rains Harvest,Narok,907,60.88,151.9,937.21,11.9,Grade A,0,907,Narok Collection Center 2,Paid,18
+PR00570,B00570,F0022,P02,Beans,2025-09-16,Long Rains Harvest,Makueni,331,95.03,36.01,171.69,11.1,Grade B,0,331,Makueni Collection Center 2,Paid,14
+PR00571,B00571,F0051,P07,Green Grams,2025-02-08,Short Rains Harvest,Makueni,689,114.39,76.85,786.84,16.2,Grade C,0,689,Makueni Collection Center 3,Paid,12
+PR00572,B00572,F0092,P05,Sorghum,2026-03-25,Lean Season,Nakuru,1721,56.9,211.11,1874.33,14.5,Grade A,163,1558,Nakuru Collection Center 2,Paid,18
+PR00573,B00573,F0086,P01,Maize,2025-01-12,Short Rains Harvest,Kisii,313,50.2,49.26,234.96,13.1,Grade A,0,313,Kisii Collection Center 3,Paid,19
+PR00574,B00574,F0082,P01,Maize,2025-04-16,Lean Season,Kisumu,1822,54.04,275.49,977.85,13.4,Grade C,0,1822,Kisumu Collection Center 2,Delayed,35
+PR00575,B00575,F0026,P08,Cowpeas,2025-04-04,Lean Season,Machakos,1835,99.1,242.41,936.2,14.8,Grade B,442,1393,Machakos Collection Center 3,Paid,21
+PR00576,B00576,F0022,P01,Maize,2025-02-15,Short Rains Harvest,Makueni,454,46.22,50.25,330.97,13.6,Grade A,0,454,Makueni Collection Center 2,Paid,17
+PR00577,B00577,F0028,P01,Maize,2025-04-19,Lean Season,Kisii,1067,53.43,165.99,833.86,13.6,Grade B,0,1067,Kisii Collection Center 2,Paid,18
+PR00578,B00578,F0048,P05,Sorghum,2025-02-14,Short Rains Harvest,Uasin Gishu,1296,46.88,122.61,921.55,13.2,Grade C,192,1104,Uasin Gishu Collection Center 3,Delayed,24
+PR00579,B00579,F0013,P01,Maize,2025-11-29,Peak Demand Season,Meru,1023,60.59,110.43,996.94,10.4,Grade B,0,1023,Meru Collection Center 3,Paid,18
+PR00580,B00580,F0109,P02,Beans,2026-05-09,Lean Season,Kakamega,489,109.42,52.65,556.71,10.4,Grade A,0,489,Kakamega Collection Center 3,Paid,13
+PR00581,B00581,F0030,P09,Barley,2025-01-22,Short Rains Harvest,Makueni,241,47.66,31.4,172.6,9.6,Grade B,0,241,Makueni Collection Center 2,Paid,14
+PR00582,B00582,F0026,P03,Rice,2025-06-05,Lean Season,Machakos,913,87.66,141.02,608.65,11.5,Grade C,0,913,Machakos Collection Center 1,Pending,
+PR00583,B00583,F0083,P01,Maize,2025-02-10,Short Rains Harvest,Busia,1099,47.82,158.53,1048.04,14.7,Grade A,0,1099,Busia Collection Center 1,Paid,17
+PR00584,B00584,F0007,P01,Maize,2025-09-12,Long Rains Harvest,Narok,325,50.44,40.58,213.11,12.9,Grade A,0,325,Narok Collection Center 1,Paid,17
+PR00585,B00585,F0009,P07,Green Grams,2025-07-17,Long Rains Harvest,Meru,302,112.22,38.73,349.35,10.6,Grade A,0,302,Meru Collection Center 1,Pending,
+PR00586,B00586,F0011,P01,Maize,2026-03-13,Lean Season,Kirinyaga,352,60.03,40.13,353.82,14.0,Grade A,0,352,Kirinyaga Collection Center 2,Paid,21
+PR00587,B00587,F0026,P09,Barley,2025-10-06,Peak Demand Season,Machakos,286,55.26,42.5,333.39,14.0,Grade B,0,286,Machakos Collection Center 3,Paid,19
+PR00588,B00588,F0098,P06,Millet,2025-06-09,Lean Season,Trans Nzoia,372,118.97,48.5,191.16,15.5,Grade C,0,372,Trans Nzoia Collection Center 3,Delayed,38
+PR00589,B00589,F0071,P04,Wheat,2025-06-29,Lean Season,Kisii,203,54.4,25.85,165.96,9.9,Grade B,0,203,Kisii Collection Center 2,Paid,21
+PR00590,B00590,F0118,P01,Maize,2025-07-14,Long Rains Harvest,Meru,1212,38.7,149.11,1225.64,11.9,Grade A,0,1212,Meru Collection Center 3,Paid,16
+PR00591,B00591,F0063,P02,Beans,2025-11-12,Peak Demand Season,Kirinyaga,971,126.67,106.09,763.35,11.0,Grade C,0,971,Kirinyaga Collection Center 1,Paid,12
+PR00592,B00592,F0033,P06,Millet,2025-12-23,Peak Demand Season,Narok,1606,101.12,168.43,1577.0,10.8,Grade B,0,1606,Narok Collection Center 1,Pending,
+PR00593,B00593,F0118,P03,Rice,2026-01-06,Short Rains Harvest,Meru,351,79.69,41.39,346.87,12.0,Grade A,0,351,Meru Collection Center 2,Paid,20
+PR00594,B00594,F0075,P01,Maize,2025-06-15,Lean Season,Nyeri,502,47.26,72.99,477.44,14.8,Grade B,0,502,Nyeri Collection Center 3,Delayed,21
+PR00595,B00595,F0113,P08,Cowpeas,2026-03-10,Lean Season,Bungoma,1177,104.13,113.69,1158.5,15.3,Grade B,0,1177,Bungoma Collection Center 3,Paid,20
+PR00596,B00596,F0113,P02,Beans,2025-04-02,Lean Season,Bungoma,2486,111.3,248.83,2630.87,13.0,Grade A,0,2486,Bungoma Collection Center 3,Pending,
+PR00597,B00597,F0022,P02,Beans,2026-05-19,Lean Season,Makueni,1506,106.47,164.97,1487.06,16.2,Grade C,0,1506,Makueni Collection Center 2,Paid,14
+PR00598,B00598,F0018,P01,Maize,2025-07-22,Long Rains Harvest,Bungoma,254,45.8,25.0,146.6,11.3,Grade A,0,254,Bungoma Collection Center 1,Pending,
+PR00599,B00599,F0116,P01,Maize,2026-02-23,Short Rains Harvest,Makueni,1004,46.6,177.67,578.74,8.1,Grade A,0,1004,Makueni Collection Center 1,Paid,14
+PR00600,B00600,F0075,P02,Beans,2025-08-29,Long Rains Harvest,Nyeri,1125,104.99,159.89,641.89,11.3,Grade B,178,947,Nyeri Collection Center 1,Delayed,36
+PR00601,B00601,F0102,P01,Maize,2025-01-08,Short Rains Harvest,Kisumu,2410,45.61,569.2,2827.99,11.4,Grade A,0,2410,Kisumu Collection Center 2,Paid,16
+PR00602,B00602,F0114,P02,Beans,2025-12-18,Peak Demand Season,Meru,701,141.73,113.28,812.24,16.6,Grade B,76,625,Meru Collection Center 1,Paid,10
+PR00603,B00603,F0112,P01,Maize,2026-02-16,Short Rains Harvest,Narok,1478,50.92,166.08,882.67,15.3,Grade C,0,1478,Narok Collection Center 1,Paid,18
+PR00604,B00604,F0080,P02,Beans,2026-05-02,Lean Season,Machakos,349,129.47,41.39,175.26,13.7,Grade C,0,349,Machakos Collection Center 1,Paid,14
+PR00605,B00605,F0095,P09,Barley,2025-11-30,Peak Demand Season,Machakos,2448,53.32,282.59,2054.3,11.4,Grade B,0,2448,Machakos Collection Center 2,Delayed,40
+PR00606,B00606,F0110,P09,Barley,2025-04-13,Lean Season,Bungoma,1760,57.5,224.36,1120.33,13.4,Grade B,0,1760,Bungoma Collection Center 3,Pending,
+PR00607,B00607,F0064,P01,Maize,2025-03-31,Lean Season,Nakuru,1067,52.44,194.34,943.36,10.4,Grade A,0,1067,Nakuru Collection Center 3,Paid,21
+PR00608,B00608,F0032,P04,Wheat,2025-08-05,Long Rains Harvest,Nakuru,324,43.89,48.46,320.74,11.8,Grade C,76,248,Nakuru Collection Center 2,Paid,15
+PR00609,B00609,F0029,P06,Millet,2025-09-21,Long Rains Harvest,Kitui,679,93.21,85.76,658.24,8.8,Grade C,0,679,Kitui Collection Center 3,Paid,20
+PR00610,B00610,F0029,P02,Beans,2025-03-08,Lean Season,Kitui,422,135.25,46.57,422.93,12.2,Grade A,0,422,Kitui Collection Center 2,Paid,11
+PR00611,B00611,F0029,P07,Green Grams,2025-09-23,Long Rains Harvest,Kitui,1177,114.44,120.45,661.94,12.2,Grade C,0,1177,Kitui Collection Center 2,Paid,16
+PR00612,B00612,F0041,P01,Maize,2026-01-25,Short Rains Harvest,Trans Nzoia,391,48.67,34.52,212.44,14.6,Grade C,0,391,Trans Nzoia Collection Center 2,Paid,11
+PR00613,B00613,F0120,P07,Green Grams,2025-05-10,Lean Season,Trans Nzoia,1324,156.52,156.32,867.88,15.0,Grade B,0,1324,Trans Nzoia Collection Center 2,Paid,15
+PR00614,B00614,F0064,P07,Green Grams,2026-04-12,Lean Season,Nakuru,690,140.67,114.22,705.83,11.5,Grade B,0,690,Nakuru Collection Center 3,Paid,12
+PR00615,B00615,F0016,P09,Barley,2025-10-08,Peak Demand Season,Kitui,444,56.67,109.95,370.65,11.1,Grade A,0,444,Kitui Collection Center 2,Paid,13
+PR00616,B00616,F0092,P01,Maize,2025-08-04,Long Rains Harvest,Nakuru,169,51.12,21.27,111.13,12.0,Grade C,0,169,Nakuru Collection Center 3,Pending,
+PR00617,B00617,F0105,P02,Beans,2025-06-13,Lean Season,Kakamega,654,150.8,77.89,481.47,12.0,Grade C,0,654,Kakamega Collection Center 3,Paid,8
+PR00618,B00618,F0037,P06,Millet,2025-07-19,Long Rains Harvest,Trans Nzoia,559,94.24,77.94,317.58,10.0,Grade B,0,559,Trans Nzoia Collection Center 3,Paid,8
+PR00619,B00619,F0084,P02,Beans,2025-06-17,Lean Season,Kitui,548,132.26,66.7,459.06,11.8,Grade A,0,548,Kitui Collection Center 3,Paid,21
+PR00620,B00620,F0093,P01,Maize,2025-04-15,Lean Season,Narok,313,59.2,59.96,188.84,13.7,Grade B,0,313,Narok Collection Center 1,Delayed,29
+PR00621,B00621,F0061,P02,Beans,2025-07-03,Long Rains Harvest,Kirinyaga,581,122.18,128.91,500.13,10.6,Grade A,0,581,Kirinyaga Collection Center 1,Pending,
+PR00622,B00622,F0031,P01,Maize,2026-02-11,Short Rains Harvest,Nakuru,134,47.33,15.29,156.54,12.2,Grade A,0,134,Nakuru Collection Center 3,Pending,
+PR00623,B00623,F0060,P01,Maize,2026-01-27,Short Rains Harvest,Kisumu,605,44.08,84.24,458.06,13.1,Grade A,0,605,Kisumu Collection Center 3,Paid,13
+PR00624,B00624,F0076,P01,Maize,2026-05-07,Lean Season,Kirinyaga,795,51.95,117.33,839.55,12.3,Grade A,0,795,Kirinyaga Collection Center 3,Paid,5
+PR00625,B00625,F0042,P01,Maize,2025-03-07,Lean Season,Kitui,742,59.83,132.15,650.18,10.8,Grade B,0,742,Kitui Collection Center 3,Pending,
+PR00626,B00626,F0067,P03,Rice,2025-05-08,Lean Season,Kirinyaga,299,96.97,26.91,287.34,8.0,Grade B,0,299,Kirinyaga Collection Center 2,Paid,21
+PR00627,B00627,F0016,P07,Green Grams,2025-02-10,Short Rains Harvest,Kitui,1319,118.65,288.67,808.35,11.6,Grade B,0,1319,Kitui Collection Center 3,Delayed,43
+PR00628,B00628,F0070,P01,Maize,2025-06-25,Lean Season,Embu,1662,54.62,181.87,831.1,12.8,Grade C,0,1662,Embu Collection Center 3,Pending,
+PR00629,B00629,F0018,P04,Wheat,2026-05-18,Lean Season,Bungoma,643,59.31,63.59,765.31,14.3,Grade B,0,643,Bungoma Collection Center 1,Paid,19
+PR00630,B00630,F0025,P01,Maize,2025-05-26,Lean Season,Narok,745,52.41,113.89,871.8,15.1,Grade A,0,745,Narok Collection Center 3,Paid,13
+PR00631,B00631,F0071,P02,Beans,2025-09-19,Long Rains Harvest,Kisii,1428,96.99,190.18,877.25,11.7,Grade C,0,1428,Kisii Collection Center 1,Delayed,29
+PR00632,B00632,F0010,P04,Wheat,2025-10-03,Peak Demand Season,Nakuru,127,58.75,23.07,80.62,12.0,Grade B,0,127,Nakuru Collection Center 2,Paid,16
+PR00633,B00633,F0041,P07,Green Grams,2026-03-21,Lean Season,Trans Nzoia,2352,150.53,263.13,1583.48,15.9,Grade B,0,2352,Trans Nzoia Collection Center 2,Paid,5
+PR00634,B00634,F0047,P05,Sorghum,2025-12-08,Peak Demand Season,Kakamega,1204,66.74,186.74,1274.64,15.6,Grade A,0,1204,Kakamega Collection Center 1,Paid,9
+PR00635,B00635,F0016,P07,Green Grams,2025-06-29,Lean Season,Kitui,910,156.81,234.18,830.08,10.2,Grade A,0,910,Kitui Collection Center 2,Paid,12
+PR00636,B00636,F0078,P04,Wheat,2025-04-12,Lean Season,Nyeri,456,61.56,41.85,530.13,11.3,Grade A,0,456,Nyeri Collection Center 3,Delayed,43
+PR00637,B00637,F0113,P04,Wheat,2026-02-17,Short Rains Harvest,Bungoma,323,48.23,28.88,163.65,13.0,Grade A,0,323,Bungoma Collection Center 3,Paid,14
+PR00638,B00638,F0118,P01,Maize,2026-01-15,Short Rains Harvest,Meru,1636,50.65,173.64,1515.09,15.0,Grade A,0,1636,Meru Collection Center 3,Pending,
+PR00639,B00639,F0055,P01,Maize,2025-08-23,Long Rains Harvest,Trans Nzoia,896,43.13,94.07,1042.24,13.6,Grade B,43,853,Trans Nzoia Collection Center 1,Pending,
+PR00640,B00640,F0008,P01,Maize,2025-03-28,Lean Season,Kitui,363,60.36,37.49,306.73,13.4,Grade C,0,363,Kitui Collection Center 3,Paid,13
+PR00641,B00641,F0064,P01,Maize,2026-06-12,Lean Season,Nakuru,411,59.32,74.92,358.67,10.6,Grade A,0,411,Nakuru Collection Center 1,Pending,
+PR00642,B00642,F0090,P06,Millet,2025-12-20,Peak Demand Season,Kitui,959,92.21,151.15,1117.82,13.3,Grade C,0,959,Kitui Collection Center 3,Paid,13
+PR00643,B00643,F0022,P03,Rice,2025-08-19,Long Rains Harvest,Makueni,1063,67.94,125.88,630.7,11.0,Grade A,0,1063,Makueni Collection Center 1,Paid,15
+PR00644,B00644,F0087,P02,Beans,2025-09-13,Long Rains Harvest,Kitui,1331,118.01,156.62,1464.72,12.4,Grade A,0,1331,Kitui Collection Center 3,Paid,12
+PR00645,B00645,F0028,P04,Wheat,2025-11-09,Peak Demand Season,Kisii,474,58.06,89.09,408.05,12.4,Grade C,0,474,Kisii Collection Center 1,Pending,
+PR00646,B00646,F0079,P02,Beans,2026-04-17,Lean Season,Kakamega,1379,121.12,131.74,694.48,11.2,Grade A,0,1379,Kakamega Collection Center 2,Paid,14
+PR00647,B00647,F0068,P01,Maize,2026-06-11,Lean Season,Kisumu,543,63.14,66.15,618.57,11.4,Grade B,0,543,Kisumu Collection Center 2,Paid,21
+PR00648,B00648,F0055,P01,Maize,2025-07-06,Long Rains Harvest,Trans Nzoia,593,46.54,54.04,707.19,13.3,Grade B,0,593,Trans Nzoia Collection Center 1,Pending,
+PR00649,B00649,F0112,P02,Beans,2025-07-23,Long Rains Harvest,Narok,501,91.47,48.73,297.38,10.2,Grade A,0,501,Narok Collection Center 2,Paid,20
+PR00650,B00650,F0035,P08,Cowpeas,2025-05-02,Lean Season,Nyeri,909,112.71,97.75,963.43,11.1,Grade A,0,909,Nyeri Collection Center 3,Delayed,35
+PR00651,B00651,F0095,P06,Millet,2026-02-03,Short Rains Harvest,Machakos,817,80.0,112.13,861.85,11.4,Grade A,148,669,Machakos Collection Center 2,Paid,14
+PR00652,B00652,F0077,P02,Beans,2025-01-09,Short Rains Harvest,Trans Nzoia,953,106.75,95.08,800.66,9.2,Grade A,0,953,Trans Nzoia Collection Center 1,Paid,10
+PR00653,B00653,F0015,P01,Maize,2025-09-27,Long Rains Harvest,Bungoma,929,53.28,105.44,998.14,10.6,Grade B,0,929,Bungoma Collection Center 3,Pending,
+PR00654,B00654,F0025,P05,Sorghum,2025-06-02,Lean Season,Narok,579,58.9,74.53,305.05,10.1,Grade C,0,579,Narok Collection Center 1,Paid,19
+PR00655,B00655,F0049,P07,Green Grams,2026-02-22,Short Rains Harvest,Busia,495,132.95,54.04,587.11,11.0,Grade A,0,495,Busia Collection Center 1,Paid,16
+PR00656,B00656,F0035,P02,Beans,2026-01-08,Short Rains Harvest,Nyeri,1222,100.91,125.11,968.62,16.4,Grade A,51,1171,Nyeri Collection Center 1,Pending,
+PR00657,B00657,F0036,P01,Maize,2025-04-14,Lean Season,Kitui,485,54.76,53.64,409.29,12.2,Grade A,0,485,Kitui Collection Center 1,Paid,14
+PR00658,B00658,F0095,P02,Beans,2026-01-06,Short Rains Harvest,Machakos,1727,118.48,217.84,1594.54,11.0,Grade A,0,1727,Machakos Collection Center 1,Paid,10
+PR00659,B00659,F0096,P01,Maize,2025-05-04,Lean Season,Narok,1095,47.78,132.69,1225.12,12.9,Grade A,0,1095,Narok Collection Center 3,Paid,16
+PR00660,B00660,F0039,P05,Sorghum,2026-05-01,Lean Season,Kitui,1456,75.93,168.15,1462.61,13.2,Grade A,0,1456,Kitui Collection Center 3,Paid,18
+PR00661,B00661,F0115,P09,Barley,2026-01-10,Short Rains Harvest,Kirinyaga,368,46.06,58.82,418.63,10.4,Grade A,0,368,Kirinyaga Collection Center 1,Paid,17
+PR00662,B00662,F0036,P01,Maize,2025-05-13,Lean Season,Kitui,328,52.23,42.91,177.96,9.8,Grade A,0,328,Kitui Collection Center 3,Paid,7
+PR00663,B00663,F0010,P07,Green Grams,2025-06-19,Lean Season,Nakuru,590,153.03,102.49,527.31,11.5,Grade B,0,590,Nakuru Collection Center 3,Paid,12
+PR00664,B00664,F0090,P01,Maize,2025-01-10,Short Rains Harvest,Kitui,326,53.26,51.99,266.93,13.1,Grade B,0,326,Kitui Collection Center 3,Paid,16
+PR00665,B00665,F0016,P01,Maize,2025-06-25,Lean Season,Kitui,50,51.05,11.88,35.21,16.9,Grade C,3,47,Kitui Collection Center 1,Pending,
+PR00666,B00666,F0032,P05,Sorghum,2025-08-04,Long Rains Harvest,Nakuru,599,54.0,71.0,445.19,13.5,Grade B,111,488,Nakuru Collection Center 3,Paid,19
+PR00667,B00667,F0115,P01,Maize,2025-10-29,Peak Demand Season,Kirinyaga,373,49.55,50.51,399.54,16.2,Grade B,0,373,Kirinyaga Collection Center 1,Paid,12
+PR00668,B00668,F0112,P04,Wheat,2025-04-19,Lean Season,Narok,1157,59.61,124.22,1344.39,10.8,Grade B,0,1157,Narok Collection Center 2,Paid,14
+PR00669,B00669,F0035,P01,Maize,2025-07-28,Long Rains Harvest,Nyeri,530,47.2,60.53,544.33,10.3,Grade A,0,530,Nyeri Collection Center 2,Paid,11
+PR00670,B00670,F0024,P01,Maize,2026-04-16,Lean Season,Trans Nzoia,2142,50.36,276.95,1354.18,8.5,Grade B,0,2142,Trans Nzoia Collection Center 1,Paid,15
+PR00671,B00671,F0105,P08,Cowpeas,2026-02-08,Short Rains Harvest,Kakamega,250,103.19,27.19,150.12,16.7,Grade C,0,250,Kakamega Collection Center 3,Paid,15
+PR00672,B00672,F0094,P04,Wheat,2025-01-13,Short Rains Harvest,Makueni,353,49.43,57.76,181.62,15.2,Grade C,0,353,Makueni Collection Center 1,Paid,11
+PR00673,B00673,F0035,P06,Millet,2025-05-27,Lean Season,Nyeri,1121,123.24,121.99,1182.3,12.9,Grade B,0,1121,Nyeri Collection Center 3,Pending,
+PR00674,B00674,F0018,P01,Maize,2026-05-07,Lean Season,Bungoma,2358,60.65,254.1,2525.01,14.2,Grade B,0,2358,Bungoma Collection Center 2,Paid,5
+PR00675,B00675,F0016,P05,Sorghum,2025-01-22,Short Rains Harvest,Kitui,369,61.27,78.56,261.15,13.5,Grade C,0,369,Kitui Collection Center 1,Delayed,40
+PR00676,B00676,F0050,P01,Maize,2025-05-31,Lean Season,Machakos,886,53.37,117.86,1014.63,10.6,Grade B,0,886,Machakos Collection Center 2,Delayed,50
+PR00677,B00677,F0015,P01,Maize,2025-08-18,Long Rains Harvest,Bungoma,1162,40.14,156.17,871.63,13.4,Grade A,0,1162,Bungoma Collection Center 1,Delayed,55
+PR00678,B00678,F0023,P05,Sorghum,2026-03-15,Lean Season,Bungoma,166,65.64,19.35,161.95,13.7,Grade B,0,166,Bungoma Collection Center 2,Pending,
+PR00679,B00679,F0035,P07,Green Grams,2026-05-27,Lean Season,Nyeri,136,162.56,15.97,145.18,10.7,Grade A,0,136,Nyeri Collection Center 1,Delayed,36
+PR00680,B00680,F0019,P06,Millet,2025-11-24,Peak Demand Season,Uasin Gishu,632,88.97,79.47,668.53,13.7,Grade C,78,554,Uasin Gishu Collection Center 1,Pending,
+PR00681,B00681,F0017,P01,Maize,2025-07-06,Long Rains Harvest,Nakuru,258,49.94,37.4,218.25,8.6,Grade C,0,258,Nakuru Collection Center 1,Paid,17
+PR00682,B00682,F0084,P07,Green Grams,2025-09-09,Long Rains Harvest,Kitui,1044,123.8,130.44,915.72,13.4,Grade B,0,1044,Kitui Collection Center 3,Paid,10
+PR00683,B00683,F0074,P02,Beans,2025-08-13,Long Rains Harvest,Uasin Gishu,243,113.27,23.17,121.99,10.2,Grade A,0,243,Uasin Gishu Collection Center 1,Delayed,28
+PR00684,B00684,F0045,P01,Maize,2026-01-05,Short Rains Harvest,Bungoma,749,52.8,89.62,803.91,10.7,Grade A,0,749,Bungoma Collection Center 2,Delayed,30
+PR00685,B00685,F0106,P01,Maize,2025-08-18,Long Rains Harvest,Busia,1127,39.46,102.52,1322.46,13.5,Grade B,273,854,Busia Collection Center 3,Paid,17
+PR00686,B00686,F0075,P01,Maize,2025-03-17,Lean Season,Nyeri,427,55.58,59.57,260.78,8.0,Grade A,0,427,Nyeri Collection Center 2,Paid,17
+PR00687,B00687,F0024,P01,Maize,2026-04-27,Lean Season,Trans Nzoia,1057,60.36,133.17,1045.37,12.4,Grade A,0,1057,Trans Nzoia Collection Center 3,Pending,
+PR00688,B00688,F0015,P01,Maize,2025-06-09,Lean Season,Bungoma,537,48.12,67.21,495.61,13.5,Grade A,0,537,Bungoma Collection Center 2,Paid,8
+PR00689,B00689,F0107,P04,Wheat,2025-09-22,Long Rains Harvest,Embu,818,50.78,101.62,815.18,13.4,Grade A,0,818,Embu Collection Center 1,Paid,16
+PR00690,B00690,F0052,P06,Millet,2025-02-27,Short Rains Harvest,Kitui,459,82.65,44.39,469.19,13.8,Grade C,0,459,Kitui Collection Center 2,Paid,17
+PR00691,B00691,F0052,P05,Sorghum,2026-01-25,Short Rains Harvest,Kitui,507,48.73,57.07,483.0,13.0,Grade A,82,425,Kitui Collection Center 1,Pending,
+PR00692,B00692,F0021,P01,Maize,2025-04-20,Lean Season,Bungoma,94,48.21,11.22,96.78,14.9,Grade B,0,94,Bungoma Collection Center 2,Paid,13
+PR00693,B00693,F0073,P01,Maize,2025-02-15,Short Rains Harvest,Machakos,1638,48.47,354.35,871.38,11.5,Grade C,178,1460,Machakos Collection Center 2,Paid,14
+PR00694,B00694,F0041,P04,Wheat,2026-02-05,Short Rains Harvest,Trans Nzoia,334,50.59,37.45,331.28,8.7,Grade A,0,334,Trans Nzoia Collection Center 1,Paid,8
+PR00695,B00695,F0102,P01,Maize,2026-01-27,Short Rains Harvest,Kisumu,902,47.15,231.07,474.62,11.7,Grade B,0,902,Kisumu Collection Center 3,Paid,12
+PR00696,B00696,F0028,P01,Maize,2025-05-25,Lean Season,Kisii,295,60.82,45.74,346.5,11.9,Grade B,0,295,Kisii Collection Center 2,Delayed,20
+PR00697,B00697,F0017,P03,Rice,2025-12-14,Peak Demand Season,Nakuru,974,80.22,150.87,1127.99,13.2,Grade B,0,974,Nakuru Collection Center 3,Paid,12
+PR00698,B00698,F0020,P05,Sorghum,2026-05-25,Lean Season,Uasin Gishu,1797,55.94,171.74,1862.45,15.5,Grade C,0,1797,Uasin Gishu Collection Center 2,Delayed,37
+PR00699,B00699,F0041,P01,Maize,2025-06-23,Lean Season,Trans Nzoia,2057,63.78,189.66,1431.84,15.9,Grade A,411,1646,Trans Nzoia Collection Center 2,Paid,8
+PR00700,B00700,F0098,P09,Barley,2026-03-29,Lean Season,Trans Nzoia,633,56.56,70.26,371.43,13.1,Grade A,0,633,Trans Nzoia Collection Center 3,Paid,21
+PR00701,B00701,F0017,P08,Cowpeas,2026-03-28,Lean Season,Nakuru,865,110.88,141.01,1008.96,14.0,Grade B,0,865,Nakuru Collection Center 3,Paid,12
+PR00702,B00702,F0083,P01,Maize,2025-02-28,Short Rains Harvest,Busia,1200,51.16,145.39,1289.84,11.5,Grade B,0,1200,Busia Collection Center 2,Paid,5
+PR00703,B00703,F0029,P07,Green Grams,2026-02-02,Short Rains Harvest,Kitui,866,145.56,102.59,644.53,12.0,Grade A,0,866,Kitui Collection Center 1,Paid,15
+PR00704,B00704,F0118,P06,Millet,2026-02-11,Short Rains Harvest,Meru,1930,99.35,202.21,1409.1,11.0,Grade C,0,1930,Meru Collection Center 2,Pending,
+PR00705,B00705,F0059,P01,Maize,2025-02-09,Short Rains Harvest,Machakos,1503,48.19,180.14,904.6,13.7,Grade B,0,1503,Machakos Collection Center 1,Pending,
+PR00706,B00706,F0047,P08,Cowpeas,2026-03-17,Lean Season,Kakamega,1775,131.44,280.23,1150.28,11.5,Grade B,0,1775,Kakamega Collection Center 1,Paid,20
+PR00707,B00707,F0009,P01,Maize,2025-10-08,Peak Demand Season,Meru,1527,50.91,166.23,1524.78,13.4,Grade B,0,1527,Meru Collection Center 1,Paid,10
+PR00708,B00708,F0116,P01,Maize,2026-03-15,Lean Season,Makueni,456,53.17,77.84,280.52,10.3,Grade A,0,456,Makueni Collection Center 1,Paid,5
+PR00709,B00709,F0056,P09,Barley,2025-12-30,Peak Demand Season,Kisumu,641,55.78,127.28,689.79,15.6,Grade C,121,520,Kisumu Collection Center 1,Paid,11
+PR00710,B00710,F0106,P02,Beans,2025-11-21,Peak Demand Season,Busia,410,100.35,44.87,473.01,12.0,Grade A,0,410,Busia Collection Center 2,Paid,19
+PR00711,B00711,F0001,P04,Wheat,2026-04-07,Lean Season,Trans Nzoia,2081,62.09,283.37,1964.47,11.7,Grade A,0,2081,Trans Nzoia Collection Center 1,Pending,
+PR00712,B00712,F0070,P02,Beans,2025-06-20,Lean Season,Embu,540,133.32,49.61,349.29,12.2,Grade B,0,540,Embu Collection Center 2,Paid,16
+PR00713,B00713,F0115,P01,Maize,2025-11-11,Peak Demand Season,Kirinyaga,136,52.54,22.5,134.57,15.3,Grade B,0,136,Kirinyaga Collection Center 3,Paid,12
+PR00714,B00714,F0098,P02,Beans,2025-12-10,Peak Demand Season,Trans Nzoia,802,104.51,89.86,641.49,12.3,Grade A,0,802,Trans Nzoia Collection Center 3,Paid,17
+PR00715,B00715,F0056,P05,Sorghum,2025-10-18,Peak Demand Season,Kisumu,1918,65.14,414.4,2175.24,14.5,Grade A,0,1918,Kisumu Collection Center 1,Paid,9
+PR00716,B00716,F0053,P05,Sorghum,2025-04-17,Lean Season,Busia,1073,64.88,145.92,1232.94,11.9,Grade A,0,1073,Busia Collection Center 2,Paid,11
+PR00717,B00717,F0028,P07,Green Grams,2025-08-17,Long Rains Harvest,Kisii,824,137.56,141.03,478.04,13.4,Grade C,0,824,Kisii Collection Center 2,Pending,
+PR00718,B00718,F0106,P02,Beans,2026-02-10,Short Rains Harvest,Busia,1071,90.54,103.6,703.39,13.8,Grade C,0,1071,Busia Collection Center 2,Pending,
+PR00719,B00719,F0001,P05,Sorghum,2026-03-01,Lean Season,Trans Nzoia,522,54.49,57.83,549.85,12.3,Grade A,0,522,Trans Nzoia Collection Center 1,Paid,11
+PR00720,B00720,F0056,P08,Cowpeas,2025-09-05,Long Rains Harvest,Kisumu,1341,96.3,254.84,1248.99,11.7,Grade A,0,1341,Kisumu Collection Center 3,Paid,16
+PR00721,B00721,F0094,P02,Beans,2025-06-27,Lean Season,Makueni,433,124.46,69.79,264.52,8.0,Grade B,0,433,Makueni Collection Center 3,Paid,13
+PR00722,B00722,F0108,P07,Green Grams,2025-09-24,Long Rains Harvest,Busia,344,139.67,50.93,249.64,9.1,Grade A,0,344,Busia Collection Center 1,Pending,
+PR00723,B00723,F0091,P01,Maize,2025-03-22,Lean Season,Nyeri,931,57.29,118.76,943.96,10.0,Grade B,0,931,Nyeri Collection Center 3,Paid,12
+PR00724,B00724,F0039,P08,Cowpeas,2025-07-18,Long Rains Harvest,Kitui,1062,95.74,124.04,1110.87,10.8,Grade B,0,1062,Kitui Collection Center 1,Paid,11
+PR00725,B00725,F0082,P05,Sorghum,2025-04-16,Lean Season,Kisumu,2126,56.24,372.36,1245.58,10.7,Grade A,0,2126,Kisumu Collection Center 2,Paid,18
+PR00726,B00726,F0027,P08,Cowpeas,2026-02-05,Short Rains Harvest,Kisii,579,86.47,63.72,457.19,13.6,Grade B,0,579,Kisii Collection Center 2,Paid,9
+PR00727,B00727,F0058,P05,Sorghum,2025-06-14,Lean Season,Kakamega,1107,57.79,153.91,691.96,11.8,Grade B,271,836,Kakamega Collection Center 2,Delayed,24
+PR00728,B00728,F0077,P09,Barley,2025-01-06,Short Rains Harvest,Trans Nzoia,442,43.3,49.22,507.68,14.1,Grade A,63,379,Trans Nzoia Collection Center 2,Paid,7
+PR00729,B00729,F0028,P01,Maize,2025-01-31,Short Rains Harvest,Kisii,1103,44.88,173.69,1113.39,14.5,Grade B,0,1103,Kisii Collection Center 2,Delayed,23
+PR00730,B00730,F0084,P06,Millet,2025-10-29,Peak Demand Season,Kitui,618,99.69,82.05,497.64,15.4,Grade C,0,618,Kitui Collection Center 3,Paid,11
+PR00731,B00731,F0051,P01,Maize,2025-04-16,Lean Season,Makueni,597,57.5,78.27,428.71,12.1,Grade C,0,597,Makueni Collection Center 2,Delayed,43
+PR00732,B00732,F0035,P05,Sorghum,2025-11-23,Peak Demand Season,Nyeri,2269,63.48,247.37,1816.38,11.9,Grade A,0,2269,Nyeri Collection Center 1,Paid,2
+PR00733,B00733,F0066,P08,Cowpeas,2025-09-17,Long Rains Harvest,Makueni,264,97.16,27.35,284.77,16.2,Grade C,0,264,Makueni Collection Center 1,Paid,16
+PR00734,B00734,F0055,P07,Green Grams,2025-07-10,Long Rains Harvest,Trans Nzoia,140,122.91,12.11,134.38,14.4,Grade C,14,126,Trans Nzoia Collection Center 2,Paid,19
+PR00735,B00735,F0073,P01,Maize,2025-11-26,Peak Demand Season,Machakos,1893,59.2,388.19,1457.45,13.1,Grade B,173,1720,Machakos Collection Center 3,Paid,11
+PR00736,B00736,F0115,P01,Maize,2026-03-08,Lean Season,Kirinyaga,471,59.26,70.37,503.68,13.7,Grade A,0,471,Kirinyaga Collection Center 2,Paid,12
+PR00737,B00737,F0016,P02,Beans,2026-04-09,Lean Season,Kitui,563,114.07,127.12,432.38,14.4,Grade B,0,563,Kitui Collection Center 1,Pending,
+PR00738,B00738,F0037,P08,Cowpeas,2025-05-15,Lean Season,Trans Nzoia,2094,126.84,281.74,2360.11,15.7,Grade A,0,2094,Trans Nzoia Collection Center 1,Paid,6
+PR00739,B00739,F0054,P07,Green Grams,2025-11-05,Peak Demand Season,Kirinyaga,2267,136.96,283.39,1768.81,11.0,Grade A,0,2267,Kirinyaga Collection Center 3,Paid,14
+PR00740,B00740,F0064,P09,Barley,2025-05-05,Lean Season,Nakuru,340,58.72,65.76,194.45,14.1,Grade C,85,255,Nakuru Collection Center 3,Pending,
+PR00741,B00741,F0022,P02,Beans,2025-04-01,Lean Season,Makueni,421,114.96,56.58,319.21,14.0,Grade C,0,421,Makueni Collection Center 2,Pending,
+PR00742,B00742,F0006,P08,Cowpeas,2025-04-24,Lean Season,Kirinyaga,951,100.17,100.11,651.06,10.4,Grade B,0,951,Kirinyaga Collection Center 1,Paid,12
+PR00743,B00743,F0016,P04,Wheat,2025-05-10,Lean Season,Kitui,578,55.1,124.56,525.34,8.2,Grade B,0,578,Kitui Collection Center 3,Paid,15
+PR00744,B00744,F0074,P04,Wheat,2026-05-05,Lean Season,Uasin Gishu,622,58.93,70.77,451.16,10.3,Grade A,0,622,Uasin Gishu Collection Center 1,Paid,20
+PR00745,B00745,F0107,P02,Beans,2025-09-06,Long Rains Harvest,Embu,273,111.67,35.85,175.85,12.9,Grade C,9,264,Embu Collection Center 2,Paid,17
+PR00746,B00746,F0014,P01,Maize,2025-12-15,Peak Demand Season,Nyeri,828,47.61,89.61,719.82,12.9,Grade B,0,828,Nyeri Collection Center 1,Paid,19
+PR00747,B00747,F0014,P07,Green Grams,2025-05-14,Lean Season,Nyeri,792,143.71,81.07,936.58,18.5,Grade C,0,792,Nyeri Collection Center 2,Paid,16
+PR00748,B00748,F0088,P02,Beans,2025-11-11,Peak Demand Season,Makueni,425,139.71,58.12,242.86,12.1,Grade A,0,425,Makueni Collection Center 2,Paid,15
+PR00749,B00749,F0004,P01,Maize,2026-05-03,Lean Season,Kakamega,1052,58.9,106.37,721.57,11.0,Grade A,0,1052,Kakamega Collection Center 3,Paid,21
+PR00750,B00750,F0043,P02,Beans,2025-02-24,Short Rains Harvest,Trans Nzoia,927,107.02,109.53,495.38,13.8,Grade C,0,927,Trans Nzoia Collection Center 1,Paid,21
+PR00751,B00751,F0068,P05,Sorghum,2026-05-21,Lean Season,Kisumu,1004,65.38,113.12,537.05,12.8,Grade A,0,1004,Kisumu Collection Center 3,Delayed,41
+PR00752,B00752,F0009,P01,Maize,2025-04-14,Lean Season,Meru,313,51.98,39.18,309.76,12.0,Grade A,0,313,Meru Collection Center 3,Pending,
+PR00753,B00753,F0027,P01,Maize,2025-06-25,Lean Season,Kisii,811,61.12,80.16,568.99,14.9,Grade B,114,697,Kisii Collection Center 2,Pending,
+PR00754,B00754,F0110,P06,Millet,2025-09-02,Long Rains Harvest,Bungoma,282,78.61,39.53,173.9,10.7,Grade A,0,282,Bungoma Collection Center 2,Paid,12
+PR00755,B00755,F0023,P02,Beans,2025-09-28,Long Rains Harvest,Bungoma,919,119.83,96.16,948.58,13.9,Grade B,0,919,Bungoma Collection Center 1,Paid,16
+PR00756,B00756,F0006,P03,Rice,2025-01-18,Short Rains Harvest,Kirinyaga,478,78.36,59.16,518.51,10.6,Grade A,0,478,Kirinyaga Collection Center 2,Paid,19
+PR00757,B00757,F0043,P07,Green Grams,2026-04-09,Lean Season,Trans Nzoia,1614,155.28,189.78,1423.55,12.8,Grade A,0,1614,Trans Nzoia Collection Center 2,Pending,
+PR00758,B00758,F0115,P06,Millet,2026-06-15,Lean Season,Kirinyaga,1167,117.36,192.58,1320.48,18.3,Grade B,0,1167,Kirinyaga Collection Center 1,Pending,
+PR00759,B00759,F0053,P01,Maize,2025-08-14,Long Rains Harvest,Busia,99,48.35,11.58,84.0,14.3,Grade B,0,99,Busia Collection Center 3,Paid,8
+PR00760,B00760,F0118,P01,Maize,2026-01-22,Short Rains Harvest,Meru,503,49.61,63.32,560.34,11.2,Grade B,0,503,Meru Collection Center 3,Delayed,32
+PR00761,B00761,F0117,P01,Maize,2025-12-24,Peak Demand Season,Machakos,1843,59.02,181.59,1459.85,8.0,Grade A,0,1843,Machakos Collection Center 2,Paid,13
+PR00762,B00762,F0016,P07,Green Grams,2026-03-20,Lean Season,Kitui,1480,168.25,354.58,1561.06,16.0,Grade A,346,1134,Kitui Collection Center 3,Paid,12
+PR00763,B00763,F0038,P01,Maize,2025-06-16,Lean Season,Nyeri,309,52.48,35.34,327.49,14.9,Grade A,0,309,Nyeri Collection Center 1,Paid,14
+PR00764,B00764,F0001,P03,Rice,2026-03-17,Lean Season,Trans Nzoia,978,87.08,132.48,523.16,14.8,Grade C,0,978,Trans Nzoia Collection Center 3,Paid,19
+PR00765,B00765,F0012,P01,Maize,2025-10-05,Peak Demand Season,Narok,1113,46.5,169.28,893.11,13.3,Grade B,262,851,Narok Collection Center 3,Paid,17
+PR00766,B00766,F0055,P05,Sorghum,2026-02-13,Short Rains Harvest,Trans Nzoia,1863,63.97,162.25,1272.21,16.9,Grade B,0,1863,Trans Nzoia Collection Center 2,Paid,13
+PR00767,B00767,F0018,P07,Green Grams,2025-07-24,Long Rains Harvest,Bungoma,604,119.14,58.19,386.36,13.4,Grade B,0,604,Bungoma Collection Center 1,Paid,21
+PR00768,B00768,F0113,P02,Beans,2026-03-24,Lean Season,Bungoma,484,110.7,47.91,477.17,12.9,Grade B,0,484,Bungoma Collection Center 2,Paid,12
+PR00769,B00769,F0053,P02,Beans,2026-04-18,Lean Season,Busia,207,107.64,26.9,242.24,13.0,Grade B,0,207,Busia Collection Center 1,Paid,21
+PR00770,B00770,F0048,P04,Wheat,2025-05-11,Lean Season,Uasin Gishu,775,58.47,86.4,863.71,14.4,Grade C,137,638,Uasin Gishu Collection Center 3,Paid,10
+PR00771,B00771,F0007,P03,Rice,2025-03-28,Lean Season,Narok,2013,79.75,259.16,1922.25,13.7,Grade A,0,2013,Narok Collection Center 2,Paid,13
+PR00772,B00772,F0016,P07,Green Grams,2026-06-08,Lean Season,Kitui,2660,165.87,558.73,1711.83,13.6,Grade B,0,2660,Kitui Collection Center 3,Paid,21
+PR00773,B00773,F0020,P05,Sorghum,2025-11-05,Peak Demand Season,Uasin Gishu,1238,63.59,141.36,1430.6,12.0,Grade B,0,1238,Uasin Gishu Collection Center 1,Paid,13
+PR00774,B00774,F0016,P05,Sorghum,2025-04-10,Lean Season,Kitui,703,59.3,149.71,363.63,10.3,Grade A,0,703,Kitui Collection Center 2,Paid,20
+PR00775,B00775,F0105,P09,Barley,2025-08-29,Long Rains Harvest,Kakamega,367,48.22,43.7,394.59,15.9,Grade C,0,367,Kakamega Collection Center 3,Paid,6
+PR00776,B00776,F0019,P01,Maize,2025-09-04,Long Rains Harvest,Uasin Gishu,301,41.15,40.61,265.69,11.4,Grade A,0,301,Uasin Gishu Collection Center 2,Delayed,31
+PR00777,B00777,F0036,P02,Beans,2026-02-05,Short Rains Harvest,Kitui,1043,104.91,131.76,860.24,12.7,Grade A,0,1043,Kitui Collection Center 2,Paid,13
+PR00778,B00778,F0039,P01,Maize,2025-02-04,Short Rains Harvest,Kitui,545,49.71,74.38,508.98,13.5,Grade C,0,545,Kitui Collection Center 3,Paid,12
+PR00779,B00779,F0002,P03,Rice,2025-06-12,Lean Season,Trans Nzoia,309,87.21,53.99,263.34,9.0,Grade B,0,309,Trans Nzoia Collection Center 3,Paid,14
+PR00780,B00780,F0084,P01,Maize,2025-12-14,Peak Demand Season,Kitui,1435,51.82,192.67,858.17,11.0,Grade B,0,1435,Kitui Collection Center 3,Paid,21
+PR00781,B00781,F0061,P03,Rice,2025-07-04,Long Rains Harvest,Kirinyaga,532,76.06,143.76,554.76,12.9,Grade A,0,532,Kirinyaga Collection Center 2,Delayed,36
+PR00782,B00782,F0107,P04,Wheat,2026-02-18,Short Rains Harvest,Embu,1099,44.34,120.81,1113.3,12.3,Grade B,0,1099,Embu Collection Center 2,Paid,12
+PR00783,B00783,F0099,P06,Millet,2025-08-31,Long Rains Harvest,Trans Nzoia,1875,76.7,204.47,1893.21,16.3,Grade C,0,1875,Trans Nzoia Collection Center 2,Paid,11
+PR00784,B00784,F0109,P01,Maize,2025-03-16,Lean Season,Kakamega,604,54.95,71.44,568.91,13.6,Grade A,78,526,Kakamega Collection Center 3,Paid,11
+PR00785,B00785,F0026,P04,Wheat,2025-07-20,Long Rains Harvest,Machakos,2661,44.64,391.21,1863.4,15.0,Grade A,0,2661,Machakos Collection Center 1,Pending,
+PR00786,B00786,F0004,P01,Maize,2025-04-09,Lean Season,Kakamega,147,50.69,16.17,165.42,14.4,Grade B,0,147,Kakamega Collection Center 1,Paid,10
+PR00787,B00787,F0117,P05,Sorghum,2026-05-24,Lean Season,Machakos,829,58.02,77.92,894.74,12.1,Grade A,0,829,Machakos Collection Center 1,Pending,
+PR00788,B00788,F0081,P02,Beans,2026-01-21,Short Rains Harvest,Narok,1311,123.46,129.68,772.22,12.3,Grade A,0,1311,Narok Collection Center 3,Paid,18
+PR00789,B00789,F0029,P02,Beans,2025-10-24,Peak Demand Season,Kitui,2431,138.49,259.82,2412.26,9.6,Grade B,0,2431,Kitui Collection Center 3,Paid,20
+PR00790,B00790,F0067,P01,Maize,2026-05-28,Lean Season,Kirinyaga,972,52.64,96.93,857.46,17.3,Grade C,0,972,Kirinyaga Collection Center 3,Delayed,30
+PR00791,B00791,F0044,P01,Maize,2026-03-08,Lean Season,Narok,1086,51.71,176.52,1124.35,13.7,Grade B,0,1086,Narok Collection Center 3,Delayed,40
+PR00792,B00792,F0008,P08,Cowpeas,2025-08-30,Long Rains Harvest,Kitui,419,94.58,45.9,374.88,13.4,Grade C,0,419,Kitui Collection Center 1,Paid,4
+PR00793,B00793,F0077,P08,Cowpeas,2025-03-24,Lean Season,Trans Nzoia,1220,128.38,127.64,720.56,12.8,Grade A,0,1220,Trans Nzoia Collection Center 2,Paid,17
+PR00794,B00794,F0039,P02,Beans,2025-08-22,Long Rains Harvest,Kitui,741,88.19,82.27,771.77,11.1,Grade A,0,741,Kitui Collection Center 3,Paid,14
+PR00795,B00795,F0062,P01,Maize,2025-02-23,Short Rains Harvest,Nyeri,2453,45.78,332.2,1441.55,10.8,Grade A,0,2453,Nyeri Collection Center 3,Paid,18
+PR00796,B00796,F0048,P09,Barley,2025-12-27,Peak Demand Season,Uasin Gishu,505,48.23,50.5,272.98,9.8,Grade A,0,505,Uasin Gishu Collection Center 3,Pending,
+PR00797,B00797,F0103,P04,Wheat,2025-01-16,Short Rains Harvest,Kitui,529,52.0,94.83,285.56,13.2,Grade B,0,529,Kitui Collection Center 3,Paid,21
+PR00798,B00798,F0032,P05,Sorghum,2025-10-27,Peak Demand Season,Nakuru,1588,53.12,208.95,1524.97,11.3,Grade A,0,1588,Nakuru Collection Center 3,Paid,15
+PR00799,B00799,F0046,P06,Millet,2025-08-14,Long Rains Harvest,Makueni,1554,86.66,213.94,1176.15,9.3,Grade B,0,1554,Makueni Collection Center 2,Delayed,52
+PR00800,B00800,F0065,P05,Sorghum,2025-04-17,Lean Season,Kakamega,814,54.97,115.76,808.99,13.7,Grade B,0,814,Kakamega Collection Center 3,Paid,12
+PR00801,B00801,F0095,P01,Maize,2025-08-04,Long Rains Harvest,Machakos,274,40.45,35.68,288.13,15.4,Grade A,0,274,Machakos Collection Center 1,Pending,
+PR00802,B00802,F0108,P01,Maize,2025-02-04,Short Rains Harvest,Busia,1129,44.01,186.24,801.92,14.0,Grade A,0,1129,Busia Collection Center 1,Paid,9
+PR00803,B00803,F0050,P07,Green Grams,2026-03-31,Lean Season,Machakos,726,136.29,94.56,456.73,10.8,Grade A,0,726,Machakos Collection Center 2,Paid,10
+PR00804,B00804,F0117,P08,Cowpeas,2025-12-11,Peak Demand Season,Machakos,522,121.47,58.09,557.06,12.2,Grade B,0,522,Machakos Collection Center 2,Pending,
+PR00805,B00805,F0101,P07,Green Grams,2025-02-28,Short Rains Harvest,Nakuru,517,143.15,79.31,603.2,8.0,Grade A,0,517,Nakuru Collection Center 2,Paid,14
+PR00806,B00806,F0073,P04,Wheat,2025-09-24,Long Rains Harvest,Machakos,682,43.82,133.79,696.97,12.9,Grade A,140,542,Machakos Collection Center 1,Delayed,51
+PR00807,B00807,F0099,P09,Barley,2025-10-30,Peak Demand Season,Trans Nzoia,2345,49.74,227.98,2182.92,13.6,Grade B,0,2345,Trans Nzoia Collection Center 3,Pending,
+PR00808,B00808,F0040,P01,Maize,2025-11-25,Peak Demand Season,Meru,824,58.14,91.12,667.99,12.9,Grade A,90,734,Meru Collection Center 3,Paid,9
+PR00809,B00809,F0008,P01,Maize,2025-03-23,Lean Season,Kitui,581,51.99,60.82,418.21,12.8,Grade A,0,581,Kitui Collection Center 2,Paid,12
+PR00810,B00810,F0081,P01,Maize,2025-06-28,Lean Season,Narok,1325,49.67,132.59,708.49,12.3,Grade A,0,1325,Narok Collection Center 3,Pending,
+PR00811,B00811,F0071,P02,Beans,2025-08-22,Long Rains Harvest,Kisii,742,89.64,100.32,505.55,9.1,Grade B,0,742,Kisii Collection Center 3,Paid,17
+PR00812,B00812,F0031,P01,Maize,2025-12-25,Peak Demand Season,Nakuru,973,45.93,106.34,563.59,12.8,Grade A,0,973,Nakuru Collection Center 3,Pending,
+PR00813,B00813,F0083,P02,Beans,2026-03-13,Lean Season,Busia,1450,145.64,171.03,1056.44,8.1,Grade A,0,1450,Busia Collection Center 2,Paid,9
+PR00814,B00814,F0038,P08,Cowpeas,2025-02-01,Short Rains Harvest,Nyeri,2204,88.17,236.26,2537.28,11.7,Grade A,0,2204,Nyeri Collection Center 3,Pending,
+PR00815,B00815,F0095,P06,Millet,2026-06-05,Lean Season,Machakos,751,117.68,97.53,869.63,12.7,Grade A,0,751,Machakos Collection Center 3,Paid,17
+PR00816,B00816,F0010,P01,Maize,2025-08-18,Long Rains Harvest,Nakuru,384,46.96,74.64,361.43,14.9,Grade B,86,298,Nakuru Collection Center 3,Pending,
+PR00817,B00817,F0068,P03,Rice,2026-03-28,Lean Season,Kisumu,620,86.21,71.47,559.66,12.1,Grade A,0,620,Kisumu Collection Center 1,Delayed,41
+PR00818,B00818,F0096,P03,Rice,2025-04-29,Lean Season,Narok,1502,95.48,161.16,1757.83,14.2,Grade A,0,1502,Narok Collection Center 2,Paid,10
+PR00819,B00819,F0078,P05,Sorghum,2025-08-24,Long Rains Harvest,Nyeri,689,52.42,67.39,619.09,11.8,Grade A,0,689,Nyeri Collection Center 2,Pending,
+PR00820,B00820,F0086,P05,Sorghum,2025-05-22,Lean Season,Kisii,1093,67.32,201.44,807.84,11.8,Grade A,0,1093,Kisii Collection Center 2,Paid,11
+PR00821,B00821,F0099,P05,Sorghum,2025-07-22,Long Rains Harvest,Trans Nzoia,249,60.72,27.13,127.2,11.2,Grade A,0,249,Trans Nzoia Collection Center 3,Delayed,45
+PR00822,B00822,F0112,P01,Maize,2025-02-04,Short Rains Harvest,Narok,520,52.57,47.18,320.76,15.9,Grade B,0,520,Narok Collection Center 2,Paid,18
+PR00823,B00823,F0052,P02,Beans,2025-09-05,Long Rains Harvest,Kitui,1075,113.6,102.2,1212.81,12.8,Grade A,0,1075,Kitui Collection Center 1,Delayed,31
+PR00824,B00824,F0118,P01,Maize,2025-12-30,Peak Demand Season,Meru,656,60.06,81.59,617.68,10.3,Grade A,0,656,Meru Collection Center 3,Pending,
+PR00825,B00825,F0099,P01,Maize,2026-06-06,Lean Season,Trans Nzoia,1093,48.54,119.59,1000.63,8.0,Grade B,0,1093,Trans Nzoia Collection Center 3,Paid,16
+PR00826,B00826,F0036,P06,Millet,2025-04-10,Lean Season,Kitui,414,97.92,48.66,220.99,11.3,Grade A,0,414,Kitui Collection Center 2,Delayed,23
+PR00827,B00827,F0041,P02,Beans,2025-07-02,Long Rains Harvest,Trans Nzoia,682,122.49,60.88,792.17,16.8,Grade C,0,682,Trans Nzoia Collection Center 3,Paid,15
+PR00828,B00828,F0045,P02,Beans,2025-10-19,Peak Demand Season,Bungoma,168,106.7,17.5,141.23,12.3,Grade A,0,168,Bungoma Collection Center 3,Paid,7
+PR00829,B00829,F0119,P06,Millet,2025-08-26,Long Rains Harvest,Trans Nzoia,2577,93.22,336.7,1661.62,15.8,Grade C,589,1988,Trans Nzoia Collection Center 3,Delayed,47
+PR00830,B00830,F0025,P04,Wheat,2025-01-07,Short Rains Harvest,Narok,491,48.34,74.89,372.51,14.3,Grade C,0,491,Narok Collection Center 1,Paid,9
+PR00831,B00831,F0038,P07,Green Grams,2025-04-23,Lean Season,Nyeri,1803,164.88,239.66,1052.88,13.2,Grade B,108,1695,Nyeri Collection Center 3,Paid,17
+PR00832,B00832,F0046,P01,Maize,2025-03-22,Lean Season,Makueni,3017,60.38,406.8,1665.52,11.4,Grade A,0,3017,Makueni Collection Center 3,Pending,
+PR00833,B00833,F0091,P06,Millet,2025-11-19,Peak Demand Season,Nyeri,202,113.98,25.86,115.2,8.6,Grade A,0,202,Nyeri Collection Center 3,Paid,15
+PR00834,B00834,F0082,P01,Maize,2025-01-09,Short Rains Harvest,Kisumu,784,43.64,126.98,870.62,12.0,Grade A,0,784,Kisumu Collection Center 1,Paid,21
+PR00835,B00835,F0037,P06,Millet,2025-05-15,Lean Season,Trans Nzoia,855,96.72,128.63,996.57,10.6,Grade B,0,855,Trans Nzoia Collection Center 3,Paid,12
+PR00836,B00836,F0091,P05,Sorghum,2025-07-02,Long Rains Harvest,Nyeri,1349,44.87,203.54,1253.71,17.0,Grade B,0,1349,Nyeri Collection Center 1,Paid,18
+PR00837,B00837,F0108,P07,Green Grams,2025-08-26,Long Rains Harvest,Busia,814,140.99,136.84,686.33,14.5,Grade B,0,814,Busia Collection Center 1,Paid,14
+PR00838,B00838,F0113,P01,Maize,2025-10-22,Peak Demand Season,Bungoma,1688,51.15,163.87,1136.32,13.3,Grade A,0,1688,Bungoma Collection Center 2,Paid,17
+PR00839,B00839,F0091,P05,Sorghum,2025-05-12,Lean Season,Nyeri,896,71.09,128.75,952.72,11.3,Grade A,0,896,Nyeri Collection Center 3,Paid,11
+PR00840,B00840,F0109,P01,Maize,2026-02-23,Short Rains Harvest,Kakamega,489,40.82,63.63,334.05,10.9,Grade A,0,489,Kakamega Collection Center 1,Paid,21
+PR00841,B00841,F0094,P01,Maize,2025-08-13,Long Rains Harvest,Makueni,1760,43.64,319.91,1260.09,11.0,Grade A,0,1760,Makueni Collection Center 3,Paid,15
+PR00842,B00842,F0079,P01,Maize,2025-12-04,Peak Demand Season,Kakamega,220,46.27,22.01,256.34,12.7,Grade A,0,220,Kakamega Collection Center 2,Paid,17
+PR00843,B00843,F0071,P06,Millet,2025-03-06,Lean Season,Kisii,588,113.07,75.89,443.04,15.3,Grade A,0,588,Kisii Collection Center 1,Pending,
+PR00844,B00844,F0021,P01,Maize,2026-01-18,Short Rains Harvest,Bungoma,1625,44.94,176.4,1646.67,17.3,Grade A,385,1240,Bungoma Collection Center 2,Paid,5
+PR00845,B00845,F0006,P07,Green Grams,2025-06-10,Lean Season,Kirinyaga,1694,146.45,165.54,1595.9,14.9,Grade A,0,1694,Kirinyaga Collection Center 2,Pending,
+PR00846,B00846,F0017,P05,Sorghum,2025-10-04,Peak Demand Season,Nakuru,1196,68.5,161.26,1020.38,11.7,Grade B,231,965,Nakuru Collection Center 1,Paid,14
+PR00847,B00847,F0076,P01,Maize,2026-02-05,Short Rains Harvest,Kirinyaga,668,42.85,95.41,479.98,11.5,Grade A,60,608,Kirinyaga Collection Center 2,Paid,11
+PR00848,B00848,F0074,P09,Barley,2026-04-28,Lean Season,Uasin Gishu,785,53.5,78.64,514.63,14.9,Grade B,0,785,Uasin Gishu Collection Center 3,Pending,
+PR00849,B00849,F0003,P01,Maize,2026-05-24,Lean Season,Meru,1295,60.08,300.23,1338.89,10.8,Grade A,0,1295,Meru Collection Center 1,Paid,9
+PR00850,B00850,F0062,P03,Rice,2025-04-22,Lean Season,Nyeri,176,94.24,23.57,187.75,12.6,Grade A,0,176,Nyeri Collection Center 2,Pending,
+PR00851,B00851,F0011,P05,Sorghum,2025-05-25,Lean Season,Kirinyaga,848,62.79,109.71,734.69,14.6,Grade C,117,731,Kirinyaga Collection Center 3,Paid,15
+PR00852,B00852,F0020,P02,Beans,2025-02-07,Short Rains Harvest,Uasin Gishu,1278,102.46,140.73,1002.69,14.7,Grade B,0,1278,Uasin Gishu Collection Center 3,Pending,
+PR00853,B00853,F0084,P03,Rice,2025-08-30,Long Rains Harvest,Kitui,361,70.91,46.84,310.5,11.9,Grade C,0,361,Kitui Collection Center 3,Paid,18
+PR00854,B00854,F0017,P01,Maize,2025-01-14,Short Rains Harvest,Nakuru,2047,42.36,326.43,1261.64,8.3,Grade C,0,2047,Nakuru Collection Center 1,Paid,13
+PR00855,B00855,F0068,P05,Sorghum,2026-05-14,Lean Season,Kisumu,2345,56.89,318.7,1858.89,10.5,Grade A,0,2345,Kisumu Collection Center 3,Pending,
+PR00856,B00856,F0042,P01,Maize,2026-01-16,Short Rains Harvest,Kitui,542,48.47,81.47,381.1,9.5,Grade B,0,542,Kitui Collection Center 3,Paid,18
+PR00857,B00857,F0060,P01,Maize,2025-08-04,Long Rains Harvest,Kisumu,487,52.42,72.18,488.99,15.3,Grade A,0,487,Kisumu Collection Center 1,Pending,
+PR00858,B00858,F0023,P02,Beans,2025-06-03,Lean Season,Bungoma,464,127.48,59.14,233.82,11.8,Grade A,0,464,Bungoma Collection Center 1,Paid,12
+PR00859,B00859,F0060,P01,Maize,2025-06-10,Lean Season,Kisumu,720,48.24,99.85,805.2,13.5,Grade A,0,720,Kisumu Collection Center 2,Paid,18
+PR00860,B00860,F0040,P04,Wheat,2026-01-12,Short Rains Harvest,Meru,451,49.63,44.89,305.92,10.8,Grade B,0,451,Meru Collection Center 3,Paid,10
+PR00861,B00861,F0023,P01,Maize,2025-09-27,Long Rains Harvest,Bungoma,935,46.94,96.69,809.36,12.9,Grade A,0,935,Bungoma Collection Center 3,Pending,
+PR00862,B00862,F0104,P01,Maize,2026-04-30,Lean Season,Kisii,515,50.79,55.38,341.08,13.4,Grade C,0,515,Kisii Collection Center 2,Paid,15
+PR00863,B00863,F0042,P07,Green Grams,2025-03-21,Lean Season,Kitui,1002,172.53,146.06,859.91,17.2,Grade C,0,1002,Kitui Collection Center 1,Paid,15
+PR00864,B00864,F0051,P01,Maize,2026-01-22,Short Rains Harvest,Makueni,341,51.66,44.09,255.24,12.6,Grade A,56,285,Makueni Collection Center 1,Paid,15
+PR00865,B00865,F0107,P08,Cowpeas,2025-10-12,Peak Demand Season,Embu,969,114.81,130.3,864.68,12.2,Grade B,0,969,Embu Collection Center 2,Paid,18
+PR00866,B00866,F0023,P05,Sorghum,2025-01-26,Short Rains Harvest,Bungoma,1643,62.06,203.13,1707.93,14.1,Grade B,0,1643,Bungoma Collection Center 1,Pending,
+PR00867,B00867,F0023,P02,Beans,2025-01-11,Short Rains Harvest,Bungoma,710,97.69,78.04,451.86,13.2,Grade B,0,710,Bungoma Collection Center 3,Delayed,39
+PR00868,B00868,F0078,P08,Cowpeas,2025-10-07,Peak Demand Season,Nyeri,453,93.46,42.72,378.31,10.1,Grade B,0,453,Nyeri Collection Center 3,Paid,20
+PR00869,B00869,F0111,P07,Green Grams,2026-04-28,Lean Season,Narok,751,176.84,132.14,633.25,12.7,Grade B,0,751,Narok Collection Center 1,Pending,
+PR00870,B00870,F0079,P02,Beans,2025-06-06,Lean Season,Kakamega,679,138.01,61.97,743.95,16.3,Grade C,87,592,Kakamega Collection Center 2,Pending,
+PR00871,B00871,F0070,P01,Maize,2025-10-12,Peak Demand Season,Embu,319,60.62,29.14,296.61,11.7,Grade B,0,319,Embu Collection Center 3,Paid,7
+PR00872,B00872,F0076,P01,Maize,2026-01-11,Short Rains Harvest,Kirinyaga,907,47.75,139.87,709.47,17.7,Grade C,192,715,Kirinyaga Collection Center 3,Paid,13
+PR00873,B00873,F0023,P01,Maize,2026-03-31,Lean Season,Bungoma,1708,47.84,199.47,1677.43,12.2,Grade B,0,1708,Bungoma Collection Center 2,Delayed,29
+PR00874,B00874,F0045,P01,Maize,2025-05-01,Lean Season,Bungoma,970,53.16,108.31,957.78,15.1,Grade B,48,922,Bungoma Collection Center 1,Pending,
+PR00875,B00875,F0081,P02,Beans,2025-01-21,Short Rains Harvest,Narok,1516,119.39,157.85,988.84,13.3,Grade A,0,1516,Narok Collection Center 3,Paid,21
+PR00876,B00876,F0116,P05,Sorghum,2025-07-15,Long Rains Harvest,Makueni,671,57.91,114.14,481.34,10.6,Grade A,0,671,Makueni Collection Center 2,Paid,14
+PR00877,B00877,F0025,P01,Maize,2025-10-07,Peak Demand Season,Narok,1876,58.94,244.37,1325.31,14.6,Grade B,0,1876,Narok Collection Center 2,Paid,11
+PR00878,B00878,F0067,P06,Millet,2026-04-06,Lean Season,Kirinyaga,349,119.33,35.37,216.15,11.9,Grade A,0,349,Kirinyaga Collection Center 3,Paid,17
+PR00879,B00879,F0083,P02,Beans,2025-10-23,Peak Demand Season,Busia,807,108.46,109.34,688.08,9.6,Grade B,0,807,Busia Collection Center 2,Pending,
+PR00880,B00880,F0034,P01,Maize,2025-02-02,Short Rains Harvest,Kirinyaga,280,53.91,27.25,263.7,14.6,Grade B,0,280,Kirinyaga Collection Center 3,Paid,14
+PR00881,B00881,F0005,P04,Wheat,2025-11-27,Peak Demand Season,Nakuru,4223,55.66,465.95,4681.32,17.3,Grade C,0,4223,Nakuru Collection Center 1,Paid,20
+PR00882,B00882,F0046,P01,Maize,2025-11-10,Peak Demand Season,Makueni,517,46.83,75.63,530.67,9.1,Grade B,0,517,Makueni Collection Center 3,Paid,7
+PR00883,B00883,F0107,P02,Beans,2025-09-07,Long Rains Harvest,Embu,492,96.69,59.21,362.37,13.7,Grade B,0,492,Embu Collection Center 3,Pending,
+PR00884,B00884,F0055,P01,Maize,2025-10-03,Peak Demand Season,Trans Nzoia,357,60.13,33.64,185.64,16.3,Grade C,0,357,Trans Nzoia Collection Center 3,Delayed,43
+PR00885,B00885,F0073,P01,Maize,2025-05-23,Lean Season,Machakos,414,49.37,80.24,485.18,14.4,Grade B,0,414,Machakos Collection Center 2,Pending,
+PR00886,B00886,F0059,P02,Beans,2025-01-01,Short Rains Harvest,Machakos,1303,115.28,130.48,808.44,12.2,Grade A,0,1303,Machakos Collection Center 3,Paid,13
+PR00887,B00887,F0088,P01,Maize,2026-01-19,Short Rains Harvest,Makueni,583,39.98,71.75,332.27,11.0,Grade A,0,583,Makueni Collection Center 2,Paid,14
+PR00888,B00888,F0091,P07,Green Grams,2025-09-06,Long Rains Harvest,Nyeri,974,137.08,126.67,574.61,12.9,Grade A,0,974,Nyeri Collection Center 3,Delayed,35
+PR00889,B00889,F0055,P06,Millet,2026-02-08,Short Rains Harvest,Trans Nzoia,343,92.24,31.88,332.34,15.5,Grade A,0,343,Trans Nzoia Collection Center 1,Paid,11
+PR00890,B00890,F0044,P02,Beans,2026-05-29,Lean Season,Narok,507,143.28,88.19,520.27,13.2,Grade B,0,507,Narok Collection Center 1,Paid,13
+PR00891,B00891,F0012,P02,Beans,2025-12-14,Peak Demand Season,Narok,563,115.88,74.7,340.91,11.0,Grade B,0,563,Narok Collection Center 2,Paid,6
+PR00892,B00892,F0051,P01,Maize,2026-06-14,Lean Season,Makueni,843,61.99,102.89,470.27,16.8,Grade B,0,843,Makueni Collection Center 1,Pending,
+PR00893,B00893,F0017,P01,Maize,2026-06-04,Lean Season,Nakuru,675,53.92,100.38,567.2,15.7,Grade B,0,675,Nakuru Collection Center 2,Paid,14
+PR00894,B00894,F0015,P06,Millet,2026-04-07,Lean Season,Bungoma,779,107.59,100.68,777.77,13.0,Grade C,0,779,Bungoma Collection Center 2,Paid,5
+PR00895,B00895,F0050,P04,Wheat,2025-03-23,Lean Season,Machakos,954,53.2,128.55,1100.84,11.3,Grade A,0,954,Machakos Collection Center 2,Pending,
+PR00896,B00896,F0060,P02,Beans,2025-10-16,Peak Demand Season,Kisumu,1207,101.42,176.55,992.37,11.3,Grade A,0,1207,Kisumu Collection Center 3,Paid,13
+PR00897,B00897,F0105,P01,Maize,2025-01-25,Short Rains Harvest,Kakamega,428,48.15,46.44,320.92,8.8,Grade A,0,428,Kakamega Collection Center 2,Paid,17
+PR00898,B00898,F0069,P06,Millet,2026-02-10,Short Rains Harvest,Meru,150,83.56,16.11,84.93,9.9,Grade B,0,150,Meru Collection Center 2,Paid,11
+PR00899,B00899,F0032,P05,Sorghum,2026-04-15,Lean Season,Nakuru,1400,54.67,180.93,737.52,12.2,Grade B,0,1400,Nakuru Collection Center 3,Paid,12
+PR00900,B00900,F0011,P09,Barley,2025-12-12,Peak Demand Season,Kirinyaga,342,55.94,43.36,272.15,10.0,Grade C,0,342,Kirinyaga Collection Center 1,Paid,16
