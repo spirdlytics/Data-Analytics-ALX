@@ -1,0 +1,1 @@
+Helped me build the structured reasoning and analytical mindset that gives you a permanent edge over other candidates in any data role.
